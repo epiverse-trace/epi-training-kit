@@ -1,6 +1,11 @@
 > # `e-Epi-training kit`
 >
-> ### **Kit de entrenamiento en Ciencia de datos en Salud Pública con perspectiva de género**
+> ### **Estretegia de entrenamiento en Ciencia de datos en Salud Pública con perspectiva de género**
+
+Proyecto liderado por la Universidad Javeriana, Bogotá en el marco del
+proyecto **Epiverse-TRACE-LAC** con el apoyo de la Universidad de los
+Andes en Colombia, Data.org y el London School of Hygiene and Tropical
+Medicine en Reino Unido. Proyecto patrocinado por el IDRC de Canadá.
 
 ## **Motivación**
 
@@ -46,10 +51,10 @@ Para la construcción de la estrategia de entrenamiento e-learning se
 tienen contempladas unidades cortas de aprendizaje agrupadas en cuatro
 módulos principales:
 
-<table style="width:99%;">
+<table style="width:94%;">
 <colgroup>
-<col style="width: 9%" />
-<col style="width: 88%" />
+<col style="width: 19%" />
+<col style="width: 75%" />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -73,7 +78,10 @@ módulos principales:
 
 Cada uno de estos módulos cuenta con varias unidades. Cada unidad tiene
 un promedio de duración de trabajo entre 3-5 horas por parte del
-estudiante, dependiendo de la ruta de ingreso y conocimientos previos.
+estudiante, dependiendo de la ruta de ingreso y conocimientos previos
+(ver figura 1)
+
+<img src="img/unidades.png" width="744" />
 
 ## Fases del epi-training kit
 
