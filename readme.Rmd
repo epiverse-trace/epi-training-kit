@@ -12,9 +12,9 @@ editor_options:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# **Kit de entrenamiento en Ciencia de datos en Salud Pública**
-
 > # `e-Epi-training kit`
+>
+> ### **Kit de entrenamiento en Ciencia de datos en Salud Pública**
 
 ## **Motivación**
 
