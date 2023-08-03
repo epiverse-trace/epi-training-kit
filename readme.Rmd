@@ -88,7 +88,7 @@ Se plantearon cuatro fases para el análisis de necesidades, el diseño de
 materiales y contenidos, la producción de recursos educativos y el
 testeo de unidades para la implementación y evaluación.
 
-#### **Fase 1. Exploratoria**
+### **Fase 1. Exploratoria**
 
 Esta fase tuvo lugar entre Agosto de 2022 a Marzo de 2023. Comprendió el
 análisis de necesidades y desafíos de la posible comunidad de usuarios a
@@ -97,7 +97,7 @@ de fácil acceso geográfico en Colombia. Durante esta fase se testó el
 contenido teótico-práctico de varias unidades en forma presencial. Esta
 fase incluyó trabajo de campo en ciudades como Bogotá, Manizales y Cali.
 
-#### **Fase 2. Diseño y desarrollo**
+### **Fase 2. Diseño y desarrollo**
 
 Durante esta fase, que incluye de marzo a noviembre de 2023, se
 desarrolla el contenido teórico-práctico en formato online. Esto inlcuye
@@ -108,7 +108,7 @@ Asimismo, en esta fase se llevan a cabo testeos de materiales y
 contenidos en persona en zonas con menor accesibilidad, tales como
 Quibdó. Además de testeo con estudiantes de pregrado en Bucaramanga.
 
-#### **Fase 3. Piloto**
+### **Fase 3. Piloto**
 
 En la fase piloto se realizará el testeo de las primeras unidades
 online. Esta tendrá lugar entre noviembre de 2022 y mayo de 2023. Esta
@@ -119,7 +119,7 @@ online, enganche, estilo, entre otros. Para el piloto de la estrategia
 e-learning se contempla el desarrollo y aplicación de un protocolo de
 usabilidad e incorporación de grupos focales.
 
-#### **Fase 4. Implementación y evaluación**
+### **Fase 4. Implementación y evaluación**
 
 Finalmente, en esta fase se implementará se pondrá a disposición el
 producto final de manera abierta y gratuita a personas en Latinoamérica
@@ -129,7 +129,7 @@ entrenamientos presenciales.
 Durante esta fase se realizará evaluación de las características de esta
 primera versión del e-epi-training kit.
 
-#### Perspectiva de género
+## Perspectiva de género
 
 A lo largo de estas fases, la incorporación de la perspectiva de género
 se ha planteado mediante: 1) Preguntar explícitamente aspectos
@@ -139,7 +139,7 @@ participación de mujeres en el diseño y todas las fases del desarrollo,
 4) Retroalimentar el diseño de acuerdo a los resultados preliminares
 encontrados.
 
-#### Resultados preliminares
+## Resultados preliminares
 
 Entre agosto de 2022 y julio de 2023 se han realizado seis
 entrenamientos y testeos de materiales en terreno que han incluido el
@@ -159,3 +159,11 @@ implementación de una guía para la transversalidad del enfoque de género
 en estrategias e-learning en ciencia de datos y salud pública, y el
 diseño de una propuesta de unidad sobre "Datos con perspectiva de género
 en salud pública".
+
+## Contacto
+
+-   trace\@javeriana.edu.co
+
+-   zulma.cucunuba\@javeriana.edu.co
+
+-   gomezblaura\@javeriana.edu.co
