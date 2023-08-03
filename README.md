@@ -166,13 +166,10 @@ en salud pública”.
 
 ## Contacto
 
--   [**Zulma M. Cucunubá.**](https://github.com/zmcucunuba)
-    Investigadora Principal
-    [zulma.cucunuba@javeriana.edu.co](zulma.cucunuba@javeriana.edu.co)
+-   [**Zulma M. Cucunubá**](https://github.com/zmcucunuba)**.**
+    Investigadora Principal `(zulma.cucunuba@javeriana.edu.co)`
 
 -   [**Laura Gómez-Bermeo**](https://github.com/lgbermeo)**.**
-    Coordinadora de entrenamiento
-    [zulma.cucunuba@javeriana.edu.co](zulma.cucunuba@javeriana.edu.co)
+    Coordinadora de entrenamiento `(gomezblaura@javeriana.edu.co)`
 
--   **Proyecto TRACE-LAC**
-    [trace@javeriana.edu.co](trace@javeriana.edu.co)
+-   **Proyecto TRACE-LAC** trace@javeriana.edu.co
