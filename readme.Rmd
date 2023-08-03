@@ -12,10 +12,9 @@ editor_options:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# e-Epi-training kit
+# **Kit de entrenamiento en Ciencia de datos en Salud Pública**
 
-Palabras clave: e-learning, perspectiva de género, salud pública,
-epidemias
+> # `e-Epi-training kit`
 
 ## **Motivación**
 
@@ -35,7 +34,7 @@ Esta estrategia tiene como objetivo no solo aumentar el entrenamiento en
 analítica de datos en salud pública promoviendo a la vez la equidad de
 género.
 
-**Introducción**
+## **Antecedentes**
 
 La baja representación de las mujeres en áreas STEM es una preocupación
 persistente que requiere de acciones concretas para promover la equidad
@@ -50,6 +49,8 @@ está construyendo una estrategia e-learning abierta, gratuita y en
 español para el entrenamiento en análisis y respuesta a epidemias en
 Latinoamérica y el Caribe.
 
+## **Contenidos**
+
 Esta estrategia incluye la generación de diversos tipos de contenido
 (videos, podcasts, textos e imágenes), la integración de un enfoque de
 género, y la promoción del uso de R para abordar los desafíos en la toma
@@ -59,14 +60,14 @@ Para la construcción de la estrategia de entrenamiento e-learning se
 tienen contempladas unidades cortas de aprendizaje agrupadas en cuatro
 módulos principales:
 
-1.  Ciencia de datos y Salud pública
-2.  Teoría Epidémica
-3.  Respuesta a brotes
-4.  Modelamiento y analítica avanzada
+1.  Módulo de Ciencia de datos y Salud pública
+2.  Módulo de Teoría Epidémica y Epidemiológica
+3.  Módulo de Respuesta a brotes
+4.  Módulo de Modelamiento y analítica avanzada
 
-Cada uno de estos módulos cuenta con varias unidades, cada una de ellas
-con un promedio de duración de trabajo entre 3-5 horas, dependiendo del
-estudiante.
+Cada uno de estos módulos cuenta con varias unidades. Cada unidad tiene
+un promedio de duración de trabajo entre 3-5 horas por parte del
+estudiante, dependiendo de la ruta de ingreso y conocimientos previos.
 
 ## Fases del epi-training kit
 
@@ -74,17 +75,23 @@ Se plantearon cuatro fases para el análisis de necesidades, el diseño de
 materiales y contenidos, la producción de recursos educativos y el
 testeo de unidades para la implementación y evaluación.
 
-#### **Fase exploratoria**
+#### **Fase 1. Exploratoria**
 
-Se dió inicio al análisis de necesidades y desafíos de la posible
-comunidad de usuarios a través de entrenamientos presenciales en zonas
-de fácil acceso geográfico en Colombia. Asimismo, en la fase de diseño y
-desarrollo se llevaron a cabo entrenamientos en zonas con menor
-accesibilidad y la producción de contenido de material e-learning. En la
-fase piloto se realizará el testeo de las primeras unidades ampliando la
-participación de otros países en Latinoamérica. Finalmente, en la fase
-de implementación y evaluación se pondrá a disposición el producto final
-de manera abierta y gratuita a personas en Latinoamérica y el Caribe.
+Esta fase tuvo lugar entre Agosto y Diciembre de 2022. Comprendió el
+análisis de necesidades y desafíos de la posible comunidad de usuarios a
+través de entrevistas, encuestas y entrenamientos presenciales en zonas
+de fácil acceso geográfico en Colombia. Esta fase incluyó trabajo de
+campo en ciudades como Bogotá, Manizales y Cali.
+
+#### **Fase 2. Diseño y desarrollo**
+
+Asimismo, en la fase de diseño y desarrollo se llevaron a cabo
+entrenamientos en zonas con menor accesibilidad y la producción de
+contenido de material e-learning. En la fase piloto se realizará el
+testeo de las primeras unidades ampliando la participación de otros
+países en Latinoamérica. Finalmente, en la fase de implementación y
+evaluación se pondrá a disposición el producto final de manera abierta y
+gratuita a personas en Latinoamérica y el Caribe.
 
 Durante el desarrollo de las primeras fases se hizo uso de metodologías
 de observación en terreno, mentimeter y nubes de palabras, cuestionarios
