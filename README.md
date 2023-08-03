@@ -1,6 +1,6 @@
 > # `e-Epi-training kit`
 >
-> ### **Kit de entrenamiento en Ciencia de datos en Salud Pública**
+> ### **Kit de entrenamiento en Ciencia de datos en Salud Pública con perspectiva de género**
 
 ## **Motivación**
 
@@ -30,12 +30,12 @@ autores de paquetes son mujeres. Promover la construcción de equidad de
 género en ciencia de datos para salud pública es fundamental para
 garantizar una representación diversa, perspectivas enriquecedoras y
 estrategias más efectivas en emergencias sanitarias. Por esta razón,
-desde el proyecto Epiverse TRACE-LAC iniciado a mediados de 2022, se
-está construyendo una estrategia e-learning abierta, gratuita y en
-español para el entrenamiento en análisis y respuesta a epidemias en
+desde el proyecto *Epiverse TRACE-LAC* iniciado a mediados de 2022, se
+está construyendo una estrategia e-learning abierta, gratuita y <u>en
+español</u> para el entrenamiento en análisis y respuesta a epidemias en
 Latinoamérica y el Caribe.
 
-## **Contenidos**
+## **¿Contenidos**
 
 Esta estrategia incluye la generación de diversos tipos de contenido
 (videos, podcasts, textos e imágenes), la integración de un enfoque de
@@ -83,29 +83,46 @@ testeo de unidades para la implementación y evaluación.
 
 #### **Fase 1. Exploratoria**
 
-Esta fase tuvo lugar entre Agosto y Diciembre de 2022. Comprendió el
+Esta fase tuvo lugar entre Agosto de 2022 a Marzo de 2023. Comprendió el
 análisis de necesidades y desafíos de la posible comunidad de usuarios a
 través de entrevistas, encuestas y entrenamientos presenciales en zonas
-de fácil acceso geográfico en Colombia. Esta fase incluyó trabajo de
-campo en ciudades como Bogotá, Manizales y Cali.
+de fácil acceso geográfico en Colombia. Durante esta fase se testó el
+contenido teótico-práctico de varias unidades en forma presencial. Esta
+fase incluyó trabajo de campo en ciudades como Bogotá, Manizales y Cali.
 
 #### **Fase 2. Diseño y desarrollo**
 
-Asimismo, en la fase de diseño y desarrollo se llevaron a cabo
-entrenamientos en zonas con menor accesibilidad y la producción de
-contenido de material e-learning. En la fase piloto se realizará el
-testeo de las primeras unidades ampliando la participación de otros
-países en Latinoamérica. Finalmente, en la fase de implementación y
-evaluación se pondrá a disposición el producto final de manera abierta y
-gratuita a personas en Latinoamérica y el Caribe.
+Durante esta fase, que incluye de marzo a noviembre de 2023, se
+desarrolla el contenido teórico-práctico en formato online. Esto inlcuye
+diseño y desarrollo de materiales como infografías, videos, podcast y
+otros.
 
-Durante el desarrollo de las primeras fases se hizo uso de metodologías
-de observación en terreno, mentimeter y nubes de palabras, cuestionarios
-de caracterización de la población objetivo y encuestas de evaluación
-sobre el contenido, material y metodología de los entrenamientos. Para
-el piloto de la estrategia e-learning se contempla el desarrollo y
-aplicación de un protocolo de usabilidad e incorporación de grupos
-focales.
+Asimismo, en esta fase se llevan a cabo testeos de materiales y
+contenidos en persona en zonas con menor accesibilidad, tales como
+Quibdó. Además de testeo con estudiantes de pregrado en Bucaramanga.
+
+#### **Fase 3. Piloto**
+
+En la fase piloto se realizará el testeo de las primeras unidades
+online. Esta tendrá lugar entre noviembre de 2022 y mayo de 2023. Esta
+contemplará testeos tanto en Colombia como con potenciales usuarios de
+otros países en Latinoamérica. Este piloto inlcuye aspectos como
+medición de características de materiales de entrenamiento, despliegue
+online, enganche, estilo, entre otros. Para el piloto de la estrategia
+e-learning se contempla el desarrollo y aplicación de un protocolo de
+usabilidad e incorporación de grupos focales.
+
+#### **Fase 4. Implementación y evaluación**
+
+Finalmente, en esta fase se implementará se pondrá a disposición el
+producto final de manera abierta y gratuita a personas en Latinoamérica
+y el Caribe. En elagunos casos podrá acompañar o complementar
+entrenamientos presenciales.
+
+Durante esta fase se realizará evaluación de las características de esta
+primera versión del e-epi-training kit.
+
+#### Perspectiva de género
 
 A lo largo de estas fases, la incorporación de la perspectiva de género
 se ha planteado mediante: 1) Preguntar explícitamente aspectos
@@ -115,25 +132,23 @@ participación de mujeres en el diseño y todas las fases del desarrollo,
 4) Retroalimentar el diseño de acuerdo a los resultados preliminares
 encontrados.
 
-Resultados preliminares Entre 2022 y 2023 se han realizado cinco
-entrenamientos en terreno que han incluido el uso de R. Más de 200
-estudiantes y profesionales de las áreas STEM y salud han participado en
-diferentes regiones de Colombia. Dentro de estos espacios se ha
-promovido la formación de mujeres, con una participación de más del 60%.
-A través de estos entrenamientos y de la revisión de literatura, se han
-identificado elementos que resultan ser diferenciales en cuanto al
-género para el aprendizaje de R y ciencia de datos para salud pública.
+#### Resultados preliminares
+
+Entre agosto de 2022 y julio de 2023 se han realizado seis
+entrenamientos y testeos de materiales en terreno que han incluido el
+uso de R. Más de 230 estudiantes y profesionales de las áreas STEM y
+salud han participado en diferentes regiones de Colombia.
+
+Dentro de estos espacios se ha promovido la formación de mujeres, con
+una participación de más del 70%. A través de estos entrenamientos y de
+la revisión de literatura, se han identificado elementos que resultan
+ser diferenciales en cuanto al género para el aprendizaje de R y ciencia
+de datos para salud pública.
+
 En el testeo de contenidos para la estrategia e-learning se han
 identificado sesgos de género y la afectación de estos en el logro de
 los objetivos de aprendizaje. Esto ha llevado a la elaboración e
 implementación de una guía para la transversalidad del enfoque de género
 en estrategias e-learning en ciencia de datos y salud pública, y el
 diseño de una propuesta de unidad sobre “Datos con perspectiva de género
-en salud pública”. Se ha constatado que quienes más tienen visibilidad y
-formación en programación en R y ciencia de datos para la salud son
-hombres, por lo cual se están generando nuevas estrategias para
-garantizar el acceso de mujeres a los entrenamientos, pilotos y la
-estrategia e-learning. Se ha evidenciado que los roles marcados de
-género, para las carreras de enfermería y medicina, afectan las
-expectativas y los procesos de formación en ciencia de datos para el
-análisis y respuesta a epidemias.
+en salud pública”.
