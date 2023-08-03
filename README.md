@@ -1,6 +1,6 @@
-# **Kit de entrenamiento en Ciencia de datos en Salud Pública**
-
 > # `e-Epi-training kit`
+>
+> ### **Kit de entrenamiento en Ciencia de datos en Salud Pública**
 
 ## **Motivación**
 
@@ -46,10 +46,30 @@ Para la construcción de la estrategia de entrenamiento e-learning se
 tienen contempladas unidades cortas de aprendizaje agrupadas en cuatro
 módulos principales:
 
-1.  Módulo de Ciencia de datos y Salud pública
-2.  Módulo de Teoría Epidémica y Epidemiológica
-3.  Módulo de Respuesta a brotes
-4.  Módulo de Modelamiento y analítica avanzada
+<table style="width:99%;">
+<colgroup>
+<col style="width: 9%" />
+<col style="width: 88%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><div class="line-block">1</div></td>
+<td>Módulo de Ciencia de datos y Salud pública</td>
+</tr>
+<tr class="even">
+<td><div class="line-block">2</div></td>
+<td>Módulo de Teoría Epidémica y Epidemiológica</td>
+</tr>
+<tr class="odd">
+<td><div class="line-block">3</div></td>
+<td>Módulo de Respuesta a brotes</td>
+</tr>
+<tr class="even">
+<td><div class="line-block">4</div></td>
+<td>Módulo de Modelamiento y analítica avanzada</td>
+</tr>
+</tbody>
+</table>
 
 Cada uno de estos módulos cuenta con varias unidades. Cada unidad tiene
 un promedio de duración de trabajo entre 3-5 horas por parte del

@@ -60,10 +60,15 @@ Para la construcción de la estrategia de entrenamiento e-learning se
 tienen contempladas unidades cortas de aprendizaje agrupadas en cuatro
 módulos principales:
 
-1.  Módulo de Ciencia de datos y Salud pública
-2.  Módulo de Teoría Epidémica y Epidemiológica
-3.  Módulo de Respuesta a brotes
-4.  Módulo de Modelamiento y analítica avanzada
++------+---------------------------------------------------------------+
+| | 1  | Módulo de Ciencia de datos y Salud pública                    |
++------+---------------------------------------------------------------+
+| | 2  | Módulo de Teoría Epidémica y Epidemiológica                   |
++------+---------------------------------------------------------------+
+| | 3  | Módulo de Respuesta a brotes                                  |
++------+---------------------------------------------------------------+
+| | 4  | Módulo de Modelamiento y analítica avanzada                   |
++------+---------------------------------------------------------------+
 
 Cada uno de estos módulos cuenta con varias unidades. Cada unidad tiene
 un promedio de duración de trabajo entre 3-5 horas por parte del
