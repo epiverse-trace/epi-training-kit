@@ -1,3 +1,17 @@
+---
+title: "Materiales testados para Epitraining"
+author: "Zulma M. Cucunubá"
+date: "2023-08-02"
+output: md_document
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
 # e-Epi-training kit
 
 Palabras clave: e-learning, perspectiva de género, salud pública,
@@ -101,8 +115,8 @@ identificado sesgos de género y la afectación de estos en el logro de
 los objetivos de aprendizaje. Esto ha llevado a la elaboración e
 implementación de una guía para la transversalidad del enfoque de género
 en estrategias e-learning en ciencia de datos y salud pública, y el
-diseño de una propuesta de unidad sobre “Datos con perspectiva de género
-en salud pública”. Se ha constatado que quienes más tienen visibilidad y
+diseño de una propuesta de unidad sobre "Datos con perspectiva de género
+en salud pública". Se ha constatado que quienes más tienen visibilidad y
 formación en programación en R y ciencia de datos para la salud son
 hombres, por lo cual se están generando nuevas estrategias para
 garantizar el acceso de mujeres a los entrenamientos, pilotos y la
