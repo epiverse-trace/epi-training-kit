@@ -43,7 +43,7 @@ está construyendo una estrategia e-learning abierta, gratuita y <u>en
 español</u> para el entrenamiento en análisis y respuesta a epidemias en
 Latinoamérica y el Caribe.
 
-## **¿Contenidos**
+## **Contenidos**
 
 Esta estrategia incluye la generación de diversos tipos de contenido
 (videos, podcasts, textos e imágenes), la integración de un enfoque de
