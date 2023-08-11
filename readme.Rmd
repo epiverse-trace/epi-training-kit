@@ -28,7 +28,7 @@ el IDRC de Canadá.
 
 La formación en ciencia de datos ha adquirido una relevancia creciente
 en el apoyo al manejo y respuesta de emergencias de salud pública, como
-las epidemias y pandemias. Sin embargo, en Latinoamérica existe una
+las epidemias y pandemias. Sin embargo, en Latinoamérica aún hay ausencia de material educativo en español adaptado al contexto de Latinoamérica y el Caribe de acceso libre y gratuito para el aprendizaje de análisis, modelamiento y respuesta a brotes y epidemias. Además, a pesar de los esfuerzos de los últimos años para reducir la brecha de género en las áreas STEM (ciencias, tecnología, ingeniería y matemáticas por sus siglas en inglés) y la ciencia de datos específicamente, persisten existe una
 brecha significativa en la participación y representación de mujeres en
 este campo, lo cual limita el potencial de desarrollo y avance en la
 salud pública a nivel regional. Este proyecto promueve la implementación
@@ -38,9 +38,7 @@ promoviendo transversalmente la equidad de género.
 
 ## **Objetivo**
 
-Esta estrategia tiene como objetivo no solo aumentar el entrenamiento en
-analítica de datos en salud pública promoviendo a la vez la equidad de
-género.
+Esta estrategia busca cerrar brechas en cuanto al acceso a materiales educativos y oportunidades de aprendizaje de calidad en análisis, modelamiento y respuesta a brotes y epidemias en América Latina y el Caribe, promoviendo el libre acceso y la equidad de género.
 
 ## **Antecedentes**
 
