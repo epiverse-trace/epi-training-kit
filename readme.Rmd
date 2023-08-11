@@ -26,15 +26,7 @@ el IDRC de Canadá.
 
 ## **Motivación**
 
-La formación en ciencia de datos ha adquirido una relevancia creciente
-en el apoyo al manejo y respuesta de emergencias de salud pública, como
-las epidemias y pandemias. Sin embargo, en Latinoamérica aún hay ausencia de material educativo en español adaptado al contexto de Latinoamérica y el Caribe de acceso libre y gratuito para el aprendizaje de análisis, modelamiento y respuesta a brotes y epidemias. Además, a pesar de los esfuerzos de los últimos años para reducir la brecha de género en las áreas STEM (ciencias, tecnología, ingeniería y matemáticas por sus siglas en inglés) y la ciencia de datos específicamente, persisten existe una
-brecha significativa en la participación y representación de mujeres en
-este campo, lo cual limita el potencial de desarrollo y avance en la
-salud pública a nivel regional. Este proyecto promueve la implementación
-de estrategias educativas innovadoras y e-learning que desafían las
-barreras sociales, económicas y de acceso a educación de calidad
-promoviendo transversalmente la equidad de género.
+La formación en ciencia de datos ha adquirido una relevancia creciente en el apoyo al manejo y respuesta de emergencias de salud pública, como las epidemias y pandemias. Sin embargo, en Latinoamérica aún hay ausencia de material educativo en español adaptado al contexto de Latinoamérica y el Caribe de acceso libre y gratuito para el aprendizaje de análisis, modelamiento y respuesta a brotes y epidemias. Además, a pesar de los esfuerzos de los últimos años para reducir la brecha de género en las áreas STEM (ciencias, tecnología, ingeniería y matemáticas por sus siglas en inglés) y la ciencia de datos específicamente, persisten existe una brecha significativa en la participación y representación de mujeres en este campo, lo cual limita el potencial de desarrollo y avance en la salud pública a nivel regional. Este proyecto promueve la implementación de estrategias educativas innovadoras y e-learning que desafían las barreras sociales, económicas y de acceso a educación de calidad promoviendo transversalmente la equidad de género.
 
 ## **Objetivo**
 
@@ -42,29 +34,18 @@ Esta estrategia busca cerrar brechas en cuanto al acceso a materiales educativos
 
 ## **Antecedentes**
 
-La baja representación de las mujeres en áreas STEM es una preocupación
-persistente que requiere de acciones concretas para promover la equidad
-de género. En ciencia de datos la participación de mujeres en
-comunidades como la de R en 2017 era del 17% y sólo un 9% del total de
-autores de paquetes son mujeres. Promover la construcción de equidad de
-género en ciencia de datos para salud pública es fundamental para
-garantizar una representación diversa, perspectivas enriquecedoras y
-estrategias más efectivas en emergencias sanitarias. Por esta razón,
-desde el proyecto *Epiverse TRACE-LAC* iniciado a mediados de 2022, se
-está construyendo una estrategia e-learning abierta, gratuita y [en
-español]{.underline} para el entrenamiento en análisis y respuesta a
-epidemias en Latinoamérica y el Caribe.
+La baja representación de las mujeres en áreas STEM es una preocupación persistente que requiere de acciones concretas para promover la equidad de género. Según la UNESCO, las mujeres representan el 35% de quienes cursan estudios universitarios en STEM en el mundo, y menos del 30% en investigación científica. Si bien, Latinoamérica y el Caribe es una de las dos regiones que se acerca a la paridad de hombres y mujeres en investigación, todavía existe una menor representación en los niveles más altos de las carreras profesionales y puestos de liderazgo. Por otra parte, en ciencia de datos específicamente, la participación de mujeres en comunidades como la de R en 2017 era del 17% y sólo un 9% del total de autores de paquetes son mujeres.
 
-## **¿Contenidos**
+Promover la construcción de equidad de género en ciencia de datos para salud pública es fundamental para garantizar una representación diversa, perspectivas enriquecedoras y estrategias más efectivas en emergencias sanitarias. Por esta razón, desde el proyecto *Epiverse TRACE-LAC* iniciado a mediados de 2022, se está construyendo una estrategia e-learning abierta, gratuita y [en español]{.underline} para el entrenamiento en análisis y respuesta a epidemias en Latinoamérica y el Caribe.
 
-Esta estrategia incluye la generación de diversos tipos de contenido
-(videos, podcasts, textos e imágenes), la integración de un enfoque de
-género, y la promoción del uso de R para abordar los desafíos en la toma
-de decisiones.
+## **Público Objetivo**
+Esta estrategia está dirigida a profesionales y estudiantes de diversos grupos en campos como el sector de la salud y las áreas STEM (ciencias, tecnología, ingenierías y matemáticas). Es por esto que esperamos que personas involucradas en el ejercicio de la salud pública, en formación en salud o áreas STEM, así como responsables de políticas públicas y personas involucradas en la toma de decisiones en salud pública, participen de la formación que esta estrategia ofrece.
 
-Para la construcción de la estrategia de entrenamiento e-learning se
-tienen contempladas unidades cortas de aprendizaje agrupadas en cuatro
-módulos principales:
+## **Contenidos**
+
+Esta estrategia incluye la generación de diversos tipos de contenido (videos, podcasts, textos e imágenes), la integración de un enfoque de género, y la promoción del uso de R para abordar los desafíos en la toma de decisiones.
+
+Para la construcción de la estrategia de entrenamiento e-learning se tienen contempladas unidades cortas de aprendizaje agrupadas en cuatro módulos principales:
 
 +--------------+--------------------------------------------------+
 | | 1          | Módulo de Ciencia de datos y Salud pública       |

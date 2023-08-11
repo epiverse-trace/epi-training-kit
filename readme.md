@@ -39,18 +39,35 @@ Caribe, promoviendo el libre acceso y la equidad de género.
 
 La baja representación de las mujeres en áreas STEM es una preocupación
 persistente que requiere de acciones concretas para promover la equidad
-de género. En ciencia de datos la participación de mujeres en
-comunidades como la de R en 2017 era del 17% y sólo un 9% del total de
-autores de paquetes son mujeres. Promover la construcción de equidad de
-género en ciencia de datos para salud pública es fundamental para
-garantizar una representación diversa, perspectivas enriquecedoras y
-estrategias más efectivas en emergencias sanitarias. Por esta razón,
-desde el proyecto *Epiverse TRACE-LAC* iniciado a mediados de 2022, se
-está construyendo una estrategia e-learning abierta, gratuita y <u>en
-español</u> para el entrenamiento en análisis y respuesta a epidemias en
-Latinoamérica y el Caribe.
+de género. Según la UNESCO, las mujeres representan el 35% de quienes
+cursan estudios universitarios en STEM en el mundo, y menos del 30% en
+investigación científica. Si bien, Latinoamérica y el Caribe es una de
+las dos regiones que se acerca a la paridad de hombres y mujeres en
+investigación, todavía existe una menor representación en los niveles
+más altos de las carreras profesionales y puestos de liderazgo. Por otra
+parte, en ciencia de datos específicamente, la participación de mujeres
+en comunidades como la de R en 2017 era del 17% y sólo un 9% del total
+de autores de paquetes son mujeres.
 
-## **¿Contenidos**
+Promover la construcción de equidad de género en ciencia de datos para
+salud pública es fundamental para garantizar una representación diversa,
+perspectivas enriquecedoras y estrategias más efectivas en emergencias
+sanitarias. Por esta razón, desde el proyecto *Epiverse TRACE-LAC*
+iniciado a mediados de 2022, se está construyendo una estrategia
+e-learning abierta, gratuita y <u>en español</u> para el entrenamiento
+en análisis y respuesta a epidemias en Latinoamérica y el Caribe.
+
+## **Público Objetivo**
+
+Esta estrategia está dirigida a profesionales y estudiantes de diversos
+grupos en campos como el sector de la salud y las áreas STEM (ciencias,
+tecnología, ingenierías y matemáticas). Es por esto que esperamos que
+personas involucradas en el ejercicio de la salud pública, en formación
+en salud o áreas STEM, así como responsables de políticas públicas y
+personas involucradas en la toma de decisiones en salud pública,
+participen de la formación que esta estrategia ofrece.
+
+## **Contenidos**
 
 Esta estrategia incluye la generación de diversos tipos de contenido
 (videos, podcasts, textos e imágenes), la integración de un enfoque de
