@@ -62,11 +62,7 @@ en análisis y respuesta a epidemias en Latinoamérica y el Caribe.
 
 Esta estrategia está dirigida a profesionales y estudiantes en campos
 como el sector de la salud y las áreas STEM (ciencias, tecnología,
-ingenierías y matemáticas). Es por esto que esperamos que personas
-involucradas en el ejercicio de la salud pública, en formación en salud
-o áreas STEM, así como responsables de políticas públicas y personas
-involucradas en la toma de decisiones en salud pública, participen de la
-formación que esta estrategia ofrece.
+ingenierías y matemáticas).
 
 ## **Contenidos**
 
@@ -87,22 +83,51 @@ módulos principales:
 <tbody>
 <tr class="odd">
 <td><div class="line-block">1</div></td>
-<td>Módulo de Ciencia de datos y Salud pública</td>
+<td>Módulo de teoría epidémica y epidemiológica</td>
 </tr>
 <tr class="even">
 <td><div class="line-block">2</div></td>
-<td>Módulo de Teoría Epidémica y Epidemiológica</td>
+<td>Módulo de ciencia de datos y salud pública</td>
 </tr>
 <tr class="odd">
 <td><div class="line-block">3</div></td>
-<td>Módulo de Respuesta a brotes</td>
+<td>Módulo de respuesta a brotes</td>
 </tr>
 <tr class="even">
 <td><div class="line-block">4</div></td>
-<td>Módulo de Modelamiento y analítica avanzada</td>
+<td>Módulo de modelamiento y analítica avanzada</td>
 </tr>
 </tbody>
 </table>
+
+*Módulo de teoría epidémica y epidemiológica*: Aborda la teoría
+epidémica como base fundamental en la comprensión y manejo de
+enfermedades infecciosas desde su historia hasta la ciencia detrás de
+ellas. Este módulo proporciona las herramientas conceptuales y
+analíticas necesarias para comprender cómo se propagan las enfermedades
+en poblaciones humanas, evaluar su impacto e informar la toma de
+decisiones informadas para su prevención y control.
+
+*Módulo de ciencia de datos en salud pública*: Abarca las diferentes
+etapas del ciclo de vida de los datos tales como la recolección,
+extracción, limpieza, análisis y visualización de datos. Este módulo se
+enfoca en la adquisición o fortalecimiento de habilidades de
+programación en el lenguaje R.
+
+*Módulo de respuesta a brotes*: Presenta los conocimientos y
+herramientas principales para identificar y gestionar de manera efectiva
+situaciones de brotes de enfermedades infecciosas. Este módulo incluye
+elementos de sistemas de vigilancia epidemiológica, investigación de
+brotes paso a paso, comunicación efectiva del riesgo, el papel de las
+actividades en campo y laboratorio para la respuesta a brotes.
+
+*Módulo de modelamiento y analítica*: Presenta conceptos teóricos,
+ejercicios prácticos y estudios de caso, para la construcción de modelos
+matemáticos de propagación de enfermedades infecciosas, exploración de
+parámetros y aplicaciones estadísticas. Este módulo permite desarrollar
+habilidades para aplicar técnicas analíticas avanzadas en la
+interpretación de datos epidemiológicos y la toma de decisiones
+informadas en situaciones de salud pública.
 
 Cada uno de estos módulos cuenta con varias unidades. Cada unidad tiene
 un promedio de duración de trabajo entre 3-5 horas por parte del
