@@ -134,7 +134,7 @@ un promedio de duración de trabajo entre 3-5 horas por parte del
 estudiante, dependiendo de la ruta de ingreso y conocimientos previos
 (ver figura 1)
 
-<img src="img/unidades.png" width="744" />
+<img src="img/unidades.png" width="744" /> Figura 1.
 
 ## Fases del epi-training kit
 
