@@ -75,27 +75,31 @@ Para la construcción de la estrategia de entrenamiento e-learning se
 tienen contempladas unidades cortas de aprendizaje agrupadas en cuatro
 módulos principales:
 
-<table style="width:92%;">
+<table style="width:93%;">
 <colgroup>
 <col style="width: 20%" />
 <col style="width: 70%" />
+<col style="width: 1%" />
 </colgroup>
 <tbody>
 <tr class="odd">
 <td><div class="line-block">1</div></td>
 <td>Módulo de teoría epidémica y epidemiológica</td>
+<td></td>
 </tr>
 <tr class="even">
 <td><div class="line-block">2</div></td>
-<td>Módulo de ciencia de datos y salud pública</td>
+<td colspan="2">Módulo de ciencia de datos en salud pública</td>
 </tr>
 <tr class="odd">
 <td><div class="line-block">3</div></td>
 <td>Módulo de respuesta a brotes</td>
+<td></td>
 </tr>
 <tr class="even">
 <td><div class="line-block">4</div></td>
 <td>Módulo de modelamiento y analítica avanzada</td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -121,20 +125,20 @@ elementos de sistemas de vigilancia epidemiológica, investigación de
 brotes paso a paso, comunicación efectiva del riesgo, el papel de las
 actividades en campo y laboratorio para la respuesta a brotes.
 
-**Módulo de modelamiento y analítica**: Presenta conceptos teóricos,
-ejercicios prácticos y estudios de caso, para la construcción de modelos
-matemáticos de propagación de enfermedades infecciosas, exploración de
-parámetros y aplicaciones estadísticas. Este módulo permite desarrollar
-habilidades para aplicar técnicas analíticas avanzadas en la
-interpretación de datos epidemiológicos y la toma de decisiones
-informadas en situaciones de salud pública.
+**Módulo de modelamiento y analítica avanzada**: Presenta conceptos
+teóricos, ejercicios prácticos y estudios de caso, para la construcción
+de modelos matemáticos de propagación de enfermedades infecciosas,
+exploración de parámetros y aplicaciones estadísticas. Este módulo
+permite desarrollar habilidades para aplicar técnicas analíticas
+avanzadas en la interpretación de datos epidemiológicos y la toma de
+decisiones informadas en situaciones de salud pública.
 
 Cada uno de estos módulos cuenta con varias unidades. Cada unidad tiene
 un promedio de duración de trabajo entre 3-5 horas por parte del
 estudiante, dependiendo de la ruta de ingreso y conocimientos previos
 (ver figura 1)
 
-<img src="img/unidades.png" width="744" />
+<img src="img/unidades.png" width="300" />
 
 ## Fases del epi-training kit
 

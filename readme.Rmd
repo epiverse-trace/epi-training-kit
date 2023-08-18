@@ -50,7 +50,7 @@ Para la construcción de la estrategia de entrenamiento e-learning se tienen con
 +--------------+--------------------------------------------------+
 | | 1          | Módulo de teoría epidémica y epidemiológica      |
 +--------------+--------------------------------------------------+
-| | 2          | Módulo de ciencia de datos y salud pública       |
+| | 2          | Módulo de ciencia de datos en salud pública       |
 +--------------+--------------------------------------------------+
 | | 3          | Módulo de respuesta a brotes                     |
 +--------------+--------------------------------------------------+
@@ -63,7 +63,7 @@ Para la construcción de la estrategia de entrenamiento e-learning se tienen con
 
 **Módulo de respuesta a brotes**: Presenta los conocimientos y herramientas principales para identificar y gestionar de manera efectiva situaciones de brotes de enfermedades infecciosas. Este módulo incluye elementos de sistemas de vigilancia epidemiológica, investigación de brotes paso a paso, comunicación efectiva del riesgo, el papel de las actividades en campo y laboratorio para la respuesta a brotes. 
 
-**Módulo de modelamiento y analítica**: Presenta conceptos teóricos, ejercicios prácticos y estudios de caso, para la construcción de modelos matemáticos de propagación de enfermedades infecciosas, exploración de parámetros y aplicaciones estadísticas. Este módulo permite desarrollar habilidades para aplicar técnicas analíticas avanzadas en la interpretación de datos epidemiológicos y la toma de decisiones informadas en situaciones de salud pública. 
+**Módulo de modelamiento y analítica avanzada**: Presenta conceptos teóricos, ejercicios prácticos y estudios de caso, para la construcción de modelos matemáticos de propagación de enfermedades infecciosas, exploración de parámetros y aplicaciones estadísticas. Este módulo permite desarrollar habilidades para aplicar técnicas analíticas avanzadas en la interpretación de datos epidemiológicos y la toma de decisiones informadas en situaciones de salud pública. 
 
 
 Cada uno de estos módulos cuenta con varias unidades. Cada unidad tiene
@@ -71,7 +71,7 @@ un promedio de duración de trabajo entre 3-5 horas por parte del
 estudiante, dependiendo de la ruta de ingreso y conocimientos previos
 (ver figura 1)
 
-![](img/unidades.png){width="744"}
+![](img/unidades.png){width="300"}
 
 
 ## Fases del epi-training kit
