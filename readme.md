@@ -14,9 +14,8 @@ el IDRC de Canadá.
 
 La formación en ciencia de datos ha adquirido una relevancia creciente
 en el apoyo al manejo y respuesta de emergencias de salud pública, como
-las epidemias y pandemias. Sin embargo, en Latinoamérica aún hay
-ausencia de acceso a material educativo en español adaptado al contexto
-de Latinoamérica y el Caribe para el aprendizaje de análisis,
+las epidemias y pandemias. Sin embargo, aún hay ausencia de acceso a
+material educativo en español para el aprendizaje de análisis,
 modelamiento y respuesta a brotes y epidemias. Además, a pesar de los
 esfuerzos de los últimos años para reducir la brecha de género en las
 áreas STEM (ciencias, tecnología, ingeniería y matemáticas por sus
@@ -42,7 +41,7 @@ La baja representación de las mujeres en áreas STEM es una preocupación
 persistente que requiere de acciones concretas para promover la equidad
 de género. Según la UNESCO, las mujeres representan el 35% de quienes
 cursan estudios universitarios en STEM en el mundo, y menos del 30% en
-investigación científica. Si bien, Latinoamérica y el Caribe es una de
+investigación científica. Si bien, América Latina y el Caribe es una de
 las dos regiones que se acerca a la paridad de hombres y mujeres en
 investigación, todavía existe una menor representación en los niveles
 más altos de las carreras profesionales y puestos de liderazgo. Por otra
@@ -50,13 +49,14 @@ parte, en ciencia de datos específicamente, la participación de mujeres
 en comunidades como la de R en 2017 era del 17% y sólo un 9% del total
 de autores de paquetes son mujeres.
 
-Promover la construcción de equidad de género en ciencia de datos para
-salud pública es fundamental para garantizar una representación diversa,
-perspectivas enriquecedoras y estrategias más efectivas en emergencias
-sanitarias. Por esta razón, desde el proyecto *Epiverse TRACE-LAC*
-iniciado a mediados de 2022, se está construyendo una estrategia
-e-learning abierta, gratuita y <u>en español</u> para el entrenamiento
-en análisis y respuesta a epidemias en Latinoamérica y el Caribe.
+Impulsar el acceso a educación de calidad y promover la construcción de
+equidad de género en ciencia de datos para salud pública es fundamental
+para garantizar una representación diversa, perspectivas enriquecedoras
+y estrategias más efectivas en emergencias sanitarias. Por esta razón,
+desde el proyecto *Epiverse TRACE-LAC* iniciado a mediados de 2022, se
+está construyendo una estrategia e-learning abierta, gratuita y <u>en
+español</u> para el entrenamiento en análisis y respuesta a epidemias en
+América Latina y el Caribe.
 
 ## **Público Objetivo**
 
@@ -174,7 +174,7 @@ Esta fase o incluye diseño y desarrollo de materiales como infografías,
 videos, podcast, entre otros. Asimismo, en esta fase se llevan a cabo
 testeos de materiales y contenidos en persona en zonas con menor
 accesibilidad, tales como Bucaramanga, en la zona norte de Colombia y en
-el pacifico colombiano en la ciudad de Quibdó (Chocó, Colombia).
+el pacífico colombiano en la ciudad de Quibdó.
 
 ### **Fase 3. Piloto**
 
@@ -191,7 +191,7 @@ presentados, la plataforma, la forma de los contenidos, entre otras.
 ### **Fase 4. Implementación y evaluación**
 
 Finalmente, en esta fase se pondrá a disposición el producto final de
-manera abierta y gratuita a personas en Latinoamérica y el Caribe. En
+manera abierta y gratuita a personas en América Latina y el Caribe. En
 algunos casos se podrá acompañar o complementar entrenamientos
 presenciales.
 
