@@ -108,20 +108,20 @@ analíticas necesarias para comprender cómo se propagan las enfermedades
 en poblaciones humanas, evaluar su impacto e informar la toma de
 decisiones informadas para su prevención y control.
 
-*Módulo de ciencia de datos en salud pública*: Abarca las diferentes
+**Módulo de ciencia de datos en salud pública**: Abarca las diferentes
 etapas del ciclo de vida de los datos tales como la recolección,
 extracción, limpieza, análisis y visualización de datos. Este módulo se
 enfoca en la adquisición o fortalecimiento de habilidades de
 programación en el lenguaje R.
 
-*Módulo de respuesta a brotes*: Presenta los conocimientos y
+**Módulo de respuesta a brotes**: Presenta los conocimientos y
 herramientas principales para identificar y gestionar de manera efectiva
 situaciones de brotes de enfermedades infecciosas. Este módulo incluye
 elementos de sistemas de vigilancia epidemiológica, investigación de
 brotes paso a paso, comunicación efectiva del riesgo, el papel de las
 actividades en campo y laboratorio para la respuesta a brotes.
 
-*Módulo de modelamiento y analítica*: Presenta conceptos teóricos,
+**Módulo de modelamiento y analítica**: Presenta conceptos teóricos,
 ejercicios prácticos y estudios de caso, para la construcción de modelos
 matemáticos de propagación de enfermedades infecciosas, exploración de
 parámetros y aplicaciones estadísticas. Este módulo permite desarrollar
