@@ -1,7 +1,7 @@
 ---
 title: "Materiales testados para Epitraining"
 author: "Zulma M. Cucunubá"
-date: "2023-08-02"
+date: "2023-08-18"
 output: md_document
 editor_options: 
   markdown: 
@@ -39,7 +39,7 @@ La baja representación de las mujeres en áreas STEM es una preocupación persi
 Promover la construcción de equidad de género en ciencia de datos para salud pública es fundamental para garantizar una representación diversa, perspectivas enriquecedoras y estrategias más efectivas en emergencias sanitarias. Por esta razón, desde el proyecto *Epiverse TRACE-LAC* iniciado a mediados de 2022, se está construyendo una estrategia e-learning abierta, gratuita y [en español]{.underline} para el entrenamiento en análisis y respuesta a epidemias en Latinoamérica y el Caribe.
 
 ## **Público Objetivo**
-Esta estrategia está dirigida a profesionales y estudiantes en campos como el sector de la salud y las áreas STEM (ciencias, tecnología, ingenierías y matemáticas). Es por esto que esperamos que personas involucradas en el ejercicio de la salud pública, en formación en salud o áreas STEM, así como responsables de políticas públicas y personas involucradas en la toma de decisiones en salud pública, participen de la formación que esta estrategia ofrece.
+Esta estrategia está dirigida a profesionales y estudiantes en campos como el sector de la salud y las áreas STEM (ciencias, tecnología, ingenierías y matemáticas). 
 
 ## **Contenidos**
 
@@ -48,14 +48,23 @@ Esta estrategia incluye la generación de diversos tipos de recursos (videos, po
 Para la construcción de la estrategia de entrenamiento e-learning se tienen contempladas unidades cortas de aprendizaje agrupadas en cuatro módulos principales:
 
 +--------------+--------------------------------------------------+
-| | 1          | Módulo de Ciencia de datos y Salud pública       |
+| | 1          | Módulo de teoría epidémica y epidemiológica      |
 +--------------+--------------------------------------------------+
-| | 2          | Módulo de Teoría Epidémica y Epidemiológica      |
+| | 2          | Módulo de ciencia de datos y salud pública       |
 +--------------+--------------------------------------------------+
-| | 3          | Módulo de Respuesta a brotes                     |
+| | 3          | Módulo de respuesta a brotes                     |
 +--------------+--------------------------------------------------+
-| | 4          | Módulo de Modelamiento y analítica avanzada      |
+| | 4          | Módulo de modelamiento y analítica avanzada      |
 +--------------+--------------------------------------------------+
+
+*Módulo de teoría epidémica y epidemiológica*: Aborda la teoría epidémica como base fundamental en la comprensión y manejo de enfermedades infecciosas desde su historia hasta la ciencia detrás de ellas. Este módulo proporciona las herramientas conceptuales y analíticas necesarias para comprender cómo se propagan las enfermedades en poblaciones humanas, evaluar su impacto e informar la toma de decisiones informadas para su prevención y control. 
+
+*Módulo de ciencia de datos en salud pública*: Abarca las diferentes etapas del ciclo de vida de los datos tales como la recolección, extracción, limpieza, análisis y visualización de datos. Este módulo se enfoca en la adquisición o fortalecimiento de habilidades de programación en el lenguaje R. 
+
+*Módulo de respuesta a brotes*: Presenta los conocimientos y herramientas principales para identificar y gestionar de manera efectiva situaciones de brotes de enfermedades infecciosas. Este módulo incluye elementos de sistemas de vigilancia epidemiológica, investigación de brotes paso a paso, comunicación efectiva del riesgo, el papel de las actividades en campo y laboratorio para la respuesta a brotes. 
+
+*Módulo de modelamiento y analítica*: Presenta conceptos teóricos, ejercicios prácticos y estudios de caso, para la construcción de modelos matemáticos de propagación de enfermedades infecciosas, exploración de parámetros y aplicaciones estadísticas. Este módulo permite desarrollar habilidades para aplicar técnicas analíticas avanzadas en la interpretación de datos epidemiológicos y la toma de decisiones informadas en situaciones de salud pública. 
+
 
 Cada uno de estos módulos cuenta con varias unidades. Cada unidad tiene
 un promedio de duración de trabajo entre 3-5 horas por parte del
