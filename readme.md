@@ -100,7 +100,7 @@ módulos principales:
 </tbody>
 </table>
 
-*Módulo de teoría epidémica y epidemiológica*: Aborda la teoría
+**Módulo de teoría epidémica y epidemiológica**: Aborda la teoría
 epidémica como base fundamental en la comprensión y manejo de
 enfermedades infecciosas desde su historia hasta la ciencia detrás de
 ellas. Este módulo proporciona las herramientas conceptuales y
@@ -134,7 +134,7 @@ un promedio de duración de trabajo entre 3-5 horas por parte del
 estudiante, dependiendo de la ruta de ingreso y conocimientos previos
 (ver figura 1)
 
-<img src="img/unidades.png" width="744" /> Figura 1.
+<img src="img/unidades.png" width="744" />
 
 ## Fases del epi-training kit
 

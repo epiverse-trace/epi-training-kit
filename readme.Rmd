@@ -57,7 +57,7 @@ Para la construcción de la estrategia de entrenamiento e-learning se tienen con
 | | 4          | Módulo de modelamiento y analítica avanzada      |
 +--------------+--------------------------------------------------+
 
-*Módulo de teoría epidémica y epidemiológica*: Aborda la teoría epidémica como base fundamental en la comprensión y manejo de enfermedades infecciosas desde su historia hasta la ciencia detrás de ellas. Este módulo proporciona las herramientas conceptuales y analíticas necesarias para comprender cómo se propagan las enfermedades en poblaciones humanas, evaluar su impacto e informar la toma de decisiones informadas para su prevención y control. 
+**Módulo de teoría epidémica y epidemiológica**: Aborda la teoría epidémica como base fundamental en la comprensión y manejo de enfermedades infecciosas desde su historia hasta la ciencia detrás de ellas. Este módulo proporciona las herramientas conceptuales y analíticas necesarias para comprender cómo se propagan las enfermedades en poblaciones humanas, evaluar su impacto e informar la toma de decisiones informadas para su prevención y control. 
 
 **Módulo de ciencia de datos en salud pública**: Abarca las diferentes etapas del ciclo de vida de los datos tales como la recolección, extracción, limpieza, análisis y visualización de datos. Este módulo se enfoca en la adquisición o fortalecimiento de habilidades de programación en el lenguaje R. 
 
@@ -72,7 +72,7 @@ estudiante, dependiendo de la ruta de ingreso y conocimientos previos
 (ver figura 1)
 
 ![](img/unidades.png){width="744"}
-Figura 1. 
+
 
 ## Fases del epi-training kit
 
