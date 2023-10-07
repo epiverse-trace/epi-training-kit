@@ -1,6 +1,6 @@
 > # `e-Epi-training kit`
 >
-> ### **Estretegia de entrenamiento en Ciencia de datos en Salud Pública con perspectiva de género**
+> ### **Estrategia de entrenamiento en Ciencia de datos en Salud Pública con perspectiva de género**
 
 Proyecto liderado por la [Pontificia Universidad
 Javeriana](https://medicina.javeriana.edu.co/trace-lac) Bogotá en el
@@ -53,7 +53,7 @@ Impulsar el acceso a educación de calidad y promover la construcción de
 equidad de género en ciencia de datos para salud pública es fundamental
 para garantizar una representación diversa, perspectivas enriquecedoras
 y estrategias más efectivas en emergencias sanitarias. Por esta razón,
-desde el proyecto *Epiverse TRACE-LAC* iniciado a mediados de 2022, se
+desde el proyecto Epiverse TRACE-LAC iniciado a mediados de 2022, se
 está construyendo una estrategia e-learning abierta, gratuita y <u>en
 español</u> para el entrenamiento en análisis y respuesta a epidemias en
 América Latina y el Caribe.
@@ -75,11 +75,11 @@ Para la construcción de la estrategia de entrenamiento e-learning se
 tienen contempladas unidades cortas de aprendizaje agrupadas en cuatro
 módulos principales:
 
-<table style="width:93%;">
+<table style="width:92%;">
 <colgroup>
-<col style="width: 20%" />
-<col style="width: 70%" />
-<col style="width: 1%" />
+<col style="width: 15%" />
+<col style="width: 61%" />
+<col style="width: 15%" />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -89,7 +89,8 @@ módulos principales:
 </tr>
 <tr class="even">
 <td><div class="line-block">2</div></td>
-<td colspan="2">Módulo de ciencia de datos en salud pública</td>
+<td>Módulo de ciencia de datos en salud pública</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><div class="line-block">3</div></td>
@@ -179,7 +180,7 @@ el pacífico colombiano en la ciudad de Quibdó.
 ### **Fase 3. Piloto**
 
 En la fase piloto se realizará el testeo de las primeras unidades
-online. Esta fase tendrá lugar entre noviembre de 2022 y mayo de 2023.
+online. Esta fase tendrá lugar entre noviembre de 2023 y mayo de 2024.
 Se tienen contemplados testeos tanto en Colombia como con potenciales
 usuarios de otros países en Latinoamérica. En cuanto al piloto de la
 estrategia e-learning, se prevé la creación y ejecución de un protocolo
