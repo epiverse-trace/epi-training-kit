@@ -1,3 +1,6 @@
 url: https://trace-lac.github.io/epi-training-kit/
-
+template:
+  package: epiversetheme
+development:
+  mode: auto
 
