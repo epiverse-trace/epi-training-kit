@@ -1,0 +1,116 @@
+---
+title: "Epi-training Kit (English)"
+editor: visual
+---
+
+> # ![](./img/LogoEpiTKit.jpg){width="150"} `Epi-training kit`
+>
+> ### **Training Strategy in mathematical modelling of infectious diseases and Data Science in Public Health with a Gender Perspective**
+
+Project led by [Pontificia Universidad Javeriana](https://medicina.javeriana.edu.co/trace-lac) Bogotá within the framework [Epiverse-TRACE](https://data.org/initiatives/epiverse/) with support from Universidad de los Andes in Colombia, Data.org, and the London School of Hygiene and Tropical Medicine in the UK. Project sponsored by IDRC Canada.
+
+Last updated: May 22, 2024
+
+## **Motivation**
+
+Training in mathematical modelling of infectious diseases and data science has become increasingly important in supporting the management and response to public health emergencies, such as epidemics and pandemics. However, in Latin America, there is still a lack of freely accessible, contextually adapted educational material in Spanish for learning analysis, modelling, and response to outbreaks and epidemics. Furthermore, despite efforts in recent years to reduce the gender gap in STEM fields (science, technology, engineering, and mathematics) and data science specifically, there remains a significant gap in the participation and representation of women in this field, limiting the potential for development and advancement in regional public health. This project promotes the implementation of innovative educational strategies and virtual learning through the creation of a Massive Open Online Course (MOOC) to overcome social, economic, and access barriers to quality education, promoting gender equity.
+
+## **Objetive**
+
+This strategy aims to contribute to closing gaps in access to educational materials and quality learning opportunities in data science, analysis, modeling, and response to outbreaks and epidemics in Latin America and the Caribbean, promoting free access to quality education and gender equity.
+
+## **Target Audience**
+
+This strategy is aimed at professionals and students in health sciences as well as STEM fields (science, technology, engineering, and mathematics).
+
+## **Content**
+
+The development of this strategy includes the creation of a Massive Open Online Course (MOOC) consisting of short learning units grouped into four main modules:
+
+-   **Epidemic and Epidemiological Theory Module**: Addresses epidemic theory as a fundamental basis for understanding and managing infectious diseases from their history to the science behind them. This module provides the conceptual and analytical tools necessary to understand how diseases spread in human populations, evaluate their impact, and inform informed decision-making for their prevention and control.
+
+-   **Data science in public health Module**: Covers the various stages of the data life cycle, such as data collection, extraction, cleaning, analysis, and visualization. This module focuses on acquiring or strengthening programming skills in the R language.
+
+-   **Outbreak Response Module**: Presents the main knowledge and tools to effectively identify and manage infectious disease outbreak situations. This module includes elements of epidemiological surveillance systems, step-by-step outbreak investigations, effective risk communication, and the role of field and laboratory activities in outbreak response..
+
+-   **Modeling and Analytics Module**: Presents theoretical concepts, practical exercises, and case studies for constructing mathematical models of infectious disease spread, exploring parameters, and statistical applications. This module allows the development of skills to apply advanced analytical techniques in interpreting epidemiological data and making informed decisions in public health situations.
+
+Each of these modules includes several units. Each unit requires an average of 3-5 hours of autonomous work from the student, depending on their interests, profile, and experience (see Figure 1).
+
+<center>
+
+![Figure 1.Modules and Units of the Epi-training Kit](./img/Modules.jpg){width="800"}
+
+</center>
+
+## **Work Phases**
+
+The construction of this strategy was divided into four phases:
+
+## **Exploratory Phase**
+
+This phase took place from August 2022 to July 2023 and included analyzing the needs and challenges of the potential user community through in-person training sessions held in various cities across Colombia. During this phase, materials were created to test content and activities with different groups in five training sessions, which brought together **nearly 400 participants in five Colombian cities**: Bogotá (the capital), Bucaramanga (center-north), Cali (southwest), Manizales (center), and Quibdó (Pacific region). In total, there were **14 days and over 170 hours of in-person training**. A notable achievement of this phase was the participation of women, which exceeded 70%.
+
+This exploratory phase allowed for testing content and activities, as well as identifying the needs and expectations of the user community through training sessions in major cities and intermediate cities with more difficult access and limited resources. These training sessions helped to adjust and refine the educational materials, ensuring their effectiveness and relevance for various contexts and needs.
+
+These theoretical and practical training sessions included **keynote lectures, practical exercises in the R programming language, and practical workshops applied to public health**. In this way, the training sessions combined the acquisition of theoretical knowledge with its practical application, allowing for an understanding of the presented concepts, as well as the necessary skills to apply this knowledge in real situations and public health challenges.
+
+## **Design and Development Phase**
+
+During this phase, carried out between March and November 2023, the initial units of the virtual course were developed. This phase included content creation and instructional design of the initial units. The instructional design process incorporated the needs and lessons observed in the Exploratory Phase to generate a more efficient, active, and engaging learning experience. Finally, this phase included the production of educational resources such as infographics, videos, podcasts, among others.
+
+**In total, we created 57 educational resources**: 17 videos, including diagrammed videos, interviews with specialists, tutorials, and explanatory videos. Additionally, we created 10 animated diagrams, 15 interactive presentations, 2 infographics, 2 documents, 3 forums, 1 podcast, 3 R exercises, and 4 R challenges.
+
+Furthermore, since the course adopts a comprehensive gender perspective in STEM and data science, it features the **use of inclusive language, balanced representation in images and voices, and a carefully developed graphic line to avoid the reproduction of stereotypes**. Additionally, the course highlights the contributions of historical figures of various genders, with the aim of inspiring students and fostering a more inclusive and equitable environment in these fields.
+
+<center>
+
+![Figure 2. Course Cover on the edX Platform](./img/portada.jpg){width="800"}
+
+</center>
+
+## **Pilot Phase**
+
+During this phase, the pilot of the initial units of the [**'Course in Data Science for Public Health and Infectious Disease Modeling'**](https://www.youtube.com/watch?v=hjIA6R-eC54) was conducted on the open online course platform, based on open-source software, edX Edge. This phase took place between November and December 2023. A total of **223 people from 16 countries in Latin America and the Caribbean participated**, 57% of whom successfully completed the course. This pilot allowed for the evaluation of the content, educational resources, learning experience, learning objectives, and interaction with the platform.
+
+::: {.flourish-embed data-src="story/2292553"}
+```{=html}
+<script src="https://public.flourish.studio/resources/embed.js"></script>
+```
+:::
+
+-   **6 out of 10** participants identified as **women**, reflecting a balanced gender representation.
+-   The group included participants from STEM and health fields, with varying levels of education.
+-   More than **half of the participants had a master's degree**. However, there were also participants with undergraduate and doctoral degrees.
+-   **Most participants were between 25 and 45 years old**, with a concentration between 32 and 38 years.
+-   For the evaluation, i) a **satisfaction survey** with open and closed questions for each unit was designed, receiving 630 responses. ii) an **experience survey** at the end of the course had a response rate of 70%. iii) Three **focus groups** were held in person with a total of 20 individuals from Colombia, Latin America, and the Caribbean.
+
+## **Implementation and Evaluation Phase**
+
+In this phase, an initial implementation and evaluation will take place between October and December 2024 with a group of 500 to 1000 people in Latin America and the Caribbean. For this implementation, adjustments from the pilot will be made, and new units will be produced. Additionally, an evaluation of the course and the results of the participants will be conducted.
+
+## **Gender Perspective**
+
+Throughout these phases, the incorporation of a gender perspective has been addressed by: **1)** Explicitly asking potential users about gender-related aspects; **2)** Making visible the gender gap present in STEM areas and data science; **3)** Identifying learning barriers associated with gender; **4)** Promoting the participation of women in the design and all phases of development; **5)** Providing feedback to the design according to preliminary findings; **6)** Incorporating a gender perspective in the design and development of the course by using inclusive language and a balanced graphic approach that avoids the reproduction of gender stereotypes.
+
+## **Preliminary Results**
+
+-   During the Exploratory Phase from 2022 to 2023, five in-field training sessions were conducted with around 400 participants from STEM and health fields in various regions of Colombia.
+
+-   In November 2023, the first pilot of the massive open online course titled 'Course in Data Science in Public Health and Infectious Disease Modeling' was conducted on the open-source online learning platform edX Edge, with over 200 participants from 16 different countries in Latin America and the Caribbean.
+
+-   The coding of qualitative data from the pilot resulted in several key findings, including the **clarity, organization, and relevance of the course content, as well as the effectiveness of practical exercises and the diversity of educational resources**. Challenges such as access barriers were also identified, suggesting areas for improvement, particularly in the inclusion of regional contexts.
+
+-   Qualitative analysis form the pilot revealed that over **80%** of course participants agreed that it met the proposed objectives and addressed the region's needs in terms of data science and infectious disease modeling training.
+
+-   The overall course rating in the pilot was **4.6 out of 5**.
+
+-   The participation rate of women in our in-person and virtual training spaces has been emphasized, with a participation rate of over 60%.
+
+## **Contact**
+
+-   Zulma M. Cucunubá.Principal Investigator (zulma.cucunuba\@javeriana.edu.co)
+
+-   Laura Gómez-Bermeo. Training Coordinator (gomezblaura\@javeriana.edu.co)
+
+-   Proyecto TRACE-LAC trace\@javeriana.edu.co

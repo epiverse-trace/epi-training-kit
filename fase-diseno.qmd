@@ -1,0 +1,21 @@
+---
+title: "Fase de Diseño y desarrollo"
+editor: visual
+---
+
+Durante esta fase nuestros principales esfuerzos se centraron en la construcción del curso en línea sobre ciencia de datos en salud pública y el modelamiento de enfermedades infecciosas. Este proceso implicó: 
+
+1. **La escritura del contenido de las unidades**: Historia de las epidemias y pandemias, Introducción a la Teoría Epidémica, Introducción a R y RStudio, Visualización de datos con ggplot, y Reportes e Informes con RMarkdown. Esto incluyó los ajustes identificados en la Fase Exploratoria, la revisión y búsqueda de ejemplos, y la construcción y adaptación de prácticas para las unidades relacionadas con R ya utilizadas en los entrenamientos de la fase exploratoria.
+
+2. **El diseño instruccional** donde organizamos y estructuramos sistemáticamente el contenido para optimizar la experiencia de aprendizaje de los participantes. Este enfoque tuvo en cuenta las necesidades identificadas en la Fase Exploratoria, estableciendo objetivos de aprendizaje específicos y comprendiendo las características únicas de nuestra audiencia objetivo. Teniendo los objetivos de aprendizaje claros, organizamos meticulosamente el contenido de cinco unidades, asegurando un flujo lógico y coherente para optimizar la comprensión. Este proceso también involucró la toma de decisiones estratégicas sobre las estrategias pedagógicas y la selección de una variedad de recursos, incluyendo ejemplos, entrevistas, tutoriales, historias y actividades interactivas que permitieran tener una mejor experiencia de aprendizaje.
+
+3. **La producción de recursos educativos** la cual implicó la creación de una variedad de materiales, como videos, podcasts, infografías, documentos y presentaciones interactivas. 
+
+## **Resultados Fase de diseño y desarrollo**
+
+**En total realizamos 57 recursos educativos**; producimos 17 videos, que incluyen videos diagramados, entrevistas con especialistas, tutoriales y videos explicativos. Además, creamos 10 diagramas animados, 15 presentaciones interactivas, 2 infografías, 2 documentos, 3 foros, 1 podcast, 3 prácticas en R y 4 desafíos en R.
+
+Además, dado que el curso adopta una perspectiva de género integral en STEM y ciencia de datos, este cuenta con el **uso de un lenguaje inclusivo,  una representación equilibrada en imágenes y voces, y emplea una línea gráfica cuidadosamente desarrollada para evitar la reproducción de estereotipos**. Adicionalmente, el curso destaca las contribuciones de figuras históricas de diversos géneros, con el objetivo de inspirar a los estudiantes y fomentar un entorno más inclusivo y equitativo en estos campos.
+
+![](./img/portada.jpg){width=""}
+---

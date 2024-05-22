@@ -1,0 +1,23 @@
+---
+title: "Fase Piloto"
+editor: visual
+---
+
+
+En esta fase se realizó el piloto del **'Curso en Ciencia de Datos en Salud Pública y Modelado de Enfermedades Infecciosas'** disponible desde el 10 de noviembre hasta el 21 de diciembre de 2023.  En total, 223 personas de 16 países de América Latina y el Caribe se inscribieron al curso.  
+
+<div class="flourish-embed" data-src="story/2292553"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+- **6 de cada 10** participantes se identificaron como mujeres, reflejando una representación de género equilibrada.  
+- **El grupo incluyó participantes de áreas STEM y salud**, con niveles variados de formación. 
+- **Más de la mitad de los participantes tenía un título de maestría**. Sin embargo también participaron personas con pregrado y  doctorado.
+- La mayoría de los participantes tenían entre 25 y 45 años, con una concentración entre **32 y 38 años**. 
+
+## **Resultados Fase Piloto**
+
+- Del total de inscritos, el **57% completó exitosamente el curso**, con más del 70% llegando al menos a la mitad del mismo. El 6% de los inscritos no iniciaron el curso, mientras que el 80% de los participantes completaron la primera unidad.
+- Para la evaluación de este piloto, se diseñaron instrumentos de evaluación, que permitieron una valoración del contenido, los recursos educativos, la experiencia de aprendizaje, el logro de los objetivos de aprendizaje y las actividades asociadas, la interacción con la plataforma y el tiempo invertido en el curso. Entre estos i) la **encuesta de satisfacción** con preguntas abiertas y cerradas para cada unidad,obtuvo 630 respuestas. ii) la **encuesta de experiencia** al final del curso tuvo una tasa de respuesta del 70%. iii) Tres **grupos focales** presenciales realizados con un total de 20 individuos de Colombia, América Latina y el Caribe.
+- El análisis cualitativo reveló observaciones significativas sobre la experiencia de quienes participaron en el piloto. La codificación de los datos cualitativos resultó en varios hallazgos clave entre los cuales **se destacan la claridad, organización y relevancia del contenido del curso, así como la efectividad de los ejercicios prácticos y la diversidad de recursos educativos**.  También se identificaron desafíos, como barreras de acceso, sugiriendo áreas de mejora, particularmente en la inclusión de contextos regionales. En general, aunque el curso tuvo una evaluación positiva por su enfoque interdisciplinario y efectividad, hay oportunidades claras de mejora.
+- El análisis cualitativo reveló que **más del 80%** de quienes participaron en el curso están de acuerdo con que este cumplió los objetivos propuestos y responde a las necesidades en la región en términos de formación en capacidades de ciencia de datos y modelamiento de enfermedades infecciosas. 
+- En general **la calificación del curso fue de 4.6/5.0**
+---

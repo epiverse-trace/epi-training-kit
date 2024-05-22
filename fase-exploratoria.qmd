@@ -1,0 +1,31 @@
+---
+title: "Fase Exploratoria"
+editor: visual
+---
+Durante la fase exploratoria, se realizó la estructura y los temas a abordar en el curso en línea. Además, se desarrollaron materiales para testear las actividades y temáticas con diferentes poblaciones en diferentes lugares de Colombia.
+
+Con este fin, **se llevaron a cabo en total cinco jornadas**:
+
+
+|Ciudad|Fecha|Público|Número de horas|Número de participantes|
+|:----|:----|:----|:----|:----|
+|Manizales (Caldas), Colombia|1 y 2 de Septiembre de  2022|Estudiantes y docentes de Estadística|4 horas|197 |
+|Cali (Valle del Cauca), Colombia|15 y 17 de Octubre, 11 y 12 de Noviembre de 20222|Estudiantes de la Maestría en Salud Pública |4 horas|68|
+|Bogotá, Colombia.|24 y 25 de octubre de 2022|Profesionales de la salud |32 horas|38|
+|Bucaramanga (Santander), Colombia|27, 28 y 29 de abril de 2023|Estudiantes de Pregrado en Medicina y Enfermería; Estudiantes de la Maestría en Economía y Desarrollo, Epidemiología, Estadística y Doctorado en Epidemiología. |16 horas|48|
+|Quibdó (Chocó), Colombia|26, 27 y 28 de Julio de 2023.|Docentes, coordinadoras y referentes de vigilancia de la Secretaría de Salud Municipal y Departamentamento, y de la Asociación Red de parteras del Chocó (ASOREDIPARCHOCO)|18 horas|20|
+
+
+Esta fase exploratoria permitió hacer prueba de contenido y de actividades propuestas, así como identificar necesidades y expectativas de la comunidad de usuarios a través de entrenamientos en ciudades principales y ciudades intermedias con acceso más difícil y recursos limitados. Estos entrenamientos permitieron ajustar y perfeccionar el material educativo asegurando su efectividad y relevancia para diversos contextos y necesidades. 
+
+Estas jornadas de entrenamiento teórico-prácticas incluyeron **conferencias magistrales, prácticas en el lenguaje de programación R y talleres prácticos y aplicados a salud pública**. De esta manera, durante los entrenamientos se combinó la adquisición de conocimientos teóricos con su aplicación práctica, permitiendo una comprensión de los conceptos presentados, así como las habilidades necesarias para aplicar esos conocimientos en situaciones reales y retos de salud pública.
+
+## **Resultados Fase Exploratoria**
+
+- Haber vivido la experiencia de reconocer y abordar obstáculos relacionados con el acceso a internet, la capacidad computacional, la electricidad y la alfabetización en idiomas (inglés), a través del trabajo de campo en los entrenamientos presenciales, fue crucial para enfatizar la importancia de **establecer un entorno de aprendizaje inclusivo y accesible en el desarrollo del curso en línea**.
+- Hacer énfasis en los entrenamientos sobre **fundamentos de la Teoría Epidémica y de programación en R para datos epidemiológicos fue una estrategia clave**, reconociendo la importancia de establecer una base de conocimientos sólida. 
+- Ajustar y adaptar el contenido con ejemplos diversos fue esencial, **asegurando que el contenido resuene con un amplio espectro de nivel de conocimiento, experiencias y perspectivas.** 
+- El contenido y material educativo fueron abordados exitosamente por parte de estudiantes de pregrado, estudiantes de maestría, profesionales y estudiantes de doctorado, resaltando **la adaptabilidad del curso en diferentes niveles educativos**.
+- Abordar los sesgos culturales y de género en la creación de contenido fue una consideración importante. Esto implicó elaborar **contenido que visibiliza los aportes de las mujeres en la epidemiología y la ciencia de datos e incorporar esta perspectiva inclusiva en el lenguaje y en los elementos visuales del curso.** 
+- El énfasis en el **co-diseño** de los entrenamientos con la participación de la comunidad fue una elección estratégica para garantizar la capacidad de respuesta a necesidades específicas y la participación activa.
+- Esta fase permitió identificar **cuatro posibles perfiles de usuario** de acuerdo a sus conocimientos y experiencia en los temas de ciencia de datos, epidemiología, modelamiento y toma de decisiones en salud pública.

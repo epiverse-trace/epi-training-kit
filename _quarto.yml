@@ -7,9 +7,8 @@ website:
   navbar:
     logo: logo_white.svg
     left:
-      - href: index.qmd
-        text: Inicio
-      - about.qmd
+      - href: index-EN.qmd
+        text: Epi-training Kit (EN)
     tools:
       - icon: github
         menu:
