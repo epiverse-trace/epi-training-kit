@@ -15,7 +15,7 @@ knitr::opts_chunk$set(
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-> # ![](./img/LogoEpiTKit.jpg){width="150"} `Epi-training kit`
+> # `e-Epi-training kit`
 >
 > ### **Estrategia de entrenamiento en modelamiento matemático de enfermedades infecciosas y ciencia de datos en salud pública con perspectiva de género**
 
