@@ -71,7 +71,7 @@ Furthermore, since the course adopts a comprehensive gender perspective in STEM 
 
 ## **Pilot Phase**
 
-During this phase, the pilot of the initial units of the [**'Course in Data Science for Public Health and Infectious Disease Modeling'**](https://www.youtube.com/watch?v=hjIA6R-eC54) was conducted on the open online course platform, based on open-source software, edX Edge. This phase took place between November and December 2023. A total of **223 people from 16 countries in Latin America and the Caribbean participated**, 57% of whom successfully completed the course. This pilot allowed for the evaluation of the content, educational resources, learning experience, learning objectives, and interaction with the platform.
+During this phase, the pilot of the initial units of the **'Course in Data Science for Public Health and Infectious Disease Modeling'** [(Watch course demo)](https://www.youtube.com/watch?v=hjIA6R-eC54) was conducted on the open online course platform, based on open-source software, edX Edge. This phase took place between November and December 2023. A total of **223 people from 16 countries in Latin America and the Caribbean participated**, 57% of whom successfully completed the course. This pilot allowed for the evaluation of the content, educational resources, learning experience, learning objectives, and interaction with the platform.
 
 ::: {.flourish-embed data-src="story/2292553"}
 ```{=html}

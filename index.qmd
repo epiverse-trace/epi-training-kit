@@ -167,21 +167,24 @@ inclusivo y equitativo en estos campos.
 
 <center>
 
-![Figure 2. Portada del curso en la plataforma de edX](./img/portada.jpg){width="800"}
+![Figure 2. Portada del curso en la plataforma de
+edX](./img/portada.jpg){width="800"}
 
 </center>
+
 ## **Fase Piloto**
 
-En esta fase se realizó el piloto de las primeras unidades del [**'Curso
+En esta fase se realizó el piloto de las primeras unidades del **'Curso
 en Ciencia de Datos en Salud Pública y Modelado de Enfermedades
-Infecciosas'**](https://www.youtube.com/watch?v=p1R1HImGFgw) en la
-plataforma de cursos abiertos masivos en línea, basada en software de
-código abierto, edX Edge. Esta fase se desarrolló entre noviembre y
-diciembre de 2023. En total participaron **223 personas de 16 países de
-América Latina y el Caribe**, de los cuales el 57% completó exitosamente
-el curso. Este piloto permitió evaluar el contenido, los recursos
-educativos, la experiencia de aprendizaje, los objetivos de aprendizaje,
-y la interacción con la plataforma.
+Infecciosas'** [(Ver demo del
+curso)](https://www.youtube.com/watch?v=p1R1HImGFgw) en la plataforma de
+cursos abiertos masivos en línea, basada en software de código abierto,
+edX Edge. Esta fase se desarrolló entre noviembre y diciembre de 2023.
+En total participaron **223 personas de 16 países de América Latina y el
+Caribe**, de los cuales el 57% completó exitosamente el curso. Este
+piloto permitió evaluar el contenido, los recursos educativos, la
+experiencia de aprendizaje, los objetivos de aprendizaje, y la
+interacción con la plataforma.
 
 ::: {.flourish-embed data-src="story/2292553"}
 ```{=html}
