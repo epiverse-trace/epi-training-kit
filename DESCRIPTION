@@ -1,0 +1,15 @@
+Package: EpiTkit
+Title: Epi-training kit
+Version: 0.0.0.9000
+Authors@R: 
+    c(
+        person("Zulma M.", "Cucunubá", , "andree.valle-campos@lshtm.ac.uk", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-7779-481X")),
+        person("Laura", "Gómez-Bermeo", , "Anna.Carnegie@lshtm.ac.uk", role = c("aut"),
+           comment = c(ORCID = "0000-0002-6385-7795"))
+    )
+Description: Collection of Epiverse-TRACE Learner Personas to help instructors figure out who they are trying to help.
+License: CC BY 4.0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.0.0
