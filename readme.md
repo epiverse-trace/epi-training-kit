@@ -1,19 +1,5 @@
----
-output: github_document
----
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-
-```{r, include = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>"
-)
-```
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 > # `Epi-Training kit`
 >
@@ -71,9 +57,9 @@ equidad de género en ciencia de datos para salud pública es fundamental
 para garantizar una representación diversa, perspectivas enriquecedoras
 y estrategias más efectivas en emergencias sanitarias. Por esta razón,
 desde el proyecto Epiverse TRACE-LAC iniciado a mediados de 2022, se
-está construyendo una estrategia e-learning abierta, gratuita y [en
-español]{.underline} para el entrenamiento en análisis y respuesta a
-epidemias en América Latina y el Caribe.
+está construyendo una estrategia e-learning abierta, gratuita y <u>en
+español</u> para el entrenamiento en análisis y respuesta a epidemias en
+América Latina y el Caribe.
 
 ## **Público Objetivo**
 
@@ -92,55 +78,72 @@ Para la construcción de la estrategia de entrenamiento e-learning se
 tienen contempladas unidades cortas de aprendizaje agrupadas en cuatro
 módulos principales:
 
-+----------+-------------------------------------------+----------+
-| | 1      | Módulo de teoría epidémica y              |          |
-|          | epidemiológica                            |          |
-+----------+-------------------------------------------+----------+
-| | 2      | Módulo de ciencia de datos en salud       |          |
-|          | pública                                   |          |
-+----------+-------------------------------------------+----------+
-| | 3      | Módulo de respuesta a brotes              |          |
-+----------+-------------------------------------------+----------+
-| | 4      | Módulo de modelamiento y analítica        |          |
-|          | avanzada                                  |          |
-+----------+-------------------------------------------+----------+
+<table style="width:92%;">
+<colgroup>
+<col style="width: 15%" />
+<col style="width: 61%" />
+<col style="width: 15%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><div class="line-block">1</div></td>
+<td>Módulo de teoría epidémica y epidemiológica</td>
+<td></td>
+</tr>
+<tr class="even">
+<td><div class="line-block">2</div></td>
+<td>Módulo de ciencia de datos en salud pública</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><div class="line-block">3</div></td>
+<td>Módulo de respuesta a brotes</td>
+<td></td>
+</tr>
+<tr class="even">
+<td><div class="line-block">4</div></td>
+<td>Módulo de modelamiento y analítica avanzada</td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
--   **Módulo de teoría epidémica y epidemiológica**: Aborda la teoría
-    epidémica como base fundamental en la comprensión y manejo de
-    enfermedades infecciosas desde su historia hasta la ciencia detrás
-    de ellas. Este módulo proporciona las herramientas conceptuales y
-    analíticas necesarias para comprender cómo se propagan las
-    enfermedades en poblaciones humanas, evaluar su impacto e informar
-    la toma de decisiones informadas para su prevención y control.
+- **Módulo de teoría epidémica y epidemiológica**: Aborda la teoría
+  epidémica como base fundamental en la comprensión y manejo de
+  enfermedades infecciosas desde su historia hasta la ciencia detrás de
+  ellas. Este módulo proporciona las herramientas conceptuales y
+  analíticas necesarias para comprender cómo se propagan las
+  enfermedades en poblaciones humanas, evaluar su impacto e informar la
+  toma de decisiones informadas para su prevención y control.
 
--   **Módulo de ciencia de datos en salud pública**: Abarca las
-    diferentes etapas del ciclo de vida de los datos tales como la
-    recolección, extracción, limpieza, análisis y visualización de
-    datos. Este módulo se enfoca en la adquisición o fortalecimiento de
-    habilidades de programación en el lenguaje R.
+- **Módulo de ciencia de datos en salud pública**: Abarca las diferentes
+  etapas del ciclo de vida de los datos tales como la recolección,
+  extracción, limpieza, análisis y visualización de datos. Este módulo
+  se enfoca en la adquisición o fortalecimiento de habilidades de
+  programación en el lenguaje R.
 
--   **Módulo de respuesta a brotes**: Presenta los conocimientos y
-    herramientas principales para identificar y gestionar de manera
-    efectiva situaciones de brotes de enfermedades infecciosas. Este
-    módulo incluye elementos de sistemas de vigilancia epidemiológica,
-    investigación de brotes paso a paso, comunicación efectiva del
-    riesgo, el papel de las actividades en campo y laboratorio para la
-    respuesta a brotes.
+- **Módulo de respuesta a brotes**: Presenta los conocimientos y
+  herramientas principales para identificar y gestionar de manera
+  efectiva situaciones de brotes de enfermedades infecciosas. Este
+  módulo incluye elementos de sistemas de vigilancia epidemiológica,
+  investigación de brotes paso a paso, comunicación efectiva del riesgo,
+  el papel de las actividades en campo y laboratorio para la respuesta a
+  brotes.
 
--   **Módulo de modelamiento y analítica avanzada**: Presenta conceptos
-    teóricos, ejercicios prácticos y estudios de caso, para la
-    construcción de modelos matemáticos de propagación de enfermedades
-    infecciosas, exploración de parámetros y aplicaciones estadísticas.
-    Este módulo permite desarrollar habilidades para aplicar técnicas
-    analíticas avanzadas en la interpretación de datos epidemiológicos y
-    la toma de decisiones informadas en situaciones de salud pública.
+- **Módulo de modelamiento y analítica avanzada**: Presenta conceptos
+  teóricos, ejercicios prácticos y estudios de caso, para la
+  construcción de modelos matemáticos de propagación de enfermedades
+  infecciosas, exploración de parámetros y aplicaciones estadísticas.
+  Este módulo permite desarrollar habilidades para aplicar técnicas
+  analíticas avanzadas en la interpretación de datos epidemiológicos y
+  la toma de decisiones informadas en situaciones de salud pública.
 
 Cada uno de estos módulos cuenta con varias unidades. Cada unidad tiene
 un promedio de duración de trabajo entre 3-5 horas por parte del
 estudiante, dependiendo de la ruta de ingreso y conocimientos previos
 (ver figura 1)
 
-![](img/unidades.png){width="600"}
+<img src="img/unidades.png" width="600" />
 
 ## Fases del epi-training kit
 
@@ -227,15 +230,15 @@ identificado sesgos de género y la afectación de estos en el logro de
 los objetivos de aprendizaje. Esto ha llevado a la elaboración e
 implementación de una guía para la transversalidad del enfoque de género
 en estrategias e-learning en ciencia de datos y salud pública, y el
-diseño de una propuesta de unidad sobre "Datos con perspectiva de género
-en salud pública".
+diseño de una propuesta de unidad sobre “Datos con perspectiva de género
+en salud pública”.
 
 ## Contacto
 
--   [**Zulma M. Cucunubá**](https://github.com/zmcucunuba)**.**
-    Investigadora Principal `(zulma.cucunuba@javeriana.edu.co)`
+- [**Zulma M. Cucunubá**](https://github.com/zmcucunuba)**.**
+  Investigadora Principal `(zulma.cucunuba@javeriana.edu.co)`
 
--   [**Laura Gómez-Bermeo**](https://github.com/lgbermeo)**.**
-    Coordinadora de entrenamiento `(gomezblaura@javeriana.edu.co)`
+- [**Laura Gómez-Bermeo**](https://github.com/lgbermeo)**.**
+  Coordinadora de entrenamiento `(gomezblaura@javeriana.edu.co)`
 
--   **Proyecto TRACE-LAC** trace\@javeriana.edu.co
+- **Proyecto TRACE-LAC** trace@javeriana.edu.co
