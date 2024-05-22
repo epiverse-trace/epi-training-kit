@@ -1,0 +1,14 @@
+@import 'https://fonts.googleapis.com/css?family=DM+Sans:300,400,600,700';
+@import 'https://fonts.googleapis.com/css2?family=Roboto+Mono:400';
+
+/*-- scss:defaults --*/
+$bs-body-font-family: 'DM Sans', sans-serif;
+$font-monospace: 'Robot Mono', monospace;
+$navbar-bg: #071E2D;
+$navbar-fg: #FFF;
+
+// Replace text with logo
+.navbar-logo {
+  max-height: 40px !important;
+  padding-right: 200px !important;
+}
