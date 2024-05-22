@@ -190,6 +190,12 @@ piloto permitió evaluar el contenido, los recursos educativos, la
 experiencia de aprendizaje, los objetivos de aprendizaje, y la
 interacción con la plataforma.
 
+<div class="flourish-embed" data-src="story/2292553">
+
+<script src="https://public.flourish.studio/resources/embed.js"></script>
+
+</div>
+
 - **6 de cada 10** participantes se identificaron como mujeres,
   reflejando una representación de género equilibrada.  
 - **El grupo incluyó participantes de áreas STEM y salud**, con niveles
