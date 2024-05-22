@@ -1,5 +1,5 @@
 ---
-title: "Epi-training Kit (English)"
+title: "Epi-Training Kit (English)"
 editor: visual
 ---
 
