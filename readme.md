@@ -1,3 +1,6 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
 > # `e-Epi-training kit`
 >
 > ### **Estrategia de entrenamiento en Ciencia de datos en Salud Pública con perspectiva de género**
@@ -105,35 +108,35 @@ módulos principales:
 </tbody>
 </table>
 
--   **Módulo de teoría epidémica y epidemiológica**: Aborda la teoría
-    epidémica como base fundamental en la comprensión y manejo de
-    enfermedades infecciosas desde su historia hasta la ciencia detrás
-    de ellas. Este módulo proporciona las herramientas conceptuales y
-    analíticas necesarias para comprender cómo se propagan las
-    enfermedades en poblaciones humanas, evaluar su impacto e informar
-    la toma de decisiones informadas para su prevención y control.
+- **Módulo de teoría epidémica y epidemiológica**: Aborda la teoría
+  epidémica como base fundamental en la comprensión y manejo de
+  enfermedades infecciosas desde su historia hasta la ciencia detrás de
+  ellas. Este módulo proporciona las herramientas conceptuales y
+  analíticas necesarias para comprender cómo se propagan las
+  enfermedades en poblaciones humanas, evaluar su impacto e informar la
+  toma de decisiones informadas para su prevención y control.
 
--   **Módulo de ciencia de datos en salud pública**: Abarca las
-    diferentes etapas del ciclo de vida de los datos tales como la
-    recolección, extracción, limpieza, análisis y visualización de
-    datos. Este módulo se enfoca en la adquisición o fortalecimiento de
-    habilidades de programación en el lenguaje R.
+- **Módulo de ciencia de datos en salud pública**: Abarca las diferentes
+  etapas del ciclo de vida de los datos tales como la recolección,
+  extracción, limpieza, análisis y visualización de datos. Este módulo
+  se enfoca en la adquisición o fortalecimiento de habilidades de
+  programación en el lenguaje R.
 
--   **Módulo de respuesta a brotes**: Presenta los conocimientos y
-    herramientas principales para identificar y gestionar de manera
-    efectiva situaciones de brotes de enfermedades infecciosas. Este
-    módulo incluye elementos de sistemas de vigilancia epidemiológica,
-    investigación de brotes paso a paso, comunicación efectiva del
-    riesgo, el papel de las actividades en campo y laboratorio para la
-    respuesta a brotes.
+- **Módulo de respuesta a brotes**: Presenta los conocimientos y
+  herramientas principales para identificar y gestionar de manera
+  efectiva situaciones de brotes de enfermedades infecciosas. Este
+  módulo incluye elementos de sistemas de vigilancia epidemiológica,
+  investigación de brotes paso a paso, comunicación efectiva del riesgo,
+  el papel de las actividades en campo y laboratorio para la respuesta a
+  brotes.
 
--   **Módulo de modelamiento y analítica avanzada**: Presenta conceptos
-    teóricos, ejercicios prácticos y estudios de caso, para la
-    construcción de modelos matemáticos de propagación de enfermedades
-    infecciosas, exploración de parámetros y aplicaciones estadísticas.
-    Este módulo permite desarrollar habilidades para aplicar técnicas
-    analíticas avanzadas en la interpretación de datos epidemiológicos y
-    la toma de decisiones informadas en situaciones de salud pública.
+- **Módulo de modelamiento y analítica avanzada**: Presenta conceptos
+  teóricos, ejercicios prácticos y estudios de caso, para la
+  construcción de modelos matemáticos de propagación de enfermedades
+  infecciosas, exploración de parámetros y aplicaciones estadísticas.
+  Este módulo permite desarrollar habilidades para aplicar técnicas
+  analíticas avanzadas en la interpretación de datos epidemiológicos y
+  la toma de decisiones informadas en situaciones de salud pública.
 
 Cada uno de estos módulos cuenta con varias unidades. Cada unidad tiene
 un promedio de duración de trabajo entre 3-5 horas por parte del
@@ -232,10 +235,10 @@ en salud pública”.
 
 ## Contacto
 
--   [**Zulma M. Cucunubá**](https://github.com/zmcucunuba)**.**
-    Investigadora Principal `(zulma.cucunuba@javeriana.edu.co)`
+- [**Zulma M. Cucunubá**](https://github.com/zmcucunuba)**.**
+  Investigadora Principal `(zulma.cucunuba@javeriana.edu.co)`
 
--   [**Laura Gómez-Bermeo**](https://github.com/lgbermeo)**.**
-    Coordinadora de entrenamiento `(gomezblaura@javeriana.edu.co)`
+- [**Laura Gómez-Bermeo**](https://github.com/lgbermeo)**.**
+  Coordinadora de entrenamiento `(gomezblaura@javeriana.edu.co)`
 
--   **Proyecto TRACE-LAC** trace@javeriana.edu.co
+- **Proyecto TRACE-LAC** trace@javeriana.edu.co

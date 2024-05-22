@@ -1,12 +1,15 @@
 ---
-title: "Materiales testados para Epitraining"
-author: "Zulma M. Cucunubá"
-date: "2023-08-18"
-output: md_document
-editor_options: 
-  markdown: 
-    wrap: 72
+output: github_document
 ---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
