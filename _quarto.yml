@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Epi-training kit"
+  navbar:
+    logo: logo_white.svg
+    left:
+      - href: index.qmd
+        text: Inicio
+      - about.qmd
+    tools:
+      - icon: github
+        menu:
+          - text: Código fuente
+            url:  https://github.com/epiverse-trace/epi-training-kit
+          - text: Reportar un error
+            url:  https://github.com/epiverse-trace/epi-training-kit/issues
+  repo-url: https://github.com/epiverse-trace/epi-training-kit/
+  repo-actions: [edit, issue]
+
+format:
+  html:
+    theme: [cosmo, epiversetheme.scss]
+    css: styles.css
+    toc: true
+
