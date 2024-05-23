@@ -1,0 +1,269 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+> # `e-Epi-training kit`
+>
+> ### **Estrategia de entrenamiento en modelamiento matemático de enfermedades infecciosas y ciencia de datos en salud pública con perspectiva de género**
+
+Proyecto liderado por la [Pontificia Universidad
+Javeriana](https://medicina.javeriana.edu.co/trace-lac) Bogotá en el
+marco de la iniciativa
+[Epiverse-TRACE](https://data.org/initiatives/epiverse/) con el apoyo de
+la Universidad de los Andes en Colombia, Data.org y el London School of
+Hygiene and Tropical Medicine en Reino Unido. Proyecto patrocinado por
+el IDRC de Canadá.
+
+Última actualización: 22 de Mayo de 2023
+
+## **Motivación**
+
+La formación en modelamiento matemático de enfermedades infecciosas y
+ciencia de datos ha adquirido una relevancia creciente en el apoyo al
+manejo y respuesta de emergencias de salud pública, como las epidemias y
+pandemias. Sin embargo, en Latinoamérica aún hay ausencia de material
+educativo en español adaptado al contexto de Latinoamérica y el Caribe
+de acceso libre y gratuito para el aprendizaje de análisis, modelamiento
+y respuesta a brotes y epidemias. Además, a pesar de los esfuerzos de
+los últimos años para reducir la brecha de género en las áreas STEM
+(ciencias, tecnología, ingeniería y matemáticas por sus siglas en
+inglés) y la ciencia de datos específicamente, persiste una brecha
+significativa en la participación y representación de mujeres en este
+campo, lo cual limita el potencial de desarrollo y avance en la salud
+pública a nivel regional. Este proyecto promueve la implementación de
+estrategias educativas innovadoras y el aprendizaje virtual mediante la
+creación de un curso en línea masivo y abierto, también conocido como
+MOOC por sus siglas en inglés, que permita sobrepasar barreras sociales,
+económicas y de acceso a educación de calidad, promoviendo la equidad de
+género.
+
+## **Objetivo**
+
+Esta estrategia busca contribuir a cerrar brechas en cuanto al acceso a
+materiales educativos y oportunidades de aprendizaje de calidad en
+ciencia de datos, análisis, modelamiento y respuesta a brotes y
+epidemias en América Latina y el Caribe, promoviendo el libre acceso a
+educación de calidad y la equidad de género.
+
+## **Público Objetivo**
+
+Esta estrategia está dirigida a profesionales y estudiantes en campos
+como el sector de la salud y las áreas STEM (ciencias, tecnología,
+ingenierías y matemáticas).
+
+## **Contenidos**
+
+Para la construcción de esta estrategia se tiene contemplado el
+desarrollo de un curso en línea masivo y abierto que contiene unidades
+cortas de aprendizaje agrupadas en cuatro módulos principales:
+
+- **Módulo de teoría epidémica y epidemiológica**: Aborda la teoría
+  epidémica como base fundamental en la comprensión y manejo de
+  enfermedades infecciosas desde su historia hasta la ciencia detrás de
+  ellas. Este módulo proporciona las herramientas conceptuales y
+  analíticas necesarias para comprender cómo se propagan las
+  enfermedades en poblaciones humanas, evaluar su impacto e informar la
+  toma de decisiones informadas para su prevención y control.
+
+- **Módulo de ciencia de datos en salud pública**: Abarca las diferentes
+  etapas del ciclo de vida de los datos tales como la recolección,
+  extracción, limpieza, análisis y visualización de datos. Este módulo
+  se enfoca en la adquisición o fortalecimiento de habilidades de
+  programación en el lenguaje R.
+
+- **Módulo de respuesta a brotes**: Presenta los conocimientos y
+  herramientas principales para identificar y gestionar de manera
+  efectiva situaciones de brotes de enfermedades infecciosas. Este
+  módulo incluye elementos de sistemas de vigilancia epidemiológica,
+  investigación de brotes paso a paso, comunicación efectiva del riesgo,
+  el papel de las actividades en campo y laboratorio para la respuesta a
+  brotes.
+
+- **Módulo de modelamiento y analítica avanzada**: Presenta conceptos
+  teóricos, ejercicios prácticos y estudios de caso, para la
+  construcción de modelos matemáticos de propagación de enfermedades
+  infecciosas, exploración de parámetros y aplicaciones estadísticas.
+  Este módulo permite desarrollar habilidades para aplicar técnicas
+  analíticas avanzadas en la interpretación de datos epidemiológicos y
+  la toma de decisiones informadas en situaciones de salud pública.
+
+Cada uno de estos módulos cuenta con varias unidades. Cada unidad tiene
+un promedio de duración de trabajo entre 3-5 horas por parte del
+estudiante, dependiendo de la ruta de ingreso y conocimientos previos.
+En la siguiente imagen (Imagen 1) pueden verse los Módulos y Unidades en
+detalle
+
+<center>
+
+<figure>
+<img src="./img/Modulos.jpg" width="800"
+alt="Imagen 1. Módulos y Unidades del Epi-training Kit" />
+<figcaption aria-hidden="true">Imagen 1. Módulos y Unidades del
+Epi-training Kit</figcaption>
+</figure>
+
+</center>
+
+## **Fases de trabajo**
+
+Para la construcción de esta estrategia se establecieron cuatro fases de
+trabajo.
+
+## **Fase Exploratoria**
+
+Esta fase se llevó a cabo desde agosto de 2022 hasta julio de 2023 e
+incluyó el análisis de las necesidades y desafíos de la comunidad de
+posibles usuarios a través de entrenamientos presenciales realizados en
+varias ciudades de Colombia. Durante esta fase, se crearon materiales
+para probar contenido y actividades con diversos grupos en cinco
+jornadas de formación presencial que reunieron **cerca de 400
+participantes en cinco ciudades colombianas**: Bogotá (la capital),
+Bucaramanga (centro-norte), Cali (suroeste), Manizales (centro) y Quibdó
+(región del Pacífico). En total, se tuvieron **14 días y más de 170
+horas de entrenamientos presenciales**. Un logro destacado de esta fase
+fue la participación de mujeres, que superó el 70%.
+
+Esta fase exploratoria permitió hacer prueba de contenido y de
+actividades propuestas, así como identificar necesidades y expectativas
+de la comunidad de usuarios a través de entrenamientos en ciudades
+principales y ciudades intermedias con acceso más difícil y recursos
+limitados. Estos entrenamientos permitieron ajustar y perfeccionar el
+material educativo asegurando su efectividad y relevancia para diversos
+contextos y necesidades.
+
+Estas jornadas de entrenamiento teórico-prácticas incluyeron
+conferencias magistrales, prácticas en el lenguaje de programación R y
+talleres prácticos y aplicados a salud pública. De esta manera, durante
+los entrenamientos se combinó la adquisición de conocimientos teóricos
+con su aplicación práctica, permitiendo una comprensión de los conceptos
+presentados, así como las habilidades necesarias para aplicar esos
+conocimientos en situaciones reales y retos de salud pública.
+
+## **Fase de Diseño y Desarrollo**
+
+Durante esta fase, desarrollada entre marzo y noviembre de 2023, se
+realizó la construcción de las primeras unidades del curso virtual. Esta
+fase incluyó la construcción de contenido y la realización del diseño
+instruccional de las primeras unidades. El proceso del diseño
+instruccional permitió incorporar las necesidades y aprendizaje que se
+observaron en la Fase Exploratoria para generar una experienciade
+aprendizaje más eficiente, activa y atractiva. Finalmente, esta fase
+incluyó la **producción de los recursos educativos como infografías,
+videos, podcast, entre otros.**
+
+**En total realizamos 57 recursos educativos**; producimos 17 videos,
+que incluyen videos diagramados, entrevistas con especialistas,
+tutoriales y videos explicativos. Además, creamos 10 diagramas animados,
+15 presentaciones interactivas, 2 infografías, 2 documentos, 3 foros, 1
+podcast, 3 prácticas en R y 4 desafíos en R.
+
+Además, dado que el curso adopta una perspectiva de género integral en
+STEM y ciencia de datos, este cuenta con el **uso de un lenguaje
+inclusivo, una representación equilibrada en imágenes y voces, y emplea
+una línea gráfica cuidadosamente desarrollada para evitar la
+reproducción de estereotipos**. Adicionalmente, el curso destaca las
+contribuciones de figuras históricas de diversos géneros, con el
+objetivo de inspirar a los estudiantes y fomentar un entorno más
+inclusivo y equitativo en estos campos.
+
+<center>
+
+<figure>
+<img src="./img/portada.jpg" width="800"
+alt="Figure 2. Portada del curso en la plataforma de edX" />
+<figcaption aria-hidden="true">Figure 2. Portada del curso en la
+plataforma de edX</figcaption>
+</figure>
+
+</center>
+
+## **Fase Piloto**
+
+En esta fase se realizó el piloto de las primeras unidades del **‘Curso
+en Ciencia de Datos en Salud Pública y Modelado de Enfermedades
+Infecciosas’** [(Ver demo del
+curso)](https://www.youtube.com/watch?v=p1R1HImGFgw) en la plataforma de
+cursos abiertos masivos en línea, basada en software de código abierto,
+edX Edge. Esta fase se desarrolló entre noviembre y diciembre de 2023.
+En total participaron **223 personas de 16 países de América Latina y el
+Caribe**, de los cuales el 57% completó exitosamente el curso. Este
+piloto permitió evaluar el contenido, los recursos educativos, la
+experiencia de aprendizaje, los objetivos de aprendizaje, y la
+interacción con la plataforma.
+
+- **6 de cada 10** participantes se identificaron como mujeres,
+  reflejando una representación de género equilibrada.  
+- **El grupo incluyó participantes de áreas STEM y salud**, con niveles
+  variados de formación.
+- **Más de la mitad de los participantes tenía un título de maestría**.
+  Sin embargo también participaron personas con pregrado y doctorado.
+- La mayoría de los participantes tenían entre 25 y 45 años, con una
+  concentración entre **32 y 38 años**.
+- Para la evaluación se diseñó i) **encuesta de satisfacción** con
+  preguntas abiertas y cerradas para cada unidad,obtuvo 630
+  respuestas. ii) **encuesta de experiencia** al final del curso tuvo
+  una tasa de respuesta del 70%. iii) Tres **grupos focales**
+  presenciales realizados con un total de 20 individuos de Colombia,
+  América Latina y el Caribe.
+
+## **Fase de Implementación y Evaluación**
+
+En esta fase se realizará una primera implementación y evaluación entre
+octubre y diciembre de 2024 con un grupo de entre **500 y 1000 personas
+en América Latina y el Caribe**. Para esta implementación se realizarán
+los ajustes del piloto y la producción de nuevas unidades. Asimismo, se
+realizará una evaluación del curso y los resultados de quienes
+participen.
+
+## **Perspectiva de género**
+
+A lo largo de estas fases, la incorporación de la perspectiva de género
+se ha planteado mediante: *1)* Preguntar explícitamente aspectos
+relacionados a género a los potenciales usuarios identificados; *2)*
+Hacer visible la brecha de género presente en las áreas STEM y la
+ciencia de datos *3)*Identificar barreras de aprendizaje asociadas al
+género, *4)* Promover la participación de mujeres en el diseño y todas
+las fases del desarrollo, *5)* Retroalimentar el diseño de acuerdo a los
+resultados preliminares encontrados *6)* Incorporar un enfoque de género
+en el diseño y desarrollo del curso mediante el uso de lenguaje
+inclusivo y un equilibrio gráfico que evite la reproducción de
+estereotipos de género.
+
+## **Resultados Preliminares**
+
+- Durante la Fase Exploratoria entre 2022 y 2023 se realizaron cinco
+  jornadas de entrenamientos presencial en campo con alrededor de 400
+  participantes de las áreas STEM y salud en diferentes regiones de
+  Colombia.
+
+- En noviembre de 2023 se realizó el primer piloto del curso online
+  masivo abierto titulado ‘Curso en Ciencia de Datos en Salud Pública y
+  Modelado de Enfermedades Infecciosas’ en la plataforma de aprendizaje
+  en línea de código abierto edX Edge contando con más de 200
+  participantes de 16 países diferentes de América Latina y el Caribe.
+
+- La codificación de los datos cualitativos resultó en varios hallazgos
+  clave entre los cuales **se destacan la claridad, organización y
+  relevancia del contenido del curso, así como la efectividad de los
+  ejercicios prácticos y la diversidad de recursos educativos**. También
+  se identificaron desafíos, como barreras de acceso, sugiriendo áreas
+  de mejora, particularmente en la inclusión de contextos regionales.
+
+- El análisis cualitativo reveló que **más del 80%** de quienes
+  participaron en el curso están de acuerdo con que este cumplió los
+  objetivos propuestos y responde a las necesidades en la región en
+  términos de formación en capacidades de ciencia de datos y
+  modelamiento de enfermedades infecciosas.
+
+- En general **la calificación del curso fue de 4.6/5.0**
+
+- Dentro de los diferentes espacios de entrenamiento presencial y
+  virtual se ha promovido la formación de mujeres, con una participación
+  de más del 60%.
+
+## **Contacto**
+
+- Zulma M. Cucunubá. Investigadora Principal
+  (zulma.cucunuba@javeriana.edu.co)
+- Laura Gómez-Bermeo. Coordinadora de entrenamiento
+  (gomezblaura@javeriana.edu.co)
+- Proyecto TRACE-LAC trace@javeriana.edu.co
