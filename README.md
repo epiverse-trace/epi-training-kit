@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-> # `e-Epi-training kit`
+> # <img src="./img/LogoEpiTKit.jpg" width="120" /> `e-Epi-training kit`
 >
 > ### **Estrategia de entrenamiento en modelamiento matemático de enfermedades infecciosas y ciencia de datos en salud pública con perspectiva de género**
 
