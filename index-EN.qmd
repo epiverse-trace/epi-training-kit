@@ -9,7 +9,7 @@ editor: visual
 
 Project led by [Pontificia Universidad Javeriana](https://medicina.javeriana.edu.co/trace-lac) Bogotá within the framework [Epiverse-TRACE](https://data.org/initiatives/epiverse/) with support from Universidad de los Andes in Colombia, Data.org, and the London School of Hygiene and Tropical Medicine in the UK. Project sponsored by IDRC Canada.
 
-Last updated: May 22, 2024
+Last updated: July 11, 2024
 
 ## **Motivation**
 
