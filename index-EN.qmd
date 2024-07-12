@@ -9,7 +9,7 @@ editor: visual
 
 Project led by [Pontificia Universidad Javeriana](https://medicina.javeriana.edu.co/trace-lac) Bogotá within the framework [Epiverse-TRACE](https://data.org/initiatives/epiverse/) with support from Universidad de los Andes in Colombia, Data.org, and the London School of Hygiene and Tropical Medicine in the UK. Project sponsored by IDRC Canada.
 
-Last updated: May 22, 2024
+Last updated: July 11, 2024
 
 ## **Motivation**
 
@@ -33,7 +33,7 @@ The development of this strategy includes the creation of a Massive Open Online 
 
 -   **Outbreak Response Module**: Presents the main knowledge and tools to effectively identify and manage infectious disease outbreak situations. This module includes elements of epidemiological surveillance systems, step-by-step outbreak investigations, effective risk communication, and the role of field and laboratory activities in outbreak response..
 
--   **Modeling and Analytics Module**: Presents theoretical concepts, practical exercises, and case studies for constructing mathematical models of infectious disease spread, exploring parameters, and statistical applications. This module allows the development of skills to apply advanced analytical techniques in interpreting epidemiological data and making informed decisions in public health situations.
+-   **Modelling and Analytics Module**: Presents theoretical concepts, practical exercises, and case studies for constructing mathematical models of infectious disease spread, exploring parameters, and statistical applications. This module allows the development of skills to apply advanced analytical techniques in interpreting epidemiological data and making informed decisions in public health situations.
 
 Each of these modules includes several units. Each unit requires an average of 3-5 hours of autonomous work from the student, depending on their interests, profile, and experience (see Figure 1).
 
