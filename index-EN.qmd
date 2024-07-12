@@ -39,7 +39,7 @@ Each of these modules includes several units. Each unit requires an average of 3
 
 <center>
 
-![Figure 1.Modules and Units of the Epi-training Kit](./img/modules.jpg){width="800"}
+![Figure 1.Modules and Units of the Epi-training Kit](./img/Modules.jpg){width="800"}
 
 </center>
 
