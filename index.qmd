@@ -19,6 +19,12 @@ el IDRC de Canadá.
 
 Última actualización: 11 de julio de 2024
 
+::: {.alert .alert-secondary}
+### NOTICIAS: {-}
+Abstract presentado a Infectious Disease
+Modelling Conference 2024
+:::
+
 ## **Motivación**
 
 La formación en modelamiento matemático de enfermedades infecciosas y
