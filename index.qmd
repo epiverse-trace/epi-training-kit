@@ -21,8 +21,7 @@ el IDRC de Canadá.
 
 ::: {.alert .alert-secondary}
 ### NOTICIAS: {-}
-Abstract presentado a Infectious Disease
-Modelling Conference 2024
+Abstract presentado a [Infectious Disease Modelling Conference 2024](https://idmconference.net/)
 :::
 
 ## **Motivación**
