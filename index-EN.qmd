@@ -11,6 +11,11 @@ Project led by [Pontificia Universidad Javeriana](https://medicina.javeriana.edu
 
 Last updated: July 11, 2024
 
+::: {.alert .alert-secondary}
+### NEWS: {-}
+Abstract presented at the [Infectious Disease Modelling Conference 2024](https://idmconference.net/)
+:::
+
 ## **Motivation**
 
 Training in mathematical modelling of infectious diseases and data science has become increasingly important in supporting the management and response to public health emergencies, such as epidemics and pandemics. However, in Latin America, there is still a lack of freely accessible, contextually adapted educational material in Spanish for learning analysis, modelling, and response to outbreaks and epidemics. Furthermore, despite efforts in recent years to reduce the gender gap in STEM fields (science, technology, engineering, and mathematics) and data science specifically, there remains a significant gap in the participation and representation of women in this field, limiting the potential for development and advancement in regional public health. This project promotes the implementation of innovative educational strategies and virtual learning through the creation of a Massive Open Online Course (MOOC) to overcome social, economic, and access barriers to quality education, promoting gender equity.
