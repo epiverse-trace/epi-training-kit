@@ -266,4 +266,4 @@ estereotipos de género.
   (zulma.cucunuba@javeriana.edu.co)
 - Laura Gómez-Bermeo. Coordinadora de entrenamiento
   (gomezblaura@javeriana.edu.co)
-- Proyecto TRACE-LAC trace@javeriana.edu.co
+- Proyecto TRACE-LAC tracelac@javeriana.edu.co
