@@ -14,11 +14,7 @@ Last updated: Sep 13, 2024
 ::: {.alert .alert-secondary}
 ### NEWS: {.unnumbered}
 
--   Abstract accpeted at the [Infectious Disease Modelling Conference 2024](https://idmconference.net/)
-
-```{=html}
-<!-- -->
-```
+-   [Abstract] accepted at the [Infectious Disease Modelling Conference 2024](https://idmconference.net/)
 -   Registrations open for the first implementation of the **Course in Public Health Data Science and Infectious Disease Modeling**
 
 **Link to the registration form** [Here](https://forms.office.com/r/36qWp9YU6U)
@@ -48,7 +44,7 @@ The development of this strategy includes the creation of a MOOC (Massive Open O
 
 -   **Modelling and Analytics Module**: Presents theoretical concepts, practical exercises, and case studies for constructing mathematical models of infectious disease spread, exploring parameters, and statistical applications. This module allows the development of skills to apply advanced analytical techniques in interpreting epidemiological data and making informed decisions in public health situations.
 
-Each of these modules includes several units. Each unit requires an average of 3-5 hours of autonomous work from the student, depending on their interests, profile, and experience (see Figure 1).
+Each of these modules is composed of several units. Each unit has an average duration of between 3 and 5 hours of work, depending on prior knowledge. This course is completely asynchronous and flexible in terms of time, allowing each student to manage their own learning pace. In the following image (Image 1), the modules and units are detailed, with the units already developed and currently available marked in light blue.
 
 <center>
 
@@ -100,9 +96,9 @@ During this phase, the pilot of the initial units of the **'Course in Data Scien
 
 ## **Implementation and Evaluation Phase**
 
-In this phase, the first implementation and evaluation will take place between October 15 and December 15, 2024, with a group of between 500 and 1000 people in Latin America and the Caribbean. For this implementation, 10 learning units will be available on topics such as Epidemic Theory, Mathematical Modeling, and the use of the R programming language for cleaning and analyzing epidemiological data.
+In this phase, the first implementation and evaluation will take place between October 15 and December 15, 2024, with a group of up 1000 people in Latin America and the Caribbean. For this implementation, 10 learning units will be available on topics such as Epidemic Theory, Mathematical Modeling, and the use of the R programming language for cleaning and analyzing epidemiological data.
 
-Important Information about the First Implementation of the **\"Public Health Data Science and Infectious Disease Modeling\"** Course
+Important Information about the First Implementation of the **"Public Health Data Science and Infectious Disease Modeling"** Course
 
 -   **Registrations:** September 16 to October 11, 2024
 
@@ -145,3 +141,16 @@ Throughout these phases, the incorporation of a gender perspective has been addr
 -   Laura Gómez-Bermeo. Training Coordinator (gomezblaura\@javeriana.edu.co)
 
 -   Proyecto TRACE-LAC tracelac\@javeriana.edu.co
+
+## **Abstract**
+
+**An Open Access e-Learning Strategy on Infectious Disease Epidemiology in Latin America: Pilot Study**
+
+**Background**:Infectious Disease Epidemiology is a crucial and multidisciplinary field, requiring expertise in epidemiology, policy, mathematics, and programming, among other areas. Despite its importance, high-quality, regionally adapted educational resources are limited, particularly in Spanish for Latin America. This study piloted an e-learning strategy with a gender perspective, evaluating learning outcomes, educational resources, content relevance, regional adaptation, and platform usability.
+
+**Methods:** We designed a self-learning MOOC (Massive Online Open Course) of four modules i)Epidemic Theory, ii)Data Science in Public Health, iii)Outbreak Response, and iv)Modelling and Advanced Analytics. The MOOC was hosted on the edX Edge platform, including interactives, videos, infographics, podcasts and tutorials. The pilot included a first set of five units across two modules. Evaluation used a mixed-methods approach, including surveys, open-ended questionnaires, and focus groups.
+
+**Results:** A total of 223 professionals from 16 Latin American countries participated, 60% of whom were women. The MOOC had a 57% completion rate,with participants from health and data science. Overall, participants reported meeting the learning objectives, valued the diversity and quality of the training resources, found the content comprehensive and clear, and appreciated the platform's accessibility despite limited internet connectivity. However, they suggested incorporating further regional context and providing additional resources for R programming.
+
+\
+**Conclusion:** The pilot study highlighted the potential of self-directed e-learning training tailored to the local context. Improvements before wider implementation include adding more localized examples, providing additional support for programming units, and expanding outreach to a broader audience.
