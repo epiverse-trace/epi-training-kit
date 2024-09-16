@@ -7,63 +7,72 @@ editor:
 
 > # ![](./img/LogoEpiTKit.jpg){width="150"} `Epi-training kit`
 >
-> ### **Estrategia de entrenamiento en modelamiento matemático de enfermedades infecciosas y ciencia de datos en salud pública con perspectiva de género**
+> ### **Estrategia de entrenamiento online de acceso abierto en modelamiento de enfermedades infecciosas y ciencia de datos en salud pública**
 
 Proyecto liderado por la [Pontificia Universidad
 Javeriana](https://medicina.javeriana.edu.co/trace-lac) Bogotá en el
 marco de la iniciativa
 [Epiverse-TRACE](https://data.org/initiatives/epiverse/) con el apoyo de
-la Universidad de los Andes en Colombia, Data.org y el London School of
-Hygiene and Tropical Medicine en Reino Unido. Proyecto patrocinado por
-el IDRC de Canadá.
+la Universidad de los Andes en Colombia, el London School of Hygiene and
+Tropical Medicine en Reino Unido, el Medical Research Council Unit en
+Gambia, y data.org. Proyecto patrocinado por el IDRC de Canadá.
 
 Última actualización: 11 de julio de 2024
 
 ::: {.alert .alert-secondary}
-### NOTICIAS: {-}
-Abstract presentado a [Infectious Disease Modelling Conference 2024](https://idmconference.net/)
+### NOTICIAS: {.unnumbered}
+
+-   Abstract aceptado en [Infectious Disease
+    Modelling Conference 2024](https://idmconference.net/)
+-   Inscripciones abiertas a la primera implementación del **Curso en
+    ciencia de datos en salud pública y modelamiento de enfermedades
+    infecciosas**
+
+**Link al formulario de inscripción**
+[Aquí](https://forms.office.com/r/36qWp9YU6U)
 :::
 
 ## **Motivación**
 
-La formación en modelamiento matemático de enfermedades infecciosas y
-ciencia de datos ha adquirido una relevancia creciente en el apoyo al
-manejo y respuesta de emergencias de salud pública, como las epidemias y
-pandemias. Sin embargo, en Latinoamérica aún hay ausencia de material
-educativo en español adaptado al contexto de Latinoamérica y el Caribe
-de acceso libre y gratuito para el aprendizaje de análisis, modelamiento
-y respuesta a brotes y epidemias. Además, a pesar de los esfuerzos de
-los últimos años para reducir la brecha de género en las áreas STEM
-(ciencias, tecnología, ingeniería y matemáticas por sus siglas en
-inglés) y la ciencia de datos específicamente, persiste una brecha
-significativa en la participación y representación de mujeres en este
-campo, lo cual limita el potencial de desarrollo y avance en la salud
-pública a nivel regional. Este proyecto promueve la implementación de
-estrategias educativas innovadoras y el aprendizaje virtual mediante la
-creación de un curso en línea masivo y abierto, también conocido como
-MOOC por sus siglas en inglés, que permita sobrepasar barreras sociales,
-económicas y de acceso a educación de calidad, promoviendo la equidad de
-género.
+La ciencia de datos y el modelamiento matemático se han convertido en
+herramientas clave para apoyar la gestión y respuesta ante emergencias
+de salud pública. Sin embargo, en América Latina y el Caribe, la
+disponibilidad de materiales educativos en español sigue siendo
+limitada, y esta situación se ve agravada por barreras sociales,
+económicas y de acceso a educación de calidad abierta. Además, persiste
+una brecha significativa en la participación y representación de mujeres
+en disciplinas STEM (Ciencias, Tecnología, Ingeniería y Matemáticas),
+especialmente en modelamiento matemático, programación y ciencia de
+datos, lo que restringe el potencial para avances en la salud pública
+regional. Por ello, esta estrategia de entrenamiento e-learning busca
+superar estas barreras ofreciendo educación de acceso abierto y de alta
+calidad a través de un MOOC (Curso Masivo Abierto en Línea, por sus
+siglas en inglés "Massive Open Online Course"), promoviendo además la
+equidad de género en estos campos para garantizar un desarrollo más
+inclusivo y efectivo en la respuesta a emergencias de salud pública en
+la región.
 
 ## **Objetivo**
 
-Esta estrategia busca contribuir a cerrar brechas en cuanto al acceso a
-materiales educativos y oportunidades de aprendizaje de calidad en
-ciencia de datos, análisis, modelamiento y respuesta a brotes y
-epidemias en América Latina y el Caribe, promoviendo el libre acceso a
-educación de calidad y la equidad de género.
+El objetivo principal de esta estrategia es proporcionar material
+educativo de acceso abierto en español, adaptado específicamente al
+contexto de América Latina y el Caribe, con el fin de desarrollar
+capacidades en la región en ciencia de datos y modelamiento matemático
+de enfermedades infecciosas
 
 ## **Público Objetivo**
 
 Esta estrategia está dirigida a profesionales y estudiantes en campos
 como el sector de la salud y las áreas STEM (ciencias, tecnología,
-ingenierías y matemáticas).
+ingeniería y matemáticas), así como a personas involucradas en la toma
+de decisiones en salud pública.
 
 ## **Contenidos**
 
 Para la construcción de esta estrategia se tiene contemplado el
-desarrollo de un curso en línea masivo y abierto que contiene unidades
-cortas de aprendizaje agrupadas en cuatro módulos principales:
+desarrollo de un MOOC (Curso Masivo Abierto en Línea, por sus siglas en
+inglés "Massive Open Online Course") que contiene unidades cortas de
+aprendizaje agrupadas en cuatro módulos principales:
 
 -   **Módulo de teoría epidémica y epidemiológica**: Aborda la teoría
     epidémica como base fundamental en la comprensión y manejo de
@@ -216,11 +225,35 @@ interacción con la plataforma.
 ## **Fase de Implementación y Evaluación**
 
 En esta fase se realizará una primera implementación y evaluación entre
-octubre y diciembre de 2024 con un grupo de entre **500 y 1000 personas
-en América Latina y el Caribe**. Para esta implementación se realizarán
-los ajustes del piloto y la producción de nuevas unidades. Asimismo, se
-realizará una evaluación del curso y los resultados de quienes
-participen.
+el 15 de octubre y 15 de diciembre de 2024 con un grupo de entre **500 y
+1000 personas en América Latina y el Caribe**. Para esta implementación
+se tendrán disponibles 10 unidades de aprendizaje en temas de Teoría
+Epidémica, Modelamiento Matemático y el uso del lenguaje de programación
+R para la limpieza y análisis de datos epidemiológicos.
+
+Información importante de la primera implementación del del curso
+**"Ciencia de Datos en Salud Pública y Modelamiento de Enfermedades
+Infecciosas"**
+
+-   **Inscripciones:** 16 de septiembre al 11 de octubre de 2024
+
+-   **Inicio del curso:** 15 de octubre de 2024
+
+-   **Finalización:** 15 de diciembre de 2024
+
+-   **Dirigido a:** Profesionales y estudiantes del sector de la salud y
+    las áreas STEM así como personas involucradas en la toma de
+    decisiones en salud pública en América Latina y el Caribe.
+
+-   **Modalidad:** Virtual, asincrónico a través de la plataforma edX
+    Edge
+
+-   **Duración:** Aproximadamente 30 horas
+
+-   **Costo:** ¡Totalmente gratuito!
+
+**Link al formulario de inscripción:
+[Aquí](https://forms.office.com/r/36qWp9YU6U)**
 
 ## **Perspectiva de género**
 
@@ -276,4 +309,4 @@ estereotipos de género.
     (zulma.cucunuba\@javeriana.edu.co)
 -   Laura Gómez-Bermeo. Coordinadora de entrenamiento
     (gomezblaura\@javeriana.edu.co)
--   Proyecto TRACE-LAC trace\@javeriana.edu.co
+-   Proyecto TRACE-LAC tracelac\@javeriana.edu.co

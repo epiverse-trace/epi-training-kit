@@ -12,7 +12,8 @@ Project led by [Pontificia Universidad Javeriana](https://medicina.javeriana.edu
 Last updated: July 11, 2024
 
 ::: {.alert .alert-secondary}
-### NEWS: {-}
+### NEWS: {.unnumbered}
+
 Abstract presented at the [Infectious Disease Modelling Conference 2024](https://idmconference.net/)
 :::
 
@@ -118,4 +119,4 @@ Throughout these phases, the incorporation of a gender perspective has been addr
 
 -   Laura Gómez-Bermeo. Training Coordinator (gomezblaura\@javeriana.edu.co)
 
--   Proyecto TRACE-LAC trace\@javeriana.edu.co
+-   Proyecto TRACE-LAC tracelac\@javeriana.edu.co
