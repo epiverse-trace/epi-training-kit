@@ -5,33 +5,40 @@ editor: visual
 
 > # ![](./img/LogoEpiTKit.jpg){width="150"} `Epi-training kit`
 >
-> ### **Training Strategy in mathematical modelling of infectious diseases and Data Science in Public Health with a Gender Perspective**
+> ### **Open Access Online Training Strategy in Infectious Disease Modeling and Public Health Data Science**
 
-Project led by [Pontificia Universidad Javeriana](https://medicina.javeriana.edu.co/trace-lac) Bogotá within the framework [Epiverse-TRACE](https://data.org/initiatives/epiverse/) with support from Universidad de los Andes in Colombia, Data.org, and the London School of Hygiene and Tropical Medicine in the UK. Project sponsored by IDRC Canada.
+Project led by [Pontificia Universidad Javeriana](https://medicina.javeriana.edu.co/trace-lac) Bogotá within the framework [Epiverse-TRACE](https://data.org/initiatives/epiverse/) initiative, with support from Universidad de los Andes in Colombia, the London School of Hygiene and Tropical Medicine in the UK, the Medical Research Council Unit in The Gambia, and data.org. The project is funded by the IDRC of Canada.
 
-Last updated: July 11, 2024
+Last updated: Sep 13, 2024
 
 ::: {.alert .alert-secondary}
 ### NEWS: {.unnumbered}
 
-Abstract presented at the [Infectious Disease Modelling Conference 2024](https://idmconference.net/)
+-   Abstract accpeted at the [Infectious Disease Modelling Conference 2024](https://idmconference.net/)
+
+```{=html}
+<!-- -->
+```
+-   Registrations open for the first implementation of the **Course in Public Health Data Science and Infectious Disease Modeling**
+
+**Link to the registration form** [Here](https://forms.office.com/r/36qWp9YU6U)
 :::
 
 ## **Motivation**
 
-Training in mathematical modelling of infectious diseases and data science has become increasingly important in supporting the management and response to public health emergencies, such as epidemics and pandemics. However, in Latin America, there is still a lack of freely accessible, contextually adapted educational material in Spanish for learning analysis, modelling, and response to outbreaks and epidemics. Furthermore, despite efforts in recent years to reduce the gender gap in STEM fields (science, technology, engineering, and mathematics) and data science specifically, there remains a significant gap in the participation and representation of women in this field, limiting the potential for development and advancement in regional public health. This project promotes the implementation of innovative educational strategies and virtual learning through the creation of a Massive Open Online Course (MOOC) to overcome social, economic, and access barriers to quality education, promoting gender equity.
+Data science and mathematical modeling have become key tools to support the management and response to public health emergencies. However, in Latin America and the Caribbean, the availability of educational materials in Spanish remains limited, exacerbated by social, economic, and access barriers to quality open education. Additionally, there is a significant gap in the participation and representation of women in STEM (Science, Technology, Engineering, and Mathematics) disciplines, especially in mathematical modeling, programming, and data science, which restricts the potential for advances in regional public health. Therefore, this e-learning training strategy aims to overcome these barriers by offering high-quality, open-access education through a MOOC (Massive Open Online Course), also promoting gender equity in these fields to ensure more inclusive and effective development in the response to public health emergencies in the region.
 
 ## **Objetive**
 
-This strategy aims to contribute to closing gaps in access to educational materials and quality learning opportunities in data science, analysis, modeling, and response to outbreaks and epidemics in Latin America and the Caribbean, promoting free access to quality education and gender equity.
+The main objective of this strategy is to provide open-access educational material in Spanish, specifically adapted to the context of Latin America and the Caribbean, to develop capacities in the region in data science and mathematical modeling of infectious diseases.
 
 ## **Target Audience**
 
-This strategy is aimed at professionals and students in health sciences as well as STEM fields (science, technology, engineering, and mathematics).
+This strategy is aimed at professionals and students in fields such as the health sector and STEM areas (science, technology, engineering, and mathematics), as well as individuals involved in public health decision-making.
 
 ## **Content**
 
-The development of this strategy includes the creation of a Massive Open Online Course (MOOC) consisting of short learning units grouped into four main modules:
+The development of this strategy includes the creation of a MOOC (Massive Open Online Course) that contains short learning units grouped into four main modules:
 
 -   **Epidemic and Epidemiological Theory Module**: Addresses epidemic theory as a fundamental basis for understanding and managing infectious diseases from their history to the science behind them. This module provides the conceptual and analytical tools necessary to understand how diseases spread in human populations, evaluate their impact, and inform informed decision-making for their prevention and control.
 
@@ -93,7 +100,25 @@ During this phase, the pilot of the initial units of the **'Course in Data Scien
 
 ## **Implementation and Evaluation Phase**
 
-In this phase, an initial implementation and evaluation will take place between October and December 2024 with a group of 500 to 1000 people in Latin America and the Caribbean. For this implementation, adjustments from the pilot will be made, and new units will be produced. Additionally, an evaluation of the course and the results of the participants will be conducted.
+In this phase, the first implementation and evaluation will take place between October 15 and December 15, 2024, with a group of between 500 and 1000 people in Latin America and the Caribbean. For this implementation, 10 learning units will be available on topics such as Epidemic Theory, Mathematical Modeling, and the use of the R programming language for cleaning and analyzing epidemiological data.
+
+Important Information about the First Implementation of the **\"Public Health Data Science and Infectious Disease Modeling\"** Course
+
+-   **Registrations:** September 16 to October 11, 2024
+
+-   **Course Start:** October 15, 2024
+
+-   **Completion:** December 15, 2024
+
+-   **Target Audience:** Professionals and students in the health sector and STEM areas, as well as individuals involved in public health decision-making in Latin America and the Caribbean.
+
+-   **Mode:** Virtual, asynchronous through the edX Edge platform
+
+-   **Duration:** Approximately 30 hours
+
+-   **Cost:** Completely free!
+
+-   **Link to the registration form:** [**Here**](https://forms.office.com/r/36qWp9YU6U)
 
 ## **Gender Perspective**
 

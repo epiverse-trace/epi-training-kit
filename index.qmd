@@ -17,7 +17,7 @@ la Universidad de los Andes en Colombia, el London School of Hygiene and
 Tropical Medicine en Reino Unido, el Medical Research Council Unit en
 Gambia, y data.org. Proyecto patrocinado por el IDRC de Canadá.
 
-Última actualización: 11 de julio de 2024
+Última actualización: 13 de septiembre de 2024
 
 ::: {.alert .alert-secondary}
 ### NOTICIAS: {.unnumbered}
