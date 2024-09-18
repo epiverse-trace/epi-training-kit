@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Epi-training kit"
+  title: "Epi-Training Kit"
   navbar:
     logo: logo_white.svg
     left:
