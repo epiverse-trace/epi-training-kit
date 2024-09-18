@@ -1,5 +1,5 @@
 ---
-title: "Epi-Training kit (Español)"
+title: "Epi-Training Kit (Español)"
 editor: 
   markdown: 
     wrap: 72
