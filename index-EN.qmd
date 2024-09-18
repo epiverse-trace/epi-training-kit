@@ -3,13 +3,11 @@ title: "Epi-Training Kit (English)"
 editor: visual
 ---
 
-> # ![](./img/LogoEpiTKit.jpg){width="150"} `Epi-training kit`
+> # ![](./img/LogoEpiTKit.jpg){width="150"} `Epi-Training Kit`
 >
 > ### **EpiTKit: An open-access online training strategy in infectious disease modeling and public health data science**
 
-Project led by [Pontificia Universidad Javeriana](https://medicina.javeriana.edu.co/trace-lac) Bogotá within the framework [Epiverse-TRACE](https://data.org/initiatives/epiverse/) initiative, with support from Universidad de los Andes in Colombia, the London School of Hygiene and Tropical Medicine in the UK, the Medical Research Council Unit in The Gambia, and data.org. The project is funded by the IDRC of Canada.
-
-Last updated: Sep 13, 2024
+Last updated: Sep 18, 2024
 
 ::: {.alert .alert-secondary}
 ### NEWS: {.unnumbered}

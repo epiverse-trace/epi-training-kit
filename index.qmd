@@ -5,19 +5,11 @@ editor:
     wrap: 72
 ---
 
-> # ![](./img/LogoEpiTKit.jpg){width="150"} `Epi-training kit`
+> # ![](./img/LogoEpiTKit.jpg){width="150"} `Epi-Training Kit`
 >
 > ### EpiTKit: Una estrategia de entrenamiento online de acceso abierto en modelamiento de enfermedades infecciosas y ciencia de datos en salud pública
 
-Proyecto liderado por la [Pontificia Universidad
-Javeriana](https://medicina.javeriana.edu.co/trace-lac) Bogotá en el
-marco de la iniciativa
-[Epiverse-TRACE](https://data.org/initiatives/epiverse/) con el apoyo de
-la Universidad de los Andes en Colombia, el London School of Hygiene and
-Tropical Medicine en Reino Unido, el Medical Research Council Unit en
-Gambia, y data.org. Proyecto patrocinado por el IDRC de Canadá.
-
-Última actualización: 13 de septiembre de 2024
+Última actualización: 18 de septiembre de 2024
 
 ::: {.alert .alert-secondary}
 ### NOTICIAS: {.unnumbered}
@@ -93,7 +85,7 @@ en salud pública.
 ## **Contenidos**
 
 Actualmente, el EpiTKit cuenta con un MOOC (Curso Masivo Abierto en
-Línea, por sus siglas en inglés \"Massive Open Online Course\") que
+Línea, por sus siglas en inglés "Massive Open Online Course") que
 contiene unidades cortas de aprendizaje agrupadas en cuatro módulos
 principales:
 
