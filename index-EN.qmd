@@ -5,7 +5,7 @@ editor: visual
 
 > # ![](./img/LogoEpiTKit.jpg){width="150"} `Epi-training kit`
 >
-> ### **Open Access Online Training Strategy in Infectious Disease Modeling and Public Health Data Science**
+> ### **EpiTKit: An open-access online training strategy in infectious disease modeling and public health data science**
 
 Project led by [Pontificia Universidad Javeriana](https://medicina.javeriana.edu.co/trace-lac) Bogotá within the framework [Epiverse-TRACE](https://data.org/initiatives/epiverse/) initiative, with support from Universidad de los Andes in Colombia, the London School of Hygiene and Tropical Medicine in the UK, the Medical Research Council Unit in The Gambia, and data.org. The project is funded by the IDRC of Canada.
 
@@ -14,27 +14,36 @@ Last updated: Sep 13, 2024
 ::: {.alert .alert-secondary}
 ### NEWS: {.unnumbered}
 
--   [Abstract] accepted at the [Infectious Disease Modelling Conference 2024](https://idmconference.net/)
+-   \[Abstract\] accepted at the [Infectious Disease Modelling Conference 2024](https://idmconference.net/)
+
 -   Registrations open for the first implementation of the **Course in Public Health Data Science and Infectious Disease Modeling**
 
-**Link to the registration form** [Here](https://forms.office.com/r/36qWp9YU6U)
+    **Link to the registration form** [Here](https://edge.edx.org/courses/course-v1:javeriana+000645+2023/about)
 :::
 
-## **Motivation**
+## **What is EpiTKit?**
 
-Data science and mathematical modeling have become key tools to support the management and response to public health emergencies. However, in Latin America and the Caribbean, the availability of educational materials in Spanish remains limited, exacerbated by social, economic, and access barriers to quality open education. Additionally, there is a significant gap in the participation and representation of women in STEM (Science, Technology, Engineering, and Mathematics) disciplines, especially in mathematical modeling, programming, and data science, which restricts the potential for advances in regional public health. Therefore, this e-learning training strategy aims to overcome these barriers by offering high-quality, open-access education through a MOOC (Massive Open Online Course), also promoting gender equity in these fields to ensure more inclusive and effective development in the response to public health emergencies in the region.
+EpiTKit is a training strategy in mathematical modeling of infectious diseases and public health data science, developed by the Pontificia Universidad Javeriana. Its main objective is to provide open-access educational material in Spanish, tailored to the context of Latin America and the Caribbean, to strengthen capacities in data science and mathematical modeling of infectious diseases in the region. Additionally, it promotes gender equity in these fields to ensure a more inclusive and effective development in response to public health emergencies.
+
+## **Epiverse TRACE: A Global Collaboration**
+
+EpiTKit is part of an international collaboration that includes institutions such as the Pontificia Universidad Javeriana and the Universidad de los Andes in Colombia, the London School of Hygiene and Tropical Medicine in the United Kingdom, the Medical Research Council Unit in Gambia, and data.org, with financial support from the International Development Research Center (IDRC) of Canada.
+
+## **Motivation of EpiTKit**
+
+Data science and mathematical modeling have become key tools to support the management and response to public health emergencies. However, in Latin America and the Caribbean, the availability of educational materials in Spanish remains limited, exacerbated by social, economic, and access barriers to quality open education. Additionally, there is a significant gap in the participation and representation of women in STEM (Science, Technology, Engineering, and Mathematics) disciplines, especially in mathematical modeling, programming, and data science, which restricts the potential for advances in regional public health. In this context, EpiTKit emerges as an innovative e-learning strategy designed to overcome these barriers by offering high-quality open-access education through a MOOC (Massive Open Online Course). Furthermore, it promotes gender equity in these fields, ensuring a more inclusive and effective development in response to public health emergencies in the region.
 
 ## **Objetive**
 
-The main objective of this strategy is to provide open-access educational material in Spanish, specifically adapted to the context of Latin America and the Caribbean, to develop capacities in the region in data science and mathematical modeling of infectious diseases.
+The main objective of EpiTKit is to provide open-access educational material in Spanish, specifically adapted to the context of Latin America and the Caribbean, to develop capacities in the region in data science and mathematical modeling of infectious diseases.
 
 ## **Target Audience**
 
-This strategy is aimed at professionals and students in fields such as the health sector and STEM areas (science, technology, engineering, and mathematics), as well as individuals involved in public health decision-making.
+EpiTKit is aimed at professionals and students in fields such as the health sector and STEM areas (science, technology, engineering, and mathematics), as well as individuals involved in public health decision-making.
 
 ## **Content**
 
-The development of this strategy includes the creation of a MOOC (Massive Open Online Course) that contains short learning units grouped into four main modules:
+Currently, EpiTKit features a MOOC (Massive Open Online Course) that includes short learning units grouped into four main modules:
 
 -   **Epidemic and Epidemiological Theory Module**: Addresses epidemic theory as a fundamental basis for understanding and managing infectious diseases from their history to the science behind them. This module provides the conceptual and analytical tools necessary to understand how diseases spread in human populations, evaluate their impact, and inform informed decision-making for their prevention and control.
 
@@ -114,7 +123,7 @@ Important Information about the First Implementation of the **"Public Health Dat
 
 -   **Cost:** Completely free!
 
--   **Link to the registration form:** [**Here**](https://forms.office.com/r/36qWp9YU6U)
+-   **Link to the registration form:** [**Here**](https://edge.edx.org/courses/course-v1:javeriana+000645+2023/about)
 
 ## **Gender Perspective**
 

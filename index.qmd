@@ -7,7 +7,7 @@ editor:
 
 > # ![](./img/LogoEpiTKit.jpg){width="150"} `Epi-training kit`
 >
-> ### **Estrategia de entrenamiento online de acceso abierto en modelamiento de enfermedades infecciosas y ciencia de datos en salud pública**
+> ### EpiTKit: Una estrategia de entrenamiento online de acceso abierto en modelamiento de enfermedades infecciosas y ciencia de datos en salud pública
 
 Proyecto liderado por la [Pontificia Universidad
 Javeriana](https://medicina.javeriana.edu.co/trace-lac) Bogotá en el
@@ -25,15 +25,37 @@ Gambia, y data.org. Proyecto patrocinado por el IDRC de Canadá.
 -   [Abstract](https://epiverse-trace.github.io/epi-training-kit/index-EN.html#abstract)
     aceptado en [Infectious Disease
     Modelling Conference 2024](https://idmconference.net/)
+
 -   Inscripciones abiertas a la primera implementación del **Curso en
     ciencia de datos en salud pública y modelamiento de enfermedades
     infecciosas**
 
-**Link al formulario de inscripción**
-[Aquí](https://forms.office.com/r/36qWp9YU6U)
+    **Link al formulario de
+    inscripción [Aquí](https://edge.edx.org/courses/course-v1:javeriana+000645+2023/about)**
 :::
 
-## **Motivación**
+## **¿Qué es el EpiTKit?**
+
+El EpiTKit es una estrategia de entrenamiento en modelamiento matemático
+de enfermedades infecciosas y ciencia de datos en salud pública,
+desarrollada por la Pontificia Universidad Javeriana. Su objetivo
+principal es proporcionar material educativo de acceso abierto en
+español, adaptado al contexto de América Latina y el Caribe para
+fortalecer las capacidades en ciencia de datos y modelamiento matemático
+de enfermedades infecciosas en la región. Además, promueve la equidad de
+género en estos campos, con el fin de garantizar un desarrollo más
+inclusivo y efectivo en la respuesta a emergencias de salud pública.
+
+## **Epiverse TRACE: una colaboración global**
+
+El EpiTKit forma parte de una colaboración internacional que incluye
+instituciones como la Pontificia Universidad Javeriana y la Universidad
+de los Andes en Colombia, el London School of Hygiene and Tropical
+Medicine en el Reino Unido, el Medical Research Council Unit en Gambia y
+data.org, con el respaldo financiero del International Development
+Research Center (IDRC) de Canadá.
+
+## **Motivación del EpiTKit**
 
 La ciencia de datos y el modelamiento matemático se han convertido en
 herramientas clave para apoyar la gestión y respuesta ante emergencias
@@ -45,35 +67,35 @@ una brecha significativa en la participación y representación de mujeres
 en disciplinas STEM (Ciencias, Tecnología, Ingeniería y Matemáticas),
 especialmente en modelamiento matemático, programación y ciencia de
 datos, lo que restringe el potencial para avances en la salud pública
-regional. Por ello, esta estrategia de entrenamiento e-learning busca
-superar estas barreras ofreciendo educación de acceso abierto y de alta
-calidad a través de un MOOC (Curso Masivo Abierto en Línea, por sus
-siglas en inglés "Massive Open Online Course"), promoviendo además la
-equidad de género en estos campos para garantizar un desarrollo más
-inclusivo y efectivo en la respuesta a emergencias de salud pública en
-la región.
+regional. En este contexto, el EpiTKit surge como una estrategia
+innovadora de e-learning, diseñada para superar estas barreras al
+ofrecer educación de acceso abierto y de alta calidad a través de un
+MOOC (Curso Masivo Abierto en Línea, por sus siglas en inglés "Massive
+Open Online Course"). Además, promueve la equidad de género en estos
+campos, garantizando un desarrollo más inclusivo y efectivo en la
+respuesta a emergencias de salud pública en la región.
 
 ## **Objetivo**
 
-El objetivo principal de esta estrategia es proporcionar material
-educativo de acceso abierto en español, adaptado específicamente al
-contexto de América Latina y el Caribe, con el fin de desarrollar
-capacidades en la región en ciencia de datos y modelamiento matemático
-de enfermedades infecciosas
+El objetivo principal del EpiTKit es proporcionar material educativo de
+acceso abierto en español, adaptado específicamente al contexto de
+América Latina y el Caribe, con el fin de desarrollar capacidades en la
+región en ciencia de datos y modelamiento matemático de enfermedades
+infecciosas.
 
 ## **Público Objetivo**
 
-Esta estrategia está dirigida a profesionales y estudiantes en campos
-como el sector de la salud y las áreas STEM (ciencias, tecnología,
-ingeniería y matemáticas), así como a personas involucradas en la toma
-de decisiones en salud pública.
+El EpiTKit está dirigido a profesionales y estudiantes en campos como el
+sector de la salud y las áreas STEM (ciencias, tecnología, ingeniería y
+matemáticas), así como a personas involucradas en la toma de decisiones
+en salud pública.
 
 ## **Contenidos**
 
-Para la construcción de esta estrategia se tiene contemplado el
-desarrollo de un MOOC (Curso Masivo Abierto en Línea, por sus siglas en
-inglés "Massive Open Online Course") que contiene unidades cortas de
-aprendizaje agrupadas en cuatro módulos principales:
+Actualmente, el EpiTKit cuenta con un MOOC (Curso Masivo Abierto en
+Línea, por sus siglas en inglés \"Massive Open Online Course\") que
+contiene unidades cortas de aprendizaje agrupadas en cuatro módulos
+principales:
 
 -   **Módulo de teoría epidémica y epidemiológica**: Aborda la teoría
     epidémica como base fundamental en la comprensión y manejo de
@@ -255,8 +277,8 @@ Infecciosas"**
 
 -   **Costo:** ¡Totalmente gratuito!
 
-**Link al formulario de inscripción:
-[Aquí](https://forms.office.com/r/36qWp9YU6U)**
+-   **Link al formulario de inscripción:
+     [Aquí](https://edge.edx.org/courses/course-v1:javeriana+000645+2023/about)**
 
 ## **Perspectiva de género**
 
