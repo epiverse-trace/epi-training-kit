@@ -18,12 +18,10 @@ editor:
     aceptado en [Infectious Disease
     Modelling Conference 2024](https://idmconference.net/)
 
--   Inscripciones abiertas a la primera implementación del **Curso en
+-   Estamos finalizando con la primera implementación del **Curso en
     ciencia de datos en salud pública y modelamiento de enfermedades
     infecciosas**
 
-    **Link al formulario de
-    inscripción [Aquí](https://edge.edx.org/courses/course-v1:javeriana+000645+2023/about)**
 :::
 
 ## **¿Qué es el EpiTKit?**
@@ -268,9 +266,6 @@ Infecciosas"**
 -   **Duración:** Aproximadamente 30 horas
 
 -   **Costo:** ¡Totalmente gratuito!
-
--   **Link al formulario de inscripción:
-     [Aquí](https://edge.edx.org/courses/course-v1:javeriana+000645+2023/about)**
 
 ## **Perspectiva de género**
 
