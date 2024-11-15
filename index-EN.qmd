@@ -14,9 +14,8 @@ Last updated: Sep 18, 2024
 
 -   \[Abstract\] accepted at the [Infectious Disease Modelling Conference 2024](https://idmconference.net/)
 
--   Registrations open for the first implementation of the **Course in Public Health Data Science and Infectious Disease Modeling**
+-   Almost finished with the first implementation of the **Course in Public Health Data Science and Infectious Disease Modeling**
 
-    **Link to the registration form** [Here](https://edge.edx.org/courses/course-v1:javeriana+000645+2023/about)
 :::
 
 ## **What is EpiTKit?**
@@ -120,8 +119,6 @@ Important Information about the First Implementation of the **"Public Health Dat
 -   **Duration:** Approximately 30 hours
 
 -   **Cost:** Completely free!
-
--   **Link to the registration form:** [**Here**](https://edge.edx.org/courses/course-v1:javeriana+000645+2023/about)
 
 ## **Gender Perspective**
 
