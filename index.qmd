@@ -9,7 +9,7 @@ editor:
 >
 > ### EpiTKit: Una estrategia de entrenamiento online de acceso abierto en modelamiento de enfermedades infecciosas y ciencia de datos en salud pública
 
-Última actualización: 18 de septiembre de 2024
+Última actualización: 24 de enero de 2024
 
 ::: {.alert .alert-secondary}
 ### NOTICIAS: {.unnumbered}
@@ -239,35 +239,41 @@ interacción con la plataforma.
 
 ## **Fase de Implementación y Evaluación**
 
-En esta fase se realizará una primera implementación y evaluación entre
-el 15 de octubre y 15 de diciembre de 2024 con un grupo de hasta 1000
-personas en América Latina y el Caribe. Para esta implementación se
-tendrán disponibles 10 unidades de aprendizaje en temas de Teoría
-Epidémica, Modelamiento Matemático y el uso del lenguaje de programación
-R para la limpieza y análisis de datos epidemiológicos.
+En esta fase, se realizó una primera implementación y evaluación
+entre el 15 de octubre y el 22 de diciembre de 2024, con un grupo
+de 2208 personas de 27 países, incluyendo 18 países de América Latina
+y el Caribe. Para esta implementación, estuvieron disponibles 10
+unidades de aprendizaje que cubrieron temas de Teoría Epidémica,
+Modelamiento Matemático y el uso del lenguaje de programación R
+para la limpieza y análisis de datos epidemiológicos. Durante esta
+fase, se ofreció el curso **"Ciencia de Datos en Salud Pública y
+Modelamiento de Enfermedades Infecciosas"** en modalidad virtual y
+asincrónica. Este curso fue gratuito, en español, con perspectiva
+de género, y tuvo una duración aproximada de 30 horas. El curso
+estuvo dirigido a profesionales y estudiantes del sector salud y
+las áreas STEM, así como a personas involucradas en la toma de
+decisiones en salud pública en América Latina y el Caribe. La
+ejecución se llevó a cabo mediante la plataforma de cursos
+abiertos masivos en línea, basada en software de código abierto,
+edX Edge.   
 
-Información importante de la primera implementación del del curso
-**"Ciencia de Datos en Salud Pública y Modelamiento de Enfermedades
-Infecciosas"**
+::: {.flourish-embed data-src="story/2395547"}
+```{=html}
+<script src="https://public.flourish.studio/resources/embed.js"></script>
+```
+:::
 
--   **Inscripciones:** 16 de septiembre al 11 de octubre de 2024
+-   **5 de cada 10** participantes se identificaron como mujeres,
+    reflejando una representación de género equilibrada.\
+-   **El grupo incluyó participantes de áreas STEM (27%), salud (70%) y otras disciplinas (3%)**, con
+    niveles variados de formación.
+-   **Cerca de la mitad de los participantes tenía un título de
+    maestría**. Sin embargo también participaron personas con pregrado y
+    doctorado.
+-   La mayoría de los participantes que aprobaron el curso tenían entre 31 y 45 años, seguido por el grupo de **18 a 30 años**.
 
--   **Inicio del curso:** 15 de octubre de 2024
-
--   **Finalización:** 15 de diciembre de 2024
-
--   **Dirigido a:** Profesionales y estudiantes del sector de la salud y
-    las áreas STEM así como personas involucradas en la toma de
-    decisiones en salud pública en América Latina y el Caribe.
-
--   **Modalidad:** Virtual, asincrónico a través de la plataforma edX
-    Edge
-
--   **Duración:** Aproximadamente 30 horas
-
--   **Costo:** ¡Totalmente gratuito!
-
-## **Perspectiva de género**
+    
+## **Perspectiva de género**  
 
 A lo largo de estas fases, la incorporación de la perspectiva de género
 se ha planteado mediante: *1)* Preguntar explícitamente aspectos
