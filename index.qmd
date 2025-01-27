@@ -18,7 +18,7 @@ editor:
     aceptado en [Infectious Disease
     Modelling Conference 2024](https://idmconference.net/)
 
--   Estamos finalizando con la primera implementación del **Curso en
+-   Finalizamos la primera implementación del **Curso en
     ciencia de datos en salud pública y modelamiento de enfermedades
     infecciosas**
 
@@ -257,7 +257,7 @@ ejecución se llevó a cabo mediante la plataforma de cursos
 abiertos masivos en línea, basada en software de código abierto,
 edX Edge.   
 
-::: {.flourish-embed data-src="story/2395547"}
+::: {.flourish-embed data-src="story/2840204"}
 ```{=html}
 <script src="https://public.flourish.studio/resources/embed.js"></script>
 ```
@@ -268,8 +268,8 @@ edX Edge.
 -   **El grupo incluyó participantes de áreas STEM (27%), salud (70%) y otras disciplinas (3%)**, con
     niveles variados de formación.
 -   **Cerca de la mitad de los participantes tenía un título de
-    maestría**. Sin embargo también participaron personas con pregrado y
-    doctorado.
+    maestría**. Sin embargo también participaron personas con pregrado,
+    doctorado y .
 -   La mayoría de los participantes que aprobaron el curso tenían entre 31 y 45 años, seguido por el grupo de **18 a 30 años**.
 
     
