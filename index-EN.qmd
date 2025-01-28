@@ -102,23 +102,27 @@ During this phase, the pilot of the initial units of the **'Course in Data Scien
 
 ## **Implementation and Evaluation Phase**
 
-In this phase, the first implementation and evaluation will take place between October 15 and December 15, 2024, with a group of up 1000 people in Latin America and the Caribbean. For this implementation, 10 learning units will be available on topics such as Epidemic Theory, Mathematical Modeling, and the use of the R programming language for cleaning and analyzing epidemiological data.
+In this phase, the first implementation and evaluation took place between October 15 and December 22, 2024, with a group of 2,208 participants from 27 countries, including 18 countries from Latin America and the Caribbean. For this implementation, the MOOC (Massive Open Online Course) “Data Science in Public Health and Infectious Disease Modeling” was offered in a virtual and asynchronous format, openly and free of charge on the edX EDGE platform. The course consisted of 10 learning units covering topics like Epidemiologic Theory, Mathematical Modeling, and the use of the R programming language for cleaning and analyzing epidemiological data.
 
-Important Information about the First Implementation of the **"Public Health Data Science and Infectious Disease Modeling"** Course
+This course was free, in Spanish, with a gender perspective, and had an approximate duration of 40 hours. It was aimed at professionals and students in the health sector and STEM fields, as well as individuals involved in public health decision-making in Latin America and the Caribbean. The execution was carried out using the edX EDGE open-source software-based MOOC platform.
 
--   **Registrations:** September 16 to October 11, 2024
+::: {.flourish-embed data-src="story/2840204"}
+```{=html}
+<script src="https://public.flourish.studio/resources/embed.js"></script>
+```
+:::
 
--   **Course Start:** October 15, 2024
-
--   **Completion:** December 15, 2024
-
--   **Target Audience:** Professionals and students in the health sector and STEM areas, as well as individuals involved in public health decision-making in Latin America and the Caribbean.
-
--   **Mode:** Virtual, asynchronous through the edX Edge platform
-
--   **Duration:** Approximately 30 hours
-
--   **Cost:** Completely free!
+- **5 out of 10 participants** identified as female, reflecting a balanced gender representation.
+- The group included participants from **STEM fields (27%), health (70%)**, and other disciplines (3%), with varying levels of education.
+- **More than half of the participants had a master's degree.** However, there were also participants with undergraduate degrees, doctoral degrees, and some who reported secondary or high school education.
+- 71% (1,575 participants) accessed the course at some point, and of this group, 35% successfully completed and passed all course requirements.
+- 27% (586 participants) of the total enrollees completed the course.
+- 26% (554 participants) of the total enrollees successfully completed and passed the course.
+- 51% of the participants who completed the course were between 31 and 45 years old, followed by the 18 to 30 years age group.
+- 5% of the participants who completed the course identified as belonging to an ethnic minority and/or marginalized ethnic or racial group in their country of origin.
+- 53% of the participants who completed the course identified as female.
+- 60% of the participants who completed the course were from the field of Medicine and Health Sciences, 17% were from Natural and Exact Sciences, and 10% were from Engineering.
+- 39% of the participants who completed the course belonged to social impact organizations in the public sector (ministries, local agencies, institutes, observatories), 33% belonged to academic organizations, and 13% belonged to social impact organizations in a sector other than the public sector.
 
 ## **Gender Perspective**
 
@@ -126,7 +130,11 @@ Throughout these phases, the incorporation of a gender perspective has been addr
 
 ## **Preliminary Results**
 
+### **Exploratory Phase**
+
 -   During the Exploratory Phase from 2022 to 2023, five in-field training sessions were conducted with around 400 participants from STEM and health fields in various regions of Colombia.
+
+### **Pilot Phase**
 
 -   In November 2023, the first pilot of the massive open online course titled 'Course in Data Science in Public Health and Infectious Disease Modeling' was conducted on the open-source online learning platform edX Edge, with over 200 participants from 16 different countries in Latin America and the Caribbean.
 
@@ -137,6 +145,18 @@ Throughout these phases, the incorporation of a gender perspective has been addr
 -   The overall course rating in the pilot was **4.6 out of 5**.
 
 -   The participation rate of women in our in-person and virtual training spaces has been emphasized, with a participation rate of over 60%.
+
+### **Implementation and Evaluation Phase**
+
+- In October 2024, the first implementation and evaluation of the Massive Open Online Course (MOOC) titled **"Data Science in Public Health and Infectious Disease Modeling"** was conducted on the open-source online learning platform edX Edge, with more than 2,208 participants from 27 countries, predominantly from 18 countries in Latin America and the Caribbean.
+
+- Qualitative analysis revealed that **more than 80%** of participants agreed that the course met the proposed objectives and addressed the region's needs in terms of training in data science and infectious disease modeling capacities.
+
+- On average, **the course rating was 4.7/5.0**.
+
+- The course promoted the education of women, with nearly 50% female participation and ****53%**** of those who completed the course being female.
+
+- The course had a completion rate of 27%, surpassing the typical completion rate reported in the literature, which varies between 7% and 10% (Fu et al., 2021; Gütl et al., 2014), and even exceeding the higher completion rates of 25% (Jordan, 2015; Duncan et al., 2022).
 
 ## **Contact**
 
