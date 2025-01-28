@@ -242,13 +242,13 @@ interacción con la plataforma.
 En esta fase, se realizó una primera implementación y evaluación
 entre el 15 de octubre y el 22 de diciembre de 2024, con un grupo
 de 2208 personas de 27 países, incluyendo 18 países de América Latina
-y el Caribe. Para esta implementación, estuvieron disponibles 10
+y el Caribe. Para esta implementación, se ofreció el curso 
+**"Ciencia de Datos en Salud Pública y Modelamiento de Enfermedades 
+Infecciosas"** en modalidad virtual y asincrónica. El curso conto con 10
 unidades de aprendizaje que cubrieron temas de Teoría Epidémica,
 Modelamiento Matemático y el uso del lenguaje de programación R
-para la limpieza y análisis de datos epidemiológicos. Durante esta
-fase, se ofreció el curso **"Ciencia de Datos en Salud Pública y
-Modelamiento de Enfermedades Infecciosas"** en modalidad virtual y
-asincrónica. Este curso fue gratuito, en español, con perspectiva
+para la limpieza y análisis de datos epidemiológicos.  
+Este curso fue gratuito, en español, con perspectiva
 de género, y tuvo una duración aproximada de 30 horas. El curso
 estuvo dirigido a profesionales y estudiantes del sector salud y
 las áreas STEM, así como a personas involucradas en la toma de
@@ -267,10 +267,22 @@ edX Edge.
     reflejando una representación de género equilibrada.\
 -   **El grupo incluyó participantes de áreas STEM (27%), salud (70%) y otras disciplinas (3%)**, con
     niveles variados de formación.
--   **Cerca de la mitad de los participantes tenía un título de
-    maestría**. Sin embargo también participaron personas con pregrado,
-    doctorado y .
--   La mayoría de los participantes que aprobaron el curso tenían entre 31 y 45 años, seguido por el grupo de **18 a 30 años**.
+-   **Más de la mitad de los participantes tenía un título de
+    maestría**. Sin embargo, también participaron personas con pregrado,
+    doctorado y personas que reportaron eduación secundaria y bachiller.
+-   71% (1,575 participantes) accedieron al curso en algún momento y, de este grupo, 
+el 35% completó y aprobó todos los requisitos del curso exitosamente. 
+-   27% (586 participantes) del total de inscritos completaron el curso. 
+-   26% (554 participantes) del total de inscritos completaron y aprobaron el curso exitosamente.
+-   El 51% de los participantes que completaron el curso tenían entre 31 y 45 años, 
+seguido por el grupo de **18 a 30 años**.
+-  Los participantes que completaron el curso provenian principalmente de 
+Colombia (59%), Panamá (6%) y Perú (6%). 
+- El 90% de participantes que completaron el curso provenian de zona urbana. 
+- El 5% de participantes que completaron el curso se identifico como perteneciente
+a una minoría étnica y/o étnia o raza marginada en el país de orígen.
+- El 53% de participantes que completaron el curso se identifico como género femenino.
+- El 60% de participantes que completaron el curso tiene como área de formación disciplinar Medicina y ciencias de la salud.
 
     
 ## **Perspectiva de género**  
@@ -289,11 +301,14 @@ estereotipos de género.
 
 ## **Resultados Preliminares**
 
+### **Fase exploratoria**
+
 -   Durante la Fase Exploratoria entre 2022 y 2023 se realizaron cinco
     jornadas de entrenamientos presencial en campo con alrededor de 400
     participantes de las áreas STEM y salud en diferentes regiones de
     Colombia.
 
+### **Fase Piloto**
 -   En noviembre de 2023 se realizó el primer piloto del curso online
     masivo abierto titulado 'Curso en Ciencia de Datos en Salud Pública
     y Modelado de Enfermedades Infecciosas' en la plataforma de
@@ -319,7 +334,27 @@ estereotipos de género.
 
 -   Dentro de los diferentes espacios de entrenamiento presencial y
     virtual se ha promovido la formación de mujeres, con una
-    participación de más del 60%.
+    participación de más del 60%. 
+
+### **Fase de Implementación y Evaluación**
+
+-   En octubre de 2024 se realizó la primera implementación y evaluación del curso online
+    masivo abierto titulado **"Ciencia de Datos en Salud Pública y Modelamiento de Enfermedades 
+Infecciosas"**  en la plataforma de
+    aprendizaje en línea de código abierto edX Edge contando con más de
+    2208 participantes de 27 países, con una mayoría predominante de participantes de 18 países de América Latina
+y el Caribe.
+
+-   El análisis cualitativo reveló que **más del 80%** de quienes
+    participaron en el curso están de acuerdo con que este cumplió los
+    objetivos propuestos y responde a las necesidades en la región en
+    términos de formación en capacidades de ciencia de datos y
+    modelamiento de enfermedades infecciosas.
+
+-   En general **la calificación del curso fue de 4.7/5.0**
+
+-   Se promovido la formación de mujeres, con una
+    participación de cerca del 50%. 
 
 ## **Contacto**
 
