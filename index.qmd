@@ -257,7 +257,7 @@ ejecución se llevó a cabo mediante la plataforma de cursos
 abiertos masivos en línea, basada en software de código abierto,
 edX Edge.   
 
-::: {.flourish-embed data-src="story/2840204"}
+::: {.flourish-embed data-src="story/2844489"}
 ```{=html}
 <script src="https://public.flourish.studio/resources/embed.js"></script>
 ```
