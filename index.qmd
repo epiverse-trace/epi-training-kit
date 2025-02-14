@@ -167,7 +167,14 @@ con su aplicación práctica, permitiendo una comprensión de los conceptos
 presentados, así como las habilidades necesarias para aplicar esos
 conocimientos en situaciones reales y retos de salud pública.
 
-Los resultados de esta fase mostraron que esta estrategia podría usarse para apoyar de manera efectiva a una amplia gama de estudiantes, incluidos estudiantes de pregrado y posgrado en los campos de la salud y STEM, así como profesionales, trabajadores de la salud y tomadores de decisiones en salud pública. Dada la diversidad de antecedentes y necesidades de esta audiencia, identificamos cuatro perfiles distintos de estudiantes, que se distinguen por niveles variados de experiencia en programación, epidemiología, gestión de datos, toma de decisiones en salud pública y modelado.
+Los resultados de esta fase mostraron que esta estrategia podría usarse 
+para apoyar de manera efectiva a una amplia gama de estudiantes, incluidos
+estudiantes de pregrado y posgrado en los campos de la salud y STEM, 
+así como profesionales, trabajadores de la salud y tomadores de decisiones 
+en salud pública. Dada la diversidad de antecedentes y necesidades de esta audiencia, 
+identificamos cuatro perfiles distintos de estudiantes, learner personas, 
+que se distinguen por niveles variados de experiencia en programación, epidemiología, 
+gestión de datos, toma de decisiones en salud pública y modelado.
 
 ![Imagen 2. Perfiles Learner personas](./img/learner-personas.jpg){width="800"}
 
