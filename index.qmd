@@ -273,10 +273,11 @@ edX EDGE.
 -   **Más de la mitad de los participantes tenía un título de
     maestría**. Sin embargo, también participaron personas con pregrado,
     doctorado y personas que reportaron educación secundaria y bachiller.
+-   La tasa de aprobación fue del 26% (577 participantes). 
 -   71% (1,575 participantes) accedieron al curso en algún momento y, de este grupo, 
 el 35% completó y aprobó todos los requisitos del curso exitosamente. 
 -   27% (586 participantes) del total de inscritos completaron el curso. 
--   26% (554 participantes) del total de inscritos completaron y aprobaron el curso exitosamente.
+-   25% (554 participantes) del total de inscritos completaron y aprobaron el curso exitosamente.
 -   El 51% de los participantes que completaron el curso tenían entre 31 y 45 años, 
 seguido por el grupo de **18 a 30 años**.
 - El 5% de participantes que completaron el curso se identifico como perteneciente
