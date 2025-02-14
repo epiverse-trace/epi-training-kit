@@ -167,6 +167,10 @@ con su aplicación práctica, permitiendo una comprensión de los conceptos
 presentados, así como las habilidades necesarias para aplicar esos
 conocimientos en situaciones reales y retos de salud pública.
 
+Los resultados de esta fase mostraron que esta estrategia podría usarse para apoyar de manera efectiva a una amplia gama de estudiantes, incluidos estudiantes de pregrado y posgrado en los campos de la salud y STEM, así como profesionales, trabajadores de la salud y tomadores de decisiones en salud pública. Dada la diversidad de antecedentes y necesidades de esta audiencia, identificamos cuatro perfiles distintos de estudiantes, que se distinguen por niveles variados de experiencia en programación, epidemiología, gestión de datos, toma de decisiones en salud pública y modelado.
+
+![Imagen 2. Perfiles Learner personas](./img/learner-personas.jpg){width="800"}
+
 ## **Fase de Diseño y Desarrollo**
 
 Durante esta fase, desarrollada entre marzo y noviembre de 2023, se
@@ -196,7 +200,7 @@ inclusivo y equitativo en estos campos.
 
 <center>
 
-![Figure 2. Portada del curso en la plataforma de
+![Imagen 3. Portada del curso en la plataforma de
 edX](./img/portada.jpg){width="800"}
 
 </center>
@@ -242,7 +246,9 @@ interacción con la plataforma.
 En esta fase, se realizó una primera implementación y evaluación
 entre el 15 de octubre y el 22 de diciembre de 2024, con un grupo
 de 2208 personas de 27 países, incluyendo 18 países de América Latina
-y el Caribe. Para esta implementación, se ofreció el MOOC (curso online
+y el Caribe. De este grupo de participantes 577 fueron certificados, 
+quedando con una tasa de aprobación del 26%. 
+Para esta implementación, se ofreció el MOOC (curso online
     masivo abierto) 
 **"Ciencia de Datos en Salud Pública y Modelamiento de Enfermedades 
 Infecciosas"** en modalidad virtual y asincrónica de forma abierta 
@@ -258,7 +264,8 @@ las áreas STEM, así como a personas involucradas en la toma de
 decisiones en salud pública en América Latina y el Caribe. La
 ejecución se llevó a cabo mediante la plataforma de cursos
 abiertos masivos en línea, basada en software de código abierto,
-edX EDGE.   
+edX EDGE.
+
 
 ::: {.flourish-embed data-src="story/2844489"}
 ```{=html}
@@ -273,7 +280,6 @@ edX EDGE.
 -   **Más de la mitad de los participantes tenía un título de
     maestría**. Sin embargo, también participaron personas con pregrado,
     doctorado y personas que reportaron educación secundaria y bachiller.
--   La tasa de aprobación fue del 26% (577 participantes). 
 -   71% (1,575 participantes) accedieron al curso en algún momento y, de este grupo, 
 el 35% completó y aprobó todos los requisitos del curso exitosamente. 
 -   27% (586 participantes) del total de inscritos completaron el curso. 
