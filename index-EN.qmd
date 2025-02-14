@@ -70,6 +70,11 @@ This exploratory phase allowed for testing content and activities, as well as id
 
 These theoretical and practical training sessions included **keynote lectures, practical exercises in the R programming language, and practical workshops applied to public health**. In this way, the training sessions combined the acquisition of theoretical knowledge with its practical application, allowing for an understanding of the presented concepts, as well as the necessary skills to apply this knowledge in real situations and public health challenges.
 
+The results of this phase showed that this strategy could be used to effectively support a Wide range of learners, including undergraduate and graduate students in health and STEM fields, as well as professionals, healthcare workers, and public health decision-makers. Given the diverse backgrounds and needs of this audience, we identified four distinct learner personas, which are distinguished by varying levels of expertise in programming, epidemiology, data management, public health decision-making, and modeling.
+
+![Figure 2. Learner personas profile](./img/learner-personas.jpg){width="800"}
+
+
 ## **Design and Development Phase**
 
 During this phase, carried out between March and November 2023, the initial units of the virtual course were developed. This phase included content creation and instructional design of the initial units. The instructional design process incorporated the needs and lessons observed in the Exploratory Phase to generate a more efficient, active, and engaging learning experience. Finally, this phase included the production of educational resources such as infographics, videos, podcasts, among others.
@@ -80,7 +85,7 @@ Furthermore, since the course adopts a comprehensive gender perspective in STEM 
 
 <center>
 
-![Figure 2. Course Cover on the edX Platform](./img/portada.jpg){width="800"}
+![Figure 3. Course Cover on the edX Platform](./img/portada.jpg){width="800"}
 
 </center>
 
@@ -102,7 +107,7 @@ During this phase, the pilot of the initial units of the **'Course in Data Scien
 
 ## **Implementation and Evaluation Phase**
 
-In this phase, the first implementation and evaluation took place between October 15 and December 22, 2024, with a group of 2,208 participants from 27 countries, including 18 countries from Latin America and the Caribbean. For this implementation, the MOOC (Massive Open Online Course) “Data Science in Public Health and Infectious Disease Modeling” was offered in a virtual and asynchronous format, openly and free of charge on the edX EDGE platform. The course consisted of 10 learning units covering topics like Epidemiologic Theory, Mathematical Modeling, and the use of the R programming language for cleaning and analyzing epidemiological data.
+In this phase, the first implementation and evaluation took place between October 15 and December 22, 2024, with a group of 2,208 participants from 27 countries, including 18 countries from Latin America and the Caribbean. From this group of participants, 577 were certified, resulting in a pass rate of 26%. For this implementation, the MOOC (Massive Open Online Course) “Data Science in Public Health and Infectious Disease Modeling” was offered in a virtual and asynchronous format, openly and free of charge on the edX EDGE platform. The course consisted of 10 learning units covering topics like Epidemiologic Theory, Mathematical Modeling, and the use of the R programming language for cleaning and analyzing epidemiological data.
 
 This course was free, in Spanish, with a gender perspective, and had an approximate duration of 40 hours. It was aimed at professionals and students in the health sector and STEM fields, as well as individuals involved in public health decision-making in Latin America and the Caribbean. The execution was carried out using the edX EDGE open-source software-based MOOC platform.
 
