@@ -22,7 +22,7 @@ editor:
     ciencia de datos en salud pública y modelamiento de enfermedades
     infecciosas**
 
--   Iniciamos la traducción y adaptación de cinco unidades a inglés y francés para audiencias en diez paises de Áfca
+-   Iniciamos la traducción y adaptación de cinco unidades a inglés y francés para audiencias en diez paises de África.
 
 :::
 
