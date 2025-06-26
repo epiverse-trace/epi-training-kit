@@ -20,7 +20,7 @@ editor:
 
 -   Finalizamos la primera implementación del **Curso en
     ciencia de datos en salud pública y modelamiento de enfermedades
-    infecciosas**
+    infecciosas.**
 
 :::
 
