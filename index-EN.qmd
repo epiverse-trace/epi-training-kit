@@ -7,7 +7,7 @@ editor: visual
 >
 > ### **EpiTKit: An open-access online training strategy in infectious disease modeling and public health data science**
 
-Last updated: Sep 18, 2024
+Last updated: June 27, 2025
 
 ::: {.alert .alert-secondary}
 ### NEWS: {.unnumbered}
