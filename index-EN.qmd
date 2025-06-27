@@ -16,7 +16,7 @@ Last updated: Sep 18, 2024
 
 -   The first implementation of the **Course in Public Health Data Science and Infectious Disease Modeling** was completed in December 2025.
 
--   We initiated the translation and localization of five units from the Epi Training Kit into English and French, adapting the content to the African context. More information available [here](https://epiverse-trace.github.io/epi-training-kit/).
+-   We initiated the translation and localization of five units from the Epi Training Kit into English and French, adapting the content to the African context. More information available [here](https://epiverse-trace.github.io/translation-epitkit/).
 :::
 
 ## **What is EpiTKit?**
