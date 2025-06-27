@@ -9,7 +9,7 @@ editor:
 >
 > ### EpiTKit: Una estrategia de entrenamiento online de acceso abierto en modelamiento de enfermedades infecciosas y ciencia de datos en salud pública
 
-Última actualización: 24 de enero de 2024
+Última actualización: 27 de junio de 2025
 
 ::: {.alert .alert-secondary}
 ### NOTICIAS: {.unnumbered}
