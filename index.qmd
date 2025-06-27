@@ -347,14 +347,13 @@ estereotipos de género.
 
 ### **Fase de Implementación y Evaluación**
 
--   En octubre de 2024 se realizó la primera implementación y evaluación del curso online
-    masivo abierto (MOOC) titulado **"Ciencia de Datos en Salud Pública y Modelamiento de Enfermedades 
-Infecciosas"**  en la plataforma de
-    aprendizaje en línea de código abierto edX Edge contando con más de
-    2208 participantes de 27 países, con una mayoría predominante de participantes de 18 países de América Latina
-y el Caribe.
+En esta fase, la primera implementación y evaluación se llevó a cabo entre el 15 de octubre y el 22 de diciembre de 2024, con un grupo de 2.208 participantes provenientes de 27 países, incluidos 18 países de América Latina y el Caribe. De este grupo, 577 personas obtuvieron la certificación, lo que resultó en una tasa de aprobación del 26%. Para esta implementación, se ofreció el MOOC (curso en línea masivo y abierto) **Ciencia de Datos en Salud Pública y Modelamiento de Enfermedades Infecciosas** en formato virtual y asincrónico, de manera abierta y gratuita a través de la plataforma edX EDGE.
 
--   El análisis cualitativo reveló que **más del 80%** de quienes
+Este curso fue gratuito, en español, con enfoque de género, y tuvo una duración aproximada de 40 horas. Estuvo dirigido a profesionales y estudiantes del sector salud y de las áreas STEM, así como a personas involucradas en la toma de decisiones en salud pública en América Latina y el Caribe. Su ejecución se realizó mediante la plataforma MOOC edX EDGE, basada en software de código abierto.
+
+-   El curso alcanzó una tasa de finalización del 27%, superando las tasas típicas reportadas en la literatura, que oscilan entre el 7% y el 10% (Fu et al., 2021; Gütl et al., 2014), e incluso superando las tasas más altas reportadas del 25% (Jordan, 2015; Duncan et al., 2022).
+
+- -   El análisis cualitativo reveló que **más del 80%** de quienes
     participaron en el curso están de acuerdo con que este cumplió los
     objetivos propuestos y responde a las necesidades en la región en
     términos de formación en capacidades de ciencia de datos y
@@ -362,12 +361,30 @@ y el Caribe.
 
 -   En general **la calificación del curso fue de 4.7/5.0**
 
--   Se ha promovido la formación de mujeres, con una
-    participación de cerca del 50%. Y un 53% de participantes que finalizaron de género femenino.
+-   **5 de cada 10 participantes se identificaron como mujeres**, reflejando una representación de género equilibrada.
 
-- El curso tuvo una tasa de finalización del 27%, superando la tasa de finalización típicamente 
-reportada en la literatura, que varía entre el 7% y el 10% (Fu et al., 2021; Gütl et al., 2014), 
-e incluso superando las tasas de finalización más altas de 25% (Jordan, 2015; Duncan et al., 2022).
+-   El grupo incluyó participantes de áreas STEM (27%), salud (70%) y otras disciplinas (3%), con distintos niveles educativos.
+
+-   Más de la mitad de los participantes tenía un título de maestría. Sin embargo, también hubo participantes con títulos de pregrado, doctorado, y algunas personas que reportaron tener educación secundaria o de bachillerato.
+
+-   **El 71% (1.575 participantes) accedió al curso en algún momento**, y de ese grupo, el 35% completó y aprobó todos los requisitos del curso con éxito.
+
+-   El 26% (554 participantes) del total de inscritos completó y aprobó el curso satisfactoriamente.
+
+-   El 51% de las personas que completaron el curso tenía entre 31 y 45 años, seguidas por el grupo de edad entre 18 y 30 años.
+
+-   **El 5% de quienes completaron el curso se identificaron como parte de una minoría étnica** y/o grupo étnico o racial marginado en su país de origen.
+
+-   El 53% de las personas que completaron el curso se identificaron como mujeres.
+
+- El 60% de quienes completaron el curso provenían del campo de la Medicina y las Ciencias de la Salud, el 17% de las Ciencias Naturales y Exactas, y el 10% de Ingeniería.
+
+- El 39% de los participantes que completaron el curso pertenecían a organizaciones de impacto social del sector público (ministerios, agencias locales, institutos, observatorios), el 33% a organizaciones académicas y el 13% a organizaciones de impacto social en un sector diferente al público.
+
+
+
+
+
 
 
 ## **Contacto**
