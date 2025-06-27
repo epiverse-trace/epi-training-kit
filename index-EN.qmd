@@ -14,7 +14,7 @@ Last updated: Sep 18, 2024
 
 -   \[Abstract\] accepted at the [Infectious Disease Modelling Conference 2024](https://idmconference.net/)
 
--   The first implementation of the **Course in Public Health Data Science and Infectious Disease Modeling** was completed in December 2025
+-   The first implementation of the **Course in Public Health Data Science and Infectious Disease Modeling** was completed in December 2025.
 :::
 
 ## **What is EpiTKit?**
