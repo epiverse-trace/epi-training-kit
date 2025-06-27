@@ -29,15 +29,15 @@ EpiTKit is part of an international collaboration that includes institutions suc
 
 ## **Motivation of EpiTKit**
 
-Data science and mathematical modeling have become key tools to support the management and response to public health emergencies. However, in Latin America and the Caribbean, the availability of educational materials in Spanish remains limited, exacerbated by social, economic, and access barriers to quality open education. Additionally, there is a significant gap in the participation and representation of women in STEM (Science, Technology, Engineering, and Mathematics) disciplines, especially in mathematical modeling, programming, and data science, which restricts the potential for advances in regional public health. In this context, EpiTKit emerges as an innovative e-learning strategy designed to overcome these barriers by offering high-quality open-access education through a MOOC (Massive Open Online Course). Furthermore, it promotes gender equity in these fields, ensuring a more inclusive and effective development in response to public health emergencies in the region.
+Data science and mathematical modeling have become key tools to support the management and response to public health emergencies. However, in Latin America and the Caribbean, the availability of educational materials in Spanish remains limited, exacerbated by social, economic, and access barriers to quality open education. Additionally, there is a significant gap in the participation and representation of women in STEM (Science, Technology, Engineering, and Mathematics) disciplines, especially in mathematical modeling, programming, and data science, which restricts the potential for advances in regional public health. In this context, EpiTKit emerges as an innovative e-learning strategy designed to overcome these barriers by offering high-quality open-access education through a MOOC (Massive Open Online Course). Furthermore, it promotes gender equity in these fields, ensuring a more inclusive and effective development in response to public health emergencies in the region.
 
 ## **Objetive**
 
-The main objective of EpiTKit is to provide open-access educational material in Spanish, specifically adapted to the context of Latin America and the Caribbean, to develop capacities in the region in data science and mathematical modeling of infectious diseases.
+The main objective of EpiTKit is to provide open-access, multilingual (Spanish, English, and French) educational materials that embrace localism by adapting content to the cultural, linguistic, and epidemiological contexts of Latin America and the Caribbean, and Africa. This approach aims to strengthen regional capacities in data science and infectious disease modelling through training that is both globally informed and locally relevant.
 
 ## **Target Audience**
 
-EpiTKit is aimed at professionals and students in fields such as the health sector and STEM areas (science, technology, engineering, and mathematics), as well as individuals involved in public health decision-making.
+EpiTKit is aimed at professionals and students in fields such as the health sector and STEM areas (science, technology, engineering, and mathematics), as well as individuals involved in public health decision-making.
 
 ## **Content**
 
@@ -116,12 +116,11 @@ This course was free, in Spanish, with a gender perspective, and had an approxim
 <script src="https://public.flourish.studio/resources/embed.js"></script>
 ```
 :::
-
+-   **27% (586 participants) of the total enrollees completed the course.**
 -   **5 out of 10 participants** identified as female, reflecting a balanced gender representation.
 -   The group included participants from **STEM fields (27%), health (70%)**, and other disciplines (3%), with varying levels of education.
 -   **More than half of the participants had a master's degree.** However, there were also participants with undergraduate degrees, doctoral degrees, and some who reported secondary or high school education.
 -   71% (1,575 participants) accessed the course at some point, and of this group, 35% successfully completed and passed all course requirements.
--   27% (586 participants) of the total enrollees completed the course.
 -   26% (554 participants) of the total enrollees successfully completed and passed the course.
 -   51% of the participants who completed the course were between 31 and 45 years old, followed by the 18 to 30 years age group.
 -   5% of the participants who completed the course identified as belonging to an ethnic minority and/or marginalized ethnic or racial group in their country of origin.
@@ -133,7 +132,7 @@ This course was free, in Spanish, with a gender perspective, and had an approxim
 
 Throughout these phases, the incorporation of a gender perspective has been addressed by: **1)** Explicitly asking potential users about gender-related aspects; **2)** Making visible the gender gap present in STEM areas and data science; **3)** Identifying learning barriers associated with gender; **4)** Promoting the participation of women in the design and all phases of development; **5)** Providing feedback to the design according to preliminary findings; **6)** Incorporating a gender perspective in the design and development of the course by using inclusive language and a balanced graphic approach that avoids the reproduction of gender stereotypes.
 
-## **Preliminary Results**
+## **Results**
 
 ### **Exploratory Phase**
 
