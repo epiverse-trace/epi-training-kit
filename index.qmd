@@ -33,7 +33,7 @@ instituciones como la Pontificia Universidad Javeriana y la Universidad
 de los Andes en Colombia, el London School of Hygiene and Tropical
 Medicine en el Reino Unido, el Medical Research Council Unit en Gambia y
 data.org, con el respaldo financiero del International Development
-Research Center (IDRC) de Canadá.
+Research Center (IDRC) de Canadá y data.org.
 
 ## **Motivación del EpiTKit**
 
