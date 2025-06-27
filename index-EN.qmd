@@ -21,7 +21,7 @@ Last updated: Sep 18, 2024
 
 ## **What is EpiTKit?**
 
-EpiTKit is a training strategy in mathematical modeling of infectious diseases and public health data science, developed by the Pontificia Universidad Javeriana. Its main objective is to provide open-access educational material in Spanish, tailored to the context of Latin America and the Caribbean, to strengthen capacities in data science and mathematical modeling of infectious diseases in the region. Additionally, it promotes gender equity in these fields to ensure a more inclusive and effective development in response to public health emergencies.
+EpiTKit is a training strategy in mathematical modelling of infectious diseases and public health data science, developed by the Pontificia Universidad Javeriana as part of the Epiverse initiative. Its main goal is to provide open-access, multilingual (Spanish, English, and French) educational materials that are localized to the contexts of Latin America and the Caribbean, and Africa, in order to strengthen regional capacities in data science and infectious disease modelling. . Additionally, it promotes gender equity in these fields to ensure a more inclusive and effective development in response to public health emergencies.
 
 ## **Epiverse TRACE: A Global Collaboration**
 
