@@ -21,7 +21,7 @@ EpiTKit is a training strategy in mathematical modelling of infectious diseases 
 
 ## **Epiverse TRACE: A Global Collaboration**
 
-EpiTKit is part of an international collaboration that includes institutions such as the Pontificia Universidad Javeriana and the Universidad de los Andes in Colombia, the London School of Hygiene and Tropical Medicine in the United Kingdom, the Medical Research Council Unit in Gambia, and data.org, with financial support from data.org and the International Development Research Center (IDRC) of Canada.
+EpiTKit is part of an international collaboration that includes institutions such as the Pontificia Universidad Javeriana and the Universidad de los Andes in Colombia, the London School of Hygiene and Tropical Medicine in the United Kingdom, the Medical Research Council Unit in Gambia, and data.org, with financial support from the International Development Research Center (IDRC) of Canada and data.org.
 
 ## **Motivation of EpiTKit**
 
