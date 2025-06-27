@@ -345,7 +345,7 @@ estereotipos de género.
 
 ### **Fase de Implementación y Evaluación**
 
--     En octubre de 2024 se realizó la primera implementación y evaluación del curso online masivo abierto (MOOC) titulado **Ciencia de Datos en Salud Pública y Modelamiento de Enfermedades Infecciosas** en la plataforma de aprendizaje en línea de código abierto edX Edge contando con más de **2208 participantes de 27 países**, con una mayoría predominante de participantes de 18 países de América Latina y el Caribe.
+-  En octubre de 2024 se realizó la primera implementación y evaluación del curso online masivo abierto (MOOC) titulado **Ciencia de Datos en Salud Pública y Modelamiento de Enfermedades Infecciosas** en la plataforma de aprendizaje en línea de código abierto edX Edge contando con más de **2208 participantes de 27 países**, con una mayoría predominante de participantes de 18 países de América Latina y el Caribe.
 
 
 -   El curso alcanzó una **tasa de finalización del 27%, superando las tasas típicas reportadas en la literatura**, que oscilan entre el 7% y el 10% ([Fu et al., 2021](https://www.sciencedirect.com/science/article/abs/pii/S0045790621002901?via%3Dihub); [Gütl et al., 2014](https://link.springer.com/chapter/10.1007/978-3-319-10671-7_4)), and even exceeding the higher completion rates of 25% ([Jordan, 2015](https://www.irrodl.org/index.php/irrodl/article/view/2112); [Duncan et al., 2022](https://link.springer.com/article/10.1007/s10459-022-10113-x#citeas)).
