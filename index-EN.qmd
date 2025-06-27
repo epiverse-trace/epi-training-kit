@@ -12,11 +12,7 @@ Last updated: Sep 18, 2024
 ::: {.alert .alert-secondary}
 ### NEWS: {.unnumbered}
 
--   \[Abstract\] accepted at the [Infectious Disease Modelling Conference 2024](https://idmconference.net/)
-
--   The first implementation of the **Course in Public Health Data Science and Infectious Disease Modeling** was completed in December 2025.
-
--   We initiated the translation and localization of five units from the Epi Training Kit into English and French, adapting the content to the African context. More information available [here](https://epiverse-trace.github.io/translation-epitkit/).
+-   We initiated the translation and localization of five units from the Epi Training Kit into English and French, adapting the content to the African context. More information available [here](https://epiverse-trace.github.io/translation-epitkit/) and [here](https://data.org/initiatives/epiverse/training-africa/course/) 
 :::
 
 ## **What is EpiTKit?**
@@ -170,15 +166,3 @@ Throughout these phases, the incorporation of a gender perspective has been addr
 
 -   Proyecto TRACE-LAC tracelac\@javeriana.edu.co
 
-## **Abstract**
-
-**An Open Access e-Learning Strategy on Infectious Disease Epidemiology in Latin America: Pilot Study**
-
-**Background**:Infectious Disease Epidemiology is a crucial and multidisciplinary field, requiring expertise in epidemiology, policy, mathematics, and programming, among other areas. Despite its importance, high-quality, regionally adapted educational resources are limited, particularly in Spanish for Latin America. This study piloted an e-learning strategy with a gender perspective, evaluating learning outcomes, educational resources, content relevance, regional adaptation, and platform usability.
-
-**Methods:** We designed a self-learning MOOC (Massive Online Open Course) of four modules i)Epidemic Theory, ii)Data Science in Public Health, iii)Outbreak Response, and iv)Modelling and Advanced Analytics. The MOOC was hosted on the edX Edge platform, including interactives, videos, infographics, podcasts and tutorials. The pilot included a first set of five units across two modules. Evaluation used a mixed-methods approach, including surveys, open-ended questionnaires, and focus groups.
-
-**Results:** A total of 223 professionals from 16 Latin American countries participated, 60% of whom were women. The MOOC had a 57% completion rate,with participants from health and data science. Overall, participants reported meeting the learning objectives, valued the diversity and quality of the training resources, found the content comprehensive and clear, and appreciated the platform's accessibility despite limited internet connectivity. However, they suggested incorporating further regional context and providing additional resources for R programming.
-
-\
-**Conclusion:** The pilot study highlighted the potential of self-directed e-learning training tailored to the local context. Improvements before wider implementation include adding more localized examples, providing additional support for programming units, and expanding outreach to a broader audience.
