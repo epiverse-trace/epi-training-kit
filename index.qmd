@@ -55,12 +55,11 @@ Open Online Course"). Además, promueve la equidad de género en estos
 campos, garantizando un desarrollo más inclusivo y efectivo en la
 respuesta a emergencias de salud pública en la región.
 
+A partir de esta experiencia, y en reconocimiento de necesidades similares en otras partes del mundo, el año 2025, con el apoyo de data.org, marca el inicio de la traducción del Epi Training Kit al inglés y al francés, junto con su adaptación contextual para África. Esta iniciativa busca fortalecer las capacidades regionales mediante recursos educativos que no solo sean accesibles y multilingües, sino también fundamentados en los principios del localismo, asegurando que el contenido sea pertinente a las realidades culturales, lingüísticas y epidemiológicas de cada contexto. Asimismo, promueve la colaboración Sur-Sur, fomentando el intercambio de conocimientos y estrategias de entrenamiento entre América Latina, el Caribe y África.
+
 ## **Objetivo**
 
-El objetivo principal del EpiTKit es proporcionar material educativo de
-acceso abierto en español, adaptado específicamente al contexto de
-América Latina y el Caribe, con el fin de desarrollar capacidades en la
-región en ciencia de datos y modelamiento matemático de enfermedades
+El objetivo principal de EpiTKit es ofrecer materiales educativos de acceso abierto y multilingües (español, inglés y francés), localizados según los contextos de América Latina y el Caribe, y África, con el fin de fortalecer las capacidades en ciencia de datos y modelamiento matemático de enfermedades infecciosas en estas regiones.encia de datos y modelamiento matemático de enfermedades
 infecciosas.
 
 ## **Público Objetivo**
@@ -309,7 +308,7 @@ en el diseño y desarrollo del curso mediante el uso de lenguaje
 inclusivo y un equilibrio gráfico que evite la reproducción de
 estereotipos de género.
 
-## **Resultados Preliminares**
+## **Resultados**
 
 ### **Fase exploratoria**
 
