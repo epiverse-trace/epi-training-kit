@@ -114,7 +114,10 @@ This course was free, in Spanish, with a gender perspective, and had an approxim
 <script src="https://public.flourish.studio/resources/embed.js"></script>
 ```
 :::
--   **27% (586 participants) of the total enrollees completed the course.**
+-   The course achieved a completion rate of 27%, exceeding the typical completion rates reported in the literature, which range between 7% and 10% (Fu et al., 2021; Gütl et al., 2014), and even surpassing the highest reported rates of 25% (Jordan, 2015; Duncan et al., 2022).
+- The qualitative analysis revealed that **over 80% of course participants agreed that the course met its stated objectives and addressed regional needs in terms of capacity building in data science and infectious disease modelling**.
+
+- Overall, the course received a **rating of 4.7 out of 5.0**.
 -   **5 out of 10 participants** identified as female, reflecting a balanced gender representation.
 -   The group included participants from **STEM fields (27%), health (70%)**, and other disciplines (3%), with varying levels of education.
 -   **More than half of the participants had a master's degree.** However, there were also participants with undergraduate degrees, doctoral degrees, and some who reported secondary or high school education.
