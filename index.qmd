@@ -241,13 +241,12 @@ interacción con la plataforma.
 
 En esta fase, se realizó una primera implementación y evaluación
 entre el 15 de octubre y el 22 de diciembre de 2024, con un grupo
-de 2208 personas de 27 países, incluyendo 18 países de América Latina
-y el Caribe. De este grupo de participantes 577 fueron certificados, 
-quedando con una tasa de aprobación del 26%. 
+de **2208 personas de 27 países, incluyendo 18 países de América Latina
+y el Caribe**. De este grupo de participantes **577 fueron certificados, 
+quedando con una tasa de aprobación del 26%**. 
 Para esta implementación, se ofreció el MOOC (curso online
-    masivo abierto) 
-**"Ciencia de Datos en Salud Pública y Modelamiento de Enfermedades 
-Infecciosas"** en modalidad virtual y asincrónica de forma abierta 
+    masivo abierto) **Ciencia de Datos en Salud Pública y Modelamiento de Enfermedades 
+Infecciosas** en modalidad virtual y asincrónica de forma abierta 
 y gratuita en la plataforma edX EDGE. El curso conto con 10
 unidades de aprendizaje que cubrieron temas de Teoría Epidémica,
 Modelamiento Matemático y el uso del lenguaje de programación R
@@ -268,7 +267,7 @@ edX EDGE.
 <script src="https://public.flourish.studio/resources/embed.js"></script>
 ```
 :::
-
+-   **26% (577 participantes)** del total de inscritos completaron y aprobaron el curso.
 -   **5 de cada 10** participantes se identificaron como mujeres,
     reflejando una representación de género equilibrada.\
 -   **El grupo incluyó participantes de áreas STEM (27%), salud (70%) y otras disciplinas (3%)**, con
@@ -279,11 +278,10 @@ edX EDGE.
 -   71% (1,575 participantes) accedieron al curso en algún momento y, de este grupo, 
 el 35% completó y aprobó todos los requisitos del curso exitosamente. 
 -   27% (586 participantes) del total de inscritos completaron el curso. 
--   25% (554 participantes) del total de inscritos completaron y aprobaron el curso exitosamente.
 -   El 51% de los participantes que completaron el curso tenían entre 31 y 45 años, 
 seguido por el grupo de **18 a 30 años**.
-- El 5% de participantes que completaron el curso se identifico como perteneciente
-a una minoría étnica y/o étnia o raza marginada en el país de orígen.
+- **El 5% de participantes que completaron el curso se identifico como perteneciente
+a una minoría étnica** y/o étnia o raza marginada en el país de orígen.
 - El 53% de participantes que completaron el curso se identifico como género femenino.
 - El 60% de participantes que completaron el curso tiene como área de formación 
 disciplinar Medicina y ciencias de la salud, el 17% Ciencia naturales y exactas 
@@ -347,13 +345,13 @@ estereotipos de género.
 
 ### **Fase de Implementación y Evaluación**
 
-En esta fase, la primera implementación y evaluación se llevó a cabo entre el 15 de octubre y el 22 de diciembre de 2024, con un grupo de 2.208 participantes provenientes de 27 países, incluidos 18 países de América Latina y el Caribe. De este grupo, 577 personas obtuvieron la certificación, lo que resultó en una tasa de aprobación del 26%. Para esta implementación, se ofreció el MOOC (curso en línea masivo y abierto) **Ciencia de Datos en Salud Pública y Modelamiento de Enfermedades Infecciosas** en formato virtual y asincrónico, de manera abierta y gratuita a través de la plataforma edX EDGE.
+-     En octubre de 2024 se realizó la primera implementación y evaluación del curso online masivo abierto (MOOC) titulado **Ciencia de Datos en Salud Pública y Modelamiento de Enfermedades Infecciosas** en la plataforma de aprendizaje en línea de código abierto edX Edge contando con más de **2208 participantes de 27 países**, con una mayoría predominante de participantes de 18 países de América Latina y el Caribe.
 
-Este curso fue gratuito, en español, con enfoque de género, y tuvo una duración aproximada de 40 horas. Estuvo dirigido a profesionales y estudiantes del sector salud y de las áreas STEM, así como a personas involucradas en la toma de decisiones en salud pública en América Latina y el Caribe. Su ejecución se realizó mediante la plataforma MOOC edX EDGE, basada en software de código abierto.
 
--   El curso alcanzó una tasa de finalización del 27%, superando las tasas típicas reportadas en la literatura, que oscilan entre el 7% y el 10% (Fu et al., 2021; Gütl et al., 2014), e incluso superando las tasas más altas reportadas del 25% (Jordan, 2015; Duncan et al., 2022).
+-   El curso alcanzó una **tasa de finalización del 27%, superando las tasas típicas reportadas en la literatura**, que oscilan entre el 7% y el 10% ([Fu et al., 2021](https://www.sciencedirect.com/science/article/abs/pii/S0045790621002901?via%3Dihub); [Gütl et al., 2014](https://link.springer.com/chapter/10.1007/978-3-319-10671-7_4)), and even exceeding the higher completion rates of 25% ([Jordan, 2015](https://www.irrodl.org/index.php/irrodl/article/view/2112); [Duncan et al., 2022](https://link.springer.com/article/10.1007/s10459-022-10113-x#citeas)).
 
-- -   El análisis cualitativo reveló que **más del 80%** de quienes
+
+- El análisis cualitativo reveló que **más del 80%** de quienes
     participaron en el curso están de acuerdo con que este cumplió los
     objetivos propuestos y responde a las necesidades en la región en
     términos de formación en capacidades de ciencia de datos y
@@ -361,26 +359,8 @@ Este curso fue gratuito, en español, con enfoque de género, y tuvo una duraci�
 
 -   En general **la calificación del curso fue de 4.7/5.0**
 
--   **5 de cada 10 participantes se identificaron como mujeres**, reflejando una representación de género equilibrada.
 
--   El grupo incluyó participantes de áreas STEM (27%), salud (70%) y otras disciplinas (3%), con distintos niveles educativos.
-
--   Más de la mitad de los participantes tenía un título de maestría. Sin embargo, también hubo participantes con títulos de pregrado, doctorado, y algunas personas que reportaron tener educación secundaria o de bachillerato.
-
--   **El 71% (1.575 participantes) accedió al curso en algún momento**, y de ese grupo, el 35% completó y aprobó todos los requisitos del curso con éxito.
-
--   El 26% (554 participantes) del total de inscritos completó y aprobó el curso satisfactoriamente.
-
--   El 51% de las personas que completaron el curso tenía entre 31 y 45 años, seguidas por el grupo de edad entre 18 y 30 años.
-
--   **El 5% de quienes completaron el curso se identificaron como parte de una minoría étnica** y/o grupo étnico o racial marginado en su país de origen.
-
--   El 53% de las personas que completaron el curso se identificaron como mujeres.
-
-- El 60% de quienes completaron el curso provenían del campo de la Medicina y las Ciencias de la Salud, el 17% de las Ciencias Naturales y Exactas, y el 10% de Ingeniería.
-
-- El 39% de los participantes que completaron el curso pertenecían a organizaciones de impacto social del sector público (ministerios, agencias locales, institutos, observatorios), el 33% a organizaciones académicas y el 13% a organizaciones de impacto social en un sector diferente al público.
-
+- El curso promovió la educación de las mujeres, con una participación femenina cercana al 50% y **el 53% de las personas que completaron el curso identificándose como mujeres**.
 
 
 
