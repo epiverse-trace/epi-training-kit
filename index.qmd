@@ -14,13 +14,7 @@ editor:
 ::: {.alert .alert-secondary}
 ### NOTICIAS: {.unnumbered}
 
--   [Abstract](https://epiverse-trace.github.io/epi-training-kit/index-EN.html#abstract)
-    aceptado en [Infectious Disease
-    Modelling Conference 2024](https://idmconference.net/)
-
--   Finalizamos la primera implementación del **Curso en
-    ciencia de datos en salud pública y modelamiento de enfermedades
-    infecciosas.**
+-   Iniciamos la traducción y adaptación de cinco unidades del Epi Training Kit al inglés y al francés, ajustadas al contexto africano. Para más información, visita los siguientes enlaces:  [sitio web del proyecto ](https://epiverse-trace.github.io/translation-epitkit/) y  [sitio web de Epiverse Epidemiological Data Science Training for Africa](https://data.org/initiatives/epiverse/training-africa/course/).
 
 :::
 
