@@ -9,12 +9,28 @@ editor:
 >
 > ### EpiTKit: Una estrategia de entrenamiento online de acceso abierto en modelamiento de enfermedades infecciosas y ciencia de datos en salud pública
 
-Última actualización: 27 de junio de 2025
+Última actualización: 09 de septiembre de 2025
 
 ::: {.alert .alert-secondary}
 ### NOTICIAS: {.unnumbered}
 
--   Iniciamos la traducción y adaptación de cinco unidades del Epi Training Kit a inglés y francés, ajustadas al contexto africano. Para más información, visita los siguientes enlaces:  [sitio web del proyecto ](https://epiverse-trace.github.io/translation-epitkit/) y  [sitio web de Epiverse Epidemiological Data Science Training for Africa](https://data.org/initiatives/epiverse/training-africa/course/).
+-   Estamos en producción de cinco unidades del Epi Training Kit a inglés y francés, ajustadas al contexto africano. Para más información, visita los siguientes enlaces:  [sitio web del proyecto ](https://epiverse-trace.github.io/translation-epitkit/) y  [sitio web de Epiverse Epidemiological Data Science Training for Africa](https://data.org/initiatives/epiverse/training-africa/course/).
+
+- Ya salieron las primera unidades en inglés y francés
+
+| Idioma | Título de la unidad                                                          | Enlace                                                                 |
+|----------|----------------------------------------------------------------------------|----------------------------------------------------------------------|
+| English  | Introduction to Infectious Disease Modelling for Public Health            | [Enroll here](https://online.atingi.org/enrol/index.php?id=6015)     |
+| English  | General Epidemiology Applied to Infectious Diseases                       | [Enroll here](https://online.atingi.org/enrol/index.php?id=6121)     |
+| English  | Introduction to Statistics and Probability                                | Coming soon                                                          |
+| English  | Parameters                                                                 | Coming soon                                                          |
+| English  | Building a Deterministic Model                                             | Coming soon                                                          |
+| French   | Introduction à la modélisation des maladies infectieuses pour la santé publique | [S’inscrire ici](https://online.atingi.org/enrol/index.php?id=6067)   |
+| French   | Épidémiologie générale appliquée aux maladies infectieuses                | [S’inscrire ici](https://online.atingi.org/enrol/index.php?id=6135)  |
+| French   | Introduction aux statistiques et probabilités                             | À venir                                                              |
+| French   | Paramètres                                                                 | À venir                                                              |
+| French   | Construction d’un modèle déterministe                                     | À venir                                                              |
+
 
 :::
 
