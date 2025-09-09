@@ -13,6 +13,24 @@ Last updated: June 27, 2025
 ### NEWS: {.unnumbered}
 
 -   We initiated the translation and adaptation of five units from the Epi Training Kit into English and French, tailored to the African context. For more information, please visit the following links: [project website](https://epiverse-trace.github.io/translation-epitkit/) and [Epiverse Epidemiological Data Science Training for Africa website](https://data.org/initiatives/epiverse/training-africa/course/).
+
+
+### Available Units
+
+| Language | Unit Title                                                                 | Link                                                                 |
+|----------|----------------------------------------------------------------------------|----------------------------------------------------------------------|
+| English  | Introduction to Infectious Disease Modelling for Public Health            | [Enroll here](https://online.atingi.org/enrol/index.php?id=6015)     |
+| English  | General Epidemiology Applied to Infectious Diseases                       | [Enroll here](https://online.atingi.org/enrol/index.php?id=6121)     |
+| English  | Introduction to Statistics and Probability                                | Coming soon                                                          |
+| English  | Parameters                                                                 | Coming soon                                                          |
+| English  | Building a Deterministic Model                                             | Coming soon                                                          |
+| French   | Introduction à la modélisation des maladies infectieuses pour la santé publique | [S’inscrire ici](https://online.atingi.org/enrol/index.php?id=6067)   |
+| French   | Épidémiologie générale appliquée aux maladies infectieuses                | [S’inscrire ici](https://online.atingi.org/enrol/index.php?id=6135)  |
+| French   | Introduction aux statistiques et probabilités                             | À venir                                                              |
+| French   | Paramètres                                                                 | À venir                                                              |
+| French   | Construction d’un modèle déterministe                                     | À venir                                                              |
+
+
 :::
 
 ## **What is EpiTKit?**
