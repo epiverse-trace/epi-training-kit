@@ -14,9 +14,17 @@ editor:
 ::: {.alert .alert-secondary}
 ### NOTICIAS: {.unnumbered}
 
--   Estamos en producción de cinco unidades del Epi Training Kit a inglés y francés, ajustadas al contexto africano. Para más información, visita los siguientes enlaces:  [sitio web del proyecto ](https://epiverse-trace.github.io/translation-epitkit/) y  [sitio web de Epiverse Epidemiological Data Science Training for Africa](https://data.org/initiatives/epiverse/training-africa/course/).
+-   Estamos realizando la traducción y adaptación de cinco unidades del Epi Training Kit a inglés y francés, ajustadas al contexto africano. Para más información, visita los siguientes enlaces:  [sitio web del proyecto ](https://epiverse-trace.github.io/translation-epitkit/) y  [sitio web de Epiverse Epidemiological Data Science Training for Africa](https://data.org/initiatives/epiverse/training-africa/course/).
 
-- Ya salieron las primera unidades en inglés y francés
+## Inscripción a las unidades disponibles
+
+Para acceder a las unidades disponibles, primero debe crear una cuenta en Atingi a través del siguiente enlace:  
+[Atingi](https://online.atingi.org/login/signup.php?lang=sp)
+
+Una vez creada la cuenta, podrá utilizar los enlaces que aparecen en la tabla correspondiente para inscribirse directamente en cada curso.
+
+Para consultar instrucciones detalladas sobre el proceso de registro, visite:  
+[Step by step how to enroll on Atingi](https://epiverse-trace.github.io/translation-epitkit/#step-by-step-how-to-enroll-on-atingi)
 
 | Idioma | Título de la unidad                                                          | Enlace                                                                 |
 |----------|----------------------------------------------------------------------------|----------------------------------------------------------------------|
