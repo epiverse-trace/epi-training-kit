@@ -12,7 +12,7 @@ Last updated: June 27, 2025
 ::: {.alert .alert-secondary}
 ### NEWS: {.unnumbered}
 
--   We initiated the translation and adaptation of five units from the Epi Training Kit into English and French, tailored to the African context. For more information, please visit the following links: [project website](https://epiverse-trace.github.io/translation-epitkit/) and [Epiverse Epidemiological Data Science Training for Africa website](https://data.org/initiatives/epiverse/training-africa/course/).
+-   We initiated the production of five units from the Epi Training Kit into English and French, tailored to the African context. For more information, please visit the following links: [project website](https://epiverse-trace.github.io/translation-epitkit/) and [Epiverse Epidemiological Data Science Training for Africa website](https://data.org/initiatives/epiverse/training-africa/course/).
 
 
 ### Available Units
