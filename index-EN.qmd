@@ -7,15 +7,22 @@ editor: visual
 >
 > ### **EpiTKit: An open-access online training strategy in infectious disease modeling and public health data science**
 
-Last updated: June 27, 2025
+Last updated: Sept 09, 2025
 
 ::: {.alert .alert-secondary}
 ### NEWS: {.unnumbered}
 
--   We initiated the production of five units from the Epi Training Kit into English and French, tailored to the African context. For more information, please visit the following links: [project website](https://epiverse-trace.github.io/translation-epitkit/) and [Epiverse Epidemiological Data Science Training for Africa website](https://data.org/initiatives/epiverse/training-africa/course/).
+-   We initiated the translation and adaptation of five units from the Epi Training Kit into English and French, tailored to the African context. For more information, please visit the following links: [project website](https://epiverse-trace.github.io/translation-epitkit/) and [Epiverse Epidemiological Data Science Training for Africa website](https://data.org/initiatives/epiverse/training-africa/course/).
 
+#### Enrollment in Available Units
 
-### Available Units
+To access the available units, you must first create an account on Atingi using the following link:  
+[Atingi Registration](https://online.atingi.org/login/signup.php?lang=en)
+
+Once your account is created, you can use the links provided in the corresponding table to enroll directly in each course.
+
+For detailed instructions on the registration process, please visit:  
+[Step-by-step: How to Enroll on Atingi](https://epiverse-trace.github.io/translation-epitkit/#step-by-step-how-to-enroll-on-atingi)
 
 | Language | Unit Title                                                                 | Link                                                                 |
 |----------|----------------------------------------------------------------------------|----------------------------------------------------------------------|
