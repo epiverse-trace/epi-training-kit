@@ -12,22 +12,22 @@ Last updated: Sept 09, 2025
 ::: {.alert .alert-secondary}
 ### NEWS: {.unnumbered}
 
-#### We initiated the translation and adaptation of five units from the Epi Training Kit into English and French, tailored to the African context. For more information, please visit the following links: [project website](https://epiverse-trace.github.io/translation-epitkit/) and [Epiverse Epidemiological Data Science Training for Africa website](https://data.org/initiatives/epiverse/training-africa/course/).
+#### We initiated the translation and adaptation of five units from the Epi-Training Kit into English and French, tailored to the African context. For more information, please visit the following links: [project website](https://epiverse-trace.github.io/translation-epitkit/) and [Epiverse Epidemiological Data Science Training for Africa website](https://data.org/initiatives/epiverse/training-africa/course/).
 
-### Enrollment in Available Units
+### Enrolment in Available Units
 
 To access the available units, you must first create an account on Atingi using the following link:  
 [Atingi Registration](https://online.atingi.org/login/signup.php?lang=en)
 
-Once your account is created, you can use the links provided in the corresponding table to enroll directly in each course.
+Once your account is created, you can use the links provided in the corresponding table to enrol directly in each course.
 
 For detailed instructions on the registration process, please visit:  
-[Step-by-step: How to Enroll on Atingi](https://epiverse-trace.github.io/translation-epitkit/#step-by-step-how-to-enroll-on-atingi)
+[Step-by-step: How to Enrol on Atingi](https://epiverse-trace.github.io/translation-epitkit/#step-by-step-how-to-enrol-on-atingi)
 
 | Language | Unit Title                                                                 | Link                                                                 |
 |----------|----------------------------------------------------------------------------|----------------------------------------------------------------------|
-| English  | Introduction to Infectious Disease Modelling for Public Health            | [Enroll here](https://online.atingi.org/enrol/index.php?id=6015)     |
-| English  | General Epidemiology Applied to Infectious Diseases                       | [Enroll here](https://online.atingi.org/enrol/index.php?id=6121)     |
+| English  | Introduction to Infectious Disease Modelling for Public Health            | [Enrol here](https://online.atingi.org/enrol/index.php?id=6015)     |
+| English  | General Epidemiology Applied to Infectious Diseases                       | [Enrol here](https://online.atingi.org/enrol/index.php?id=6121)     |
 | English  | Introduction to Statistics and Probability                                | Coming soon                                                          |
 | English  | Parameters                                                                 | Coming soon                                                          |
 | English  | Building a Deterministic Model                                             | Coming soon                                                          |
@@ -42,7 +42,7 @@ For detailed instructions on the registration process, please visit:
 
 ## **What is EpiTKit?**
 
-EpiTKit is a training strategy in mathematical modelling of infectious diseases and public health data science, developed by the Pontificia Universidad Javeriana as part of the Epiverse initiative. Its main goal is to provide open-access, multilingual (Spanish, English, and French) educational materials that are localized to the contexts of Latin America and the Caribbean, and Africa, in order to strengthen regional capacities in data science and infectious disease modelling. . Additionally, it promotes gender equity in these fields to ensure a more inclusive and effective development in response to public health emergencies.
+EpiTKit is a training strategy in mathematical modelling of infectious diseases and public health data science, developed by the Pontificia Universidad Javeriana as part of the Epiverse initiative. Its main goal is to provide open-access, multilingual (Spanish, English, and French) educational materials that are localised to the contexts of Latin America and the Caribbean, and Africa, in order to strengthen regional capacities in data science and infectious disease modelling. . Additionally, it promotes gender equity in these fields to ensure a more inclusive and effective development in response to public health emergencies.
 
 ## **Epiverse TRACE: A Global Collaboration**
 
@@ -52,7 +52,7 @@ EpiTKit is part of an international collaboration that includes institutions suc
 
 Data science and mathematical modeling have become key tools to support the management and response to public health emergencies. However, in Latin America and the Caribbean, the availability of educational materials in Spanish remains limited, exacerbated by social, economic, and access barriers to quality open education. Additionally, there is a significant gap in the participation and representation of women in STEM (Science, Technology, Engineering, and Mathematics) disciplines, especially in mathematical modeling, programming, and data science, which restricts the potential for advances in regional public health. In this context, EpiTKit emerges as an innovative e-learning strategy designed to overcome these barriers by offering high-quality open-access education through a MOOC (Massive Open Online Course). Furthermore, it promotes gender equity in these fields, ensuring a more inclusive and effective development in response to public health emergencies in the region.
 
-Given this experience, and in recognition of similar needs in other parts of the world, the year 2025, with the support of data.org, marks the beginning of the translation of the Epi Training Kit into English and French, along with its contextual adaptation for Africa. This initiative aims to strengthen regional capacities with educational resources that are not only accessible and multilingual, but also grounded in the principles of localism, ensuring that content is relevant to the cultural, linguistic, and epidemiological realities of each context. It also fosters South-South collaboration, promoting the exchange of knowledge and training strategies between Latin America, the Caribbean, and Africa.
+Given this experience, and in recognition of similar needs in other parts of the world, the year 2025, with the support of data.org, marks the beginning of the translation of the Epi-Training Kit into English and French, along with its contextual adaptation for Africa. This initiative aims to strengthen regional capacities with educational resources that are not only accessible and multilingual, but also grounded in the principles of localism, ensuring that content is relevant to the cultural, linguistic, and epidemiological realities of each context. It also fosters South-South collaboration, promoting the exchange of knowledge and training strategies between Latin America, the Caribbean, and Africa.
 
 ## **Objective**
 
@@ -139,7 +139,7 @@ This course was free, in Spanish, with a gender perspective, and had an approxim
 <script src="https://public.flourish.studio/resources/embed.js"></script>
 ```
 :::
--   **26% (554 participants) of the total enrollees successfully completed and passed the course**.
+-   **26% (554 participants) of the total number enrolled successfully completed and passed the course**.
 -   **5 out of 10 participants** identified as female, reflecting a balanced gender representation.
 -   The group included participants from **STEM fields (27%), health (70%)**, and other disciplines (3%), with varying levels of education.
 -   **More than half of the participants had a master's degree.** However, there were also participants with undergraduate degrees, doctoral degrees, and some who reported secondary or high school education.
@@ -170,7 +170,7 @@ Throughout these phases, the incorporation of a gender perspective has been addr
 
 -   The overall course rating in the pilot was **4.6 out of 5**.
 
--   The participation rate of women in our in-person and virtual training spaces has been emphasized, with a participation rate of over 60%.
+-   The participation rate of women in our in-person and virtual training spaces has been emphasised, with a participation rate of over 60%.
 
 ### **Implementation and Evaluation Phase**
 
