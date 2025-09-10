@@ -14,7 +14,7 @@ editor:
 ::: {.alert .alert-secondary}
 ### NOTICIAS: {.unnumbered}
 
-#### Estamos realizando la traducción y adaptación de cinco unidades del Epi Training Kit a inglés y francés, ajustadas al contexto africano. Para más información, visita los siguientes enlaces:  [sitio web del proyecto ](https://epiverse-trace.github.io/translation-epitkit/) y  [sitio web de Epiverse Epidemiological Data Science Training for Africa](https://data.org/initiatives/epiverse/training-africa/course/).
+#### Estamos realizando la traducción y adaptación de cinco unidades del Epi-Training Kit a inglés y francés, ajustadas al contexto africano. Para más información, visita los siguientes enlaces:  [sitio web del proyecto ](https://epiverse-trace.github.io/translation-epitkit/) y  [sitio web de Epiverse Epidemiological Data Science Training for Africa](https://data.org/initiatives/epiverse/training-africa/course/).
 
 ### Inscripción a las unidades disponibles
 
@@ -24,12 +24,12 @@ Para acceder a las unidades disponibles, primero debe crear una cuenta en Atingi
 Una vez creada la cuenta, podrá utilizar los enlaces que aparecen en la tabla correspondiente para inscribirse directamente en cada curso.
 
 Para consultar instrucciones detalladas sobre el proceso de registro, visite:  
-[Step by step how to enroll on Atingi](https://epiverse-trace.github.io/translation-epitkit/#step-by-step-how-to-enroll-on-atingi)
+[Step by step how to enrol on Atingi](https://epiverse-trace.github.io/translation-epitkit/#step-by-step-how-to-enrol-on-atingi)
 
 | Idioma | Título de la unidad                                                          | Enlace                                                                 |
 |----------|----------------------------------------------------------------------------|----------------------------------------------------------------------|
-| English  | Introduction to Infectious Disease Modelling for Public Health            | [Enroll here](https://online.atingi.org/enrol/index.php?id=6015)     |
-| English  | General Epidemiology Applied to Infectious Diseases                       | [Enroll here](https://online.atingi.org/enrol/index.php?id=6121)     |
+| English  | Introduction to Infectious Disease Modelling for Public Health            | [Enrol here](https://online.atingi.org/enrol/index.php?id=6015)     |
+| English  | General Epidemiology Applied to Infectious Diseases                       | [Enrol here](https://online.atingi.org/enrol/index.php?id=6121)     |
 | English  | Introduction to Statistics and Probability                                | Coming soon                                                          |
 | English  | Parameters                                                                 | Coming soon                                                          |
 | English  | Building a Deterministic Model                                             | Coming soon                                                          |
@@ -79,7 +79,7 @@ Open Online Course"). Además, promueve la equidad de género en estos
 campos, garantizando un desarrollo más inclusivo y efectivo en la
 respuesta a emergencias de salud pública en la región.
 
-A partir de esta experiencia, y en reconocimiento de necesidades similares en otras partes del mundo, el año 2025, con el apoyo de data.org, marca el inicio de la traducción del Epi Training Kit al inglés y al francés, junto con su adaptación contextual para África. Esta iniciativa busca fortalecer las capacidades regionales mediante recursos educativos que no solo sean accesibles y multilingües, sino también fundamentados en los principios del localismo, asegurando que el contenido sea pertinente a las realidades culturales, lingüísticas y epidemiológicas de cada contexto. Asimismo, promueve la colaboración Sur-Sur, fomentando el intercambio de conocimientos y estrategias de entrenamiento entre América Latina, el Caribe y África.
+A partir de esta experiencia, y en reconocimiento de necesidades similares en otras partes del mundo, el año 2025, con el apoyo de data.org, marca el inicio de la traducción del Epi-Training Kit al inglés y al francés, junto con su adaptación contextual para África. Esta iniciativa busca fortalecer las capacidades regionales mediante recursos educativos que no solo sean accesibles y multilingües, sino también fundamentados en los principios del localismo, asegurando que el contenido sea pertinente a las realidades culturales, lingüísticas y epidemiológicas de cada contexto. Asimismo, promueve la colaboración Sur-Sur, fomentando el intercambio de conocimientos y estrategias de entrenamiento entre América Latina, el Caribe y África.
 
 ## **Objetivo**
 
