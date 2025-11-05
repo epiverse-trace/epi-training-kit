@@ -233,8 +233,7 @@ Infecciosas'** [(Ver demo del
 curso)](https://www.youtube.com/watch?v=p1R1HImGFgw) en la plataforma de
 cursos abiertos masivos en línea, basada en software de código abierto,
 edX Edge. Esta fase se desarrolló entre noviembre y diciembre de 2023.
-En total participaron **223 personas de 16 países de América Latina y el
-Caribe**, de los cuales el 57% completó exitosamente el curso. Este
+En total participaron **223 personas de 16 países, de los cuales 14 son de América Latina y el Caribe**, de los cuales el 57% completó exitosamente el curso. Este
 piloto permitió evaluar el contenido, los recursos educativos, la
 experiencia de aprendizaje, los objetivos de aprendizaje, y la
 interacción con la plataforma.
