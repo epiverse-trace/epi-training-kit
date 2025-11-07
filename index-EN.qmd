@@ -162,7 +162,7 @@ Throughout these phases, the incorporation of a gender perspective has been addr
 
 ### **Pilot Phase**
 
--   In November 2023, the first pilot of the massive open online course titled 'Course in Data Science in Public Health and Infectious Disease Modeling' was conducted on the open-source online learning platform edX Edge, with over 200 participants from 16 different countries in Latin America and the Caribbean.
+-   In November 2023, the first pilot of the massive open online course titled 'Course in Data Science in Public Health and Infectious Disease Modeling' was conducted on the open-source online learning platform edX Edge, with over 200 participants from 16 countries, 14 of which are in Latin America and the Caribbean.
 
 -   The coding of qualitative data from the pilot resulted in several key findings, including the **clarity, organization, and relevance of the course content, as well as the effectiveness of practical exercises and the diversity of educational resources**. Challenges such as access barriers were also identified, suggesting areas for improvement, particularly in the inclusion of regional contexts.
 
